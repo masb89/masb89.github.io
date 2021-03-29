@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Auteurs on Marion Clair | Consultante en rangement</title>
-    <link>http://marionclair.com/auteur/</link>
+    <link>https://marionclair.com/auteur/</link>
     <description>Recent content in Auteurs on Marion Clair | Consultante en rangement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <copyright>Thème adapté de &amp;copy;&lt;a href=&#39;https://github.com/themefisher/airspace-hugo&#39; target=&#39;_blank&#39;&gt;ThemeFisher&lt;/a&gt;. Tous droits réservés, 2021</copyright><atom:link href="http://marionclair.com/auteur/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Thème adapté de &amp;copy;&lt;a href=&#39;https://github.com/themefisher/airspace-hugo&#39; target=&#39;_blank&#39;&gt;ThemeFisher&lt;/a&gt;. Tous droits réservés, 2021</copyright><atom:link href="https://marionclair.com/auteur/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>John Doe</title>
-      <link>http://marionclair.com/auteur/john-doe/</link>
+      <link>https://marionclair.com/auteur/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://marionclair.com/auteur/john-doe/</guid>
+      <guid>https://marionclair.com/auteur/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
     
     <item>
       <title>Mark Dinn</title>
-      <link>http://marionclair.com/auteur/mark-dinn/</link>
+      <link>https://marionclair.com/auteur/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://marionclair.com/auteur/mark-dinn/</guid>
+      <guid>https://marionclair.com/auteur/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
     
