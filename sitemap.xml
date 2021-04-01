@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.marionclair.com/categories/</loc>
+    <lastmod>2021-03-29T11:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.marionclair.com/blog/ces-photos-numeriques-qui-nous-encombrent/</loc>
     <lastmod>2021-03-29T11:00:00+00:00</lastmod>
   </url><url>
@@ -11,8 +14,14 @@
     <loc>https://www.marionclair.com/</loc>
     <lastmod>2021-03-29T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.marionclair.com/categories/</loc>
-    <lastmod>2021-03-14T23:00:00+00:00</lastmod>
+    <loc>https://www.marionclair.com/tags/photos/</loc>
+    <lastmod>2021-03-29T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.marionclair.com/tags/</loc>
+    <lastmod>2021-03-29T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.marionclair.com/categories/tri/</loc>
+    <lastmod>2021-03-29T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.marionclair.com/categories/concept/</loc>
     <lastmod>2021-03-14T23:00:00+00:00</lastmod>
@@ -21,12 +30,6 @@
     <lastmod>2021-03-14T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.marionclair.com/blog/qui-est-marie-kondo-et-pourquoi-je-n-applique-pas-sa-methode/</loc>
-    <lastmod>2021-03-14T23:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.marionclair.com/tags/</loc>
-    <lastmod>2021-03-14T23:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.marionclair.com/categories/tri/</loc>
     <lastmod>2021-03-14T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.marionclair.com/blog/comment-faire-du-home-stage-concretement/</loc>
