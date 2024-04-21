@@ -7,76 +7,47 @@ url = ""
 weight = 1
 
 [[main]]
+URL = "apropos"
 name = "À propos"
-url = "about/"
 weight = 2
 
 [[main]]
-name = "Projet"
-url = "project/"
+URL = "galerie"
+name = "Galerie"
 weight = 3
 
 [[main]]
+URL = "blog"
 name = "Blog"
-url = "blog/"
 weight = 4
 
 [[main]]
-weight = 5
-name = "Plus"
-hasChildren = true
+URL = "prestations"
+name = "Prestations"
+weight = "5"
 
-  [[main]]
-  parent = "Plus"
-  name = "Service"
-  url = "service/"
-  weight = 1
-
-  [[main]]
-  parent = "Plus"
-  name = "Tarification"
-  url = "pricing/"
-  weight = 2
-
-  [[main]]
-  parent = "Plus"
-  name = "Questions fréquentes"
-  url = "faq/"
-  weight = 3
-  
 [[main]]
+URL = "contact"
 name = "Contact"
-url = "contact/"
-weight = 6
-
+weight = "6"
 
 # footer menu
 [[footer]]
+URL = "apropos"
 name = "À propos"
-url = "about/"
-weight = 2
+weight = 1
 
 [[footer]]
-name = "Projet"
-url = "project/"
+URL = "galerie"
+name = "Galerie"
+weight = "2"
+
+[[footer]]
+URL = "prestations"
+name = "Prestations"
 weight = 3
 
 [[footer]]
-name = "Service"
-url = "service/"
-weight = 4
-
-[[footer]]
-name = "Tarification"
-url = "pricing/"
-weight = 5
-
-[[footer]]
-name = "Questions fréquentes"
-url = "faq/"
-weight = 6
-
-[[footer]]
+URL = "contact"
 name = "Contact"
-url = "contact/"
-weight = 7
+weight = "4"
