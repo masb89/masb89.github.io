@@ -1,5 +1,5 @@
 ################ French language ##################
-defaultContentLanguage: fr
+defaultContentLanguage = 'fr'
 [fr]
 languageName = "Français"
 languageCode = "fr-FR"
