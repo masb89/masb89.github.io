@@ -1,0 +1,103 @@
+/*=================================================================
+  Pricing section
+==================================================================*/
+
+.pourquoi-grostitle {
+    padding: 0px 50px 30px;
+    margin-top:-70px;
+
+    h1 {
+        text-align:left;
+        letter-spacing: 0px;
+        font-weight: 500;
+        margin: 0 0 0px;
+        font-size:20px;
+        color:  $black;//darken($primary-color,15%);
+        
+        text-transform: uppercase;
+    }
+    h2 {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    text-align:center;
+    //text-shadow: 1px 1px lighten($primary-color,30%);
+  }
+
+  p {
+    font-style: italic;
+    color: #666;
+    font-family: $secondary-font;
+  }
+}
+.pourquoi-table {
+  
+
+  .pourquoi-item {
+      padding: 30px 20px;
+      background: $light;
+      //background: lighten($primary-color,10);
+      //background:linear-gradient(180deg,
+      //                lighten($primary-color,5%) 62%,
+      //                $primary-color 38%);
+      box-shadow: 0 8px 15px 0 rgba(5, 57, 106, .06);
+      img {
+          width: 100%;
+          border-radius: 50%;
+          padding: 10px 60px;
+          position: relative;
+          top: 0;
+          transition: top ease 0.5s;
+      }
+      
+    i {
+      font-size: 100px;
+      color: $primary-color;
+      //color: #fff;
+    }
+    a.btn-main {
+      text-transform: uppercase;
+      margin-top: 20px;
+    }
+
+    li {
+      font-weight: 400;
+      padding: 6px 0;
+      color: #666;
+
+    }
+  }
+  .pourquoi-item:hover img{
+              top:-10px
+  }
+  .pourquoi-item:hover a.btn{
+      background: darken($primary-color, 20%);
+  }
+
+  .pourquoi-title {
+    padding: 30px 20px 30px;
+
+    >h3 {
+        text-align:center;
+        letter-spacing: 2px;
+        color:$black;
+        font-weight: 300;
+        margin: 0 0 0px;
+        font-size: 17px;
+        //text-transform: uppercase;
+    }
+
+    >p {
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 18px;
+      margin-top: 5px;
+    }
+
+    .value {
+      color: $primary-color;
+      font-size: 30px;
+      padding: 10px 0;
+    }
+  }
+}

@@ -1,37 +1,38 @@
-.footer {
-  background: darken( $light, 1.5);
-  min-height: 205px;
+.footer{
+  background: #F5F5F5;
   text-align: center;
-  padding-top: 67px;
-  p {
+  padding-top: 48px;
+  padding-bottom: 55px;
+  p{
     font-size: 13px;
     line-height: 25px;
-    color: lighten( $black, 56.86274509803921 );
+    color: #919191;   
   }
-  a {
-    color: lighten( $black, 34.9 );
+  a{
+    color: #595959;
   }
-  .footer-menu {
+  .footer-manu{
     padding-bottom: 25px;
-    ul {
+    ul{
       margin: 0px;
       padding: 0px;
-      li {
+      li{
         display: inline-block;
         padding: 0px 20px;
-        a {
+        a{
           display: inline-block;
-          color: lighten( $black, 28.6 );
-          &:hover {
-            color: $black;
+          color: #494949;
+          &:hover{
+            color: #000;
           }
         }
       }
     }
   }
-  .copyright {
-    a {
-      font-weight: 600;
+  .copyright{
+    font-size:11px;
+    a{
+      font-weight: 400;
     }
   }
 }

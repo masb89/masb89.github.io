@@ -8,7 +8,7 @@
       margin: 0px;
 
       .form-control {
-        background: darken( $light, 0.392);
+        background: #F6F8FA;
         height: 60px;
         border: 1px solid #EEF2F6;
         box-shadow: none;
@@ -20,7 +20,7 @@
       margin-bottom: 13px;
 
       textarea {
-        background: darken( $light, 0.392);
+        background: #F6F8FA;
         height: 135px;
         border: 1px solid #EEF2F6;
         box-shadow: none;
@@ -28,16 +28,12 @@
       }
     }
 
-    .form-group-h {
-      display: none;
-    }
-
     button {
       width: 100%;
       height: 60px;
-      background: lighten( $black, 27.84);
+      background: #47424C;
       border: none;
-      color: $white;
+      color: #fff;
       font-size: 18px;
     }
   }
@@ -45,23 +41,14 @@
 
 
 .address-block {
-  margin-bottom: 40px;
-
   li {
-    position: relative;
-    padding-left: 30px;
     margin-bottom: 10px;
 
-    i {
-      position: absolute;
-      left: 0;
+    ion-icon {
+        margin-right: 15px;
+        margin-bottom:-5px;
       font-size: 20px;
-      line-height: 20px;
-    }
-
-    div {
-      display: inline-block;
-      vertical-align: top;
+      width: 20px;
     }
   }
 }
@@ -79,7 +66,7 @@
     display: inline-block;
   }
 
-  i {
+  ion-icon {
     color: #2C2C2C;
     margin-right: 25px;
     font-size: 25px;
@@ -112,7 +99,7 @@
     }
 
     p {
-      color: lighten( $black, 36.07);
+      color: #5C5C5C;
       display: block;
     }
 

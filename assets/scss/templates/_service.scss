@@ -1,69 +1,119 @@
 .service {
   text-align: center;
-  padding: 90px 0;
-
-  @include tablet {
-    padding-top: 20px;
-    padding-bottom: 20px;
-  }
+  padding: 50px 0;
 
   .service-item {
     padding-bottom: 30px;
 
-    i {
+    ion-icon {
       font-size: 50px;
-      color: $color-primary;
+      color: $primary-color;
+
+    }
+    
+    ion-icon.visible{
+        display:inline-block;
+    }
+    ion-icon.hover{
+        display: none;
     }
 
     h4 {
-      padding-top: 15px;
+        padding: 15px ;//30px 0px 30px;
+      //padding-top: 15px;
       margin: 0;
-      margin-top: 10px;
       font-weight: 500;
       text-transform: uppercase;
+      font-size:15px;
     }
 
     p {
-      padding-top: 10px;
-      margin: 0;
+        padding: 10px ;//30px 0px 30px;;
+        margin: 0;
     }
+  }
+  
+  .service-item:hover{
+      ion-icon.hover{
+          display:inline-block;
+      }
+      ion-icon.visible{
+          display:none;
+      }
+      h4{
+          font-weight:600;
+      }
   }
 }
 
 .dark-service {
+  padding: 10px 0;
+  margin-top:-50px;
+  
   .title {
-    color: $white;
+      color: $light;
+    h2 {
+        font-weight:400;
+        letter-spacing: 2px;
+        word-spacing:5px;
+        font-size:22px;
+    }
   }
+  
 
   .service-item {
     padding-bottom: 30px;
     text-align: center;
 
-    i {
-      color: $white;
-      font-size: 40px;
-      margin-bottom: 10px;
+    ion-icon {
+        font-size: 50px;
+        padding-top:10px;
+        padding-bottom:10px;
+        --ionicon-stroke-width: 20px;
+      color: $light;
+    }
+    
+    ion-icon.visible{
+        display:inline-block;
+    }
+    ion-icon.hover{
+        display: none;
     }
 
     h4 {
-      color: $white;
-      padding-top: 15px;
+      color: $light;
+      padding-top: 25px;
       margin: 0;
-      margin-top: 10px;
-      font-weight: 500;
+      font-weight: 400;
       text-transform: uppercase;
     }
 
     p {
-      padding-top: 10px;
+      padding-top: 15px;
       margin: 0;
+      color: $light;
     }
+
+
+  }
+
+  .service-item:hover{
+      ion-icon.hover{
+          display:inline-block;
+      }
+      ion-icon.visible{
+          display:none;
+      }
+      h4{
+          font-weight:600;
+      }
   }
 }
 
 .service-about {
   p {
     line-height: 28px;
+    text-align:justify;
   }
 }
 
@@ -80,7 +130,7 @@
     }
 
     p {
-      color: $white;
+      color: $light;
     }
   }
 }
@@ -92,6 +142,6 @@
   .block {
     padding: 30px;
     margin-bottom: 20px;
-    background: $white;
+    background: $light;
   }
 }

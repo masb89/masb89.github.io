@@ -1,0 +1,90 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ $data := index site.Data site.Language.Lang }}
+
+
+{{ with $data.prestations.services }}
+<section class="service">
+  <div class="container">
+    <div class="row">
+      <div class="section-title">
+        <h2>{{ .title | markdownify }}</h2>
+        <p>{{ .description | markdownify }}</p>
+      </div>
+    </div>
+    <div class="row">
+      {{ $.Scratch.Set "counter" 0 }}
+      {{ range .service_item }}
+      {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+      <div class="col-sm-6 col-md-4">
+        <div class="service-item">
+          {{ $time := 5 }}
+          {{ $num := (mul $time ($.Scratch.Get "counter")) }}
+          
+          <ion-icon name="{{ .icon }}" class="visible"></ion-icon>
+          <ion-icon name="{{ .iconhover }}" class="hover"></ion-icon>
+        <h4>{{ .name | markdownify }}</h4>
+          <p>{{ .content | markdownify }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+
+{{ if $data.prestations.intro.enable }}
+{{ with $data.prestations.intro }}
+<section class="service-about section bg-primary-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h2>{{ .title | markdownify }}</h2>
+        <p class="mt-30">{{ .content | markdownify }}</p>
+      </div>
+      <div class="col-md-6">
+        <img class="img-responsive" src="{{ .image | absURL }}">
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+
+
+{{ if $data.prestations.prix.enable }}
+{{ with $data.prestations.prix }}
+<section class="pricing-table section bg-gray">
+  <div class="container">
+    <div class="row">
+      <!-- single pricing table -->
+      {{ range .pricing_table }}
+      <div class="col-md-3 col-sm-6 col-xs-8">
+        <div class="pricing-item text-center">
+          <div class="price-title">
+            <h3>{{ .name }}</h3>
+            <strong class="value">{{ .price }}</strong>
+            <p>{{ .content | markdownify }}</p>
+          </div>
+          <ul>
+            {{ range .services }}
+            <li>{{ . | markdownify }}</li>
+            {{ end }}
+          </ul>
+          <a class="btn btn-small" href="{{ .link | safeURL }}">{{ i18n "buy_now" }}</a>
+        </div>
+      </div>
+      {{ end }}
+      <!-- end single pricing table -->
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+
+{{ end }}

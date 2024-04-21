@@ -1,17 +1,21 @@
 {{ define "main" }}
 
+{{ $data := index site.Data site.Language.Lang }}
+
 <!-- banner -->
-{{ with .Params.banner }}
-{{ if .enable }}
-<section class="slider {{ if .bg_overlay }}overly{{ end }}" style="background-image: url('{{ .bg_image | relURL }}');">
+{{ if $data.accueil.banniere.enable }}
+{{ with $data.accueil.banniere }}
+<section class="slider {{if .bg_overlay}}overly{{end}}" style="background-image: url('{{ .bg_image | absURL }}');">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          {{ with .title }}<h1>{{ . | markdownify }}</h1>{{ end }}
-          {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+          <!--<h1>{{ .title | markdownify }}</h1>-->
+          <h1b>{{ .titre | markdownify }}</h1b>
+          <h1t>{{ .soustitre | markdownify }}</h1t>
+          <p>{{ .content | markdownify }}</p>
+          {{ if .button.enable }}
           {{ with .button }}
-          {{ if .enable }}
           <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp">{{ .label }}</a>
           {{ end }}
           {{ end }}
@@ -24,19 +28,19 @@
 {{ end }}
 <!-- /banner -->
 
+{{ if $data.accueil.paragraphe1.enable }}
+{{ with $data.accueil.paragraphe1 }}
 <!-- about -->
-{{ with .Params.about }}
-{{ if .enable }}
 <section class="about section">
   <div class="container">
     <div class="row">
       <div class="col-md-7 col-sm-12">
         <div class="block">
           <div class="section-title">
-            {{ with .title }}<h2>{{ . | markdownify }}</h2>{{ end }}
-            {{ with .description }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+            <h2 style="font-size:20px;">{{ .title | markdownify }}</h2>
+            <!--<p>{{ .description | markdownify }}</p>-->
           </div>
-          {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+          <p>{{ .content | markdownify }}</p>
         </div>
       </div>
       <div class="col-md-5 col-sm-12">
@@ -47,90 +51,65 @@
     </div>
   </div>
 </section>
-{{ end }}
-{{ end }}
 <!-- /about -->
+{{ end }}
+{{ end }}
 
+{{ if $data.accueil.pourquoi.enable }}
+{{ with $data.accueil.pourquoi }}
+<section class="pourquoi-table section bg-gray">
+  <div class="container">
+    <div class="row">
+      <div class="pourquoi-grostitle">
+        <h2>{{ .pourquoi_titre | markdownify }}</h2>
+      </div>
+      <!-- single pourquoi table -->
+      {{ range .pourquoi_table }}
+      <a  href="{{ .link | safeURL }}">
+      <div class="col-md-4 col-sm-7 col-xs-8">
+        <div class="pourquoi-item text-center">
+          <div class="block">
+            <img src="{{ .bg_image | relURL }}" class="img-responsive" alt="Img">
+          </div>
+          <div class="pourquoi-title">
+            <h3>{{ .titre }}</h3>
+          </div>
+          <a class="btn btn-small" href="{{ .link | safeURL }}">En savoir +</a>
+        </div>
+      </div>
+      </a>
+      {{ end }}
+      <!-- end single pricing table -->
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+
+{{ if $data.accueil.paragraphe2.enable }}
+{{ with $data.accueil.paragraphe2 }}
 <!-- portfolio -->
-{{ with .Params.portfolio }}
-{{ if .enable }}
-<section class="feature bg-2" style="background-image: url('{{ .bg_image | relURL }}')">
+<section class="feature bg-2" style="background-image: url('{{ .bg_image | absURL}}')">
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-md-offset-6">
-        {{ with .title }}<h2 class="section-subtitle">{{ . | markdownify }}</h2>{{ end }}
-        {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        <h2 class="section-subtitle">{{ .title | markdownify }}</h2>
+        <p>{{ .content | markdownify }}</p>
+        {{ if .button.enable }}
         {{ with .button }}
-        {{ if .enable }}
-        <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}</a>
+        <a href="{{ .link | relLangURL }}" class="btn btn-small animated fadeInUp">{{ .label }}</a>
         {{ end }}
         {{ end }}
       </div>
     </div>
   </div>
 </section>
-{{ end }}
-{{ end }}
 <!-- /portfolio -->
+{{ end }}
+{{ end }}
 
-<!-- service -->
-{{ if .Params.service.enable }}
-{{ partial "service.html" . }}
-{{ end }}
-<!-- /service -->
 
-<!-- call to action -->
-{{ if .Params.cta.enable }}
-{{ partial "cta.html" . }}
-{{ end }}
-<!-- /call to action -->
+{{ end}}
 
-<!-- funfacts -->
-{{ with .Params.funfacts }}
-{{ if .enable }}
-<section class="testimonial">
-  <div class="container">
-    <div class="row">
-      <div class="section-title text-center">
-        {{ with .title }}<h2>{{ . | markdownify }}</h2>{{ end }}
-        {{ with .description }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6">
-        <div class="block">
-          <ul class="counter-box clearfix">
-            {{ range .funfact_item }}
-            <li class="counter-item">
-              <i class="{{ .icon }}"></i>
-              <h4 class="count" data-count="{{ .count }}">0</h4>
-              <span>{{ .name | markdownify }}</span>
-            </li>
-            {{ end }}
-          </ul>
-        </div>
-      </div>
-      <div class="col-md-5 col-md-offset-1">
-        <div class="testimonial-carousel text-center">
-          <div class="testimonial-slider owl-carousel">
-            {{ range .testimonial_slider }}
-            <div>
-              <i class="fas fa-quote-left"></i>
-              {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
-              <div class="user">
-                <img src="{{ .image | relURL }}" alt="client">
-                <p><span>{{ .name | markdownify }}</span> {{ .designation | markdownify }}</p>
-              </div>
-            </div>
-            {{ end }}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-<!-- /funfacts -->
 
-{{ end }}

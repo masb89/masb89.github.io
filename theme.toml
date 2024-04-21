@@ -3,12 +3,11 @@
 name = "Airspace Hugo"
 license = "MIT"
 licenselink = "https://github.com/themefisher/airspace-hugo/blob/master/LICENSE"
-description = "Airspace is a Hugo theme built for multipurpose use, like Portfolio, Blog, Business."
+description = "Hugo port of the Themefisher’s Airspace theme"
 homepage = "https://gethugothemes.com/products/airspace-hugo-theme/"
-demosite = "https://demo.gethugothemes.com/airspace/"
 tags = ["blog",'google-analytics', 'fast', 'modern', 'minimal', 'minimalistic', 'business', 'agency-template', 'white', 'light', 'multilingual', "bootstrap", "company", "portfolio", "projects", "responsive", "themefisher", "gethugothemes"]
 features = ["blog", "company", "responsive", "seo-friendly"]
-min_version = "0.115.1"
+min_version = "0.64.0"
 
 [author]
   name = "Themefisher"

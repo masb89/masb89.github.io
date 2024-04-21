@@ -1,14 +1,15 @@
-// Fonts
+// Fonts 
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:300,400,500,600);
 @import url(https://fonts.googleapis.com/css?family=Volkhov:400italic);
+@import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
 
 
 
 
 body {
   line-height: 1.5;
-  font-family: $font-primary;
+  font-family: $primary-font;
   -webkit-font-smoothing: antialiased;
 
 }
@@ -19,7 +20,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $font-primary;
+  font-family: $primary-font;
 }
 
 h1,
@@ -32,39 +33,23 @@ h6 {
 }
 
 h1 {
-  font-size: $h1;
-
-  @include tablet {
-    font-size: $h1-md;
-  }
-
-  @include mobile {
-    font-size: $h2;
-  }
-
-  @include mobile-xs {
-    font-size: $h2-md;
-  }
+  font-size: 40px;
 }
 
 h2 {
-  font-size: $h2;
-
-  @include mobile {
-    font-size: $h2-sm;
-  }
+  font-size: 28px;
 }
 
 h3 {
-  font-size: $h3;
+  font-size: 20px;
 }
 
 h4 {
-  font-size: $h4;
+  font-size: 18px;
 }
 
 p {
-  color: darken( $light, 49.41);
-  font-size: $font-size;
-  font-family: $font-primary;
+  color: #7B7B7B;
+  font-size: 15px;
+  font-family: $primary-font;
 }

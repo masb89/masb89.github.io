@@ -3,16 +3,13 @@
 ==================================================================*/
 
 .blog {
-  background: darken( $light, 1.17);
+  background: #F6F6F6;
 }
 
 .post {
-  background: $white;
-  margin-bottom: 55px;
-
-  @include tablet {
-    margin-bottom: 20px;
-  }
+  background: $light;
+  margin-bottom: 40px;
+  padding-bottom: 20px;
 
   .post-media {
     &.post-thumb {
@@ -30,14 +27,15 @@
   }
 
   .post-title {
-    margin-top: 25px;
+    margin-top: 10px;
+    margin: 25px 0 0;
     text-transform: uppercase;
 
     a {
-      color: $color-primary;
+      color: $primary-color;
 
       &:hover {
-        color: $color-primary;
+        color: $primary-color;
       }
     }
   }
@@ -49,16 +47,16 @@
     ul {
       li {
         display: inline-block;
-        color: lighten( $black, 56.47 );
+        color: #909090;
         margin-right: 20px;
         font-size: 12px;
         letter-spacing: .5px;
 
         a {
-          color: lighten( $black, 56.47 );
+          color: #909090;
 
           &:hover {
-            color: $color-primary;
+            color: $primary-color;
           }
         }
       }
@@ -74,27 +72,36 @@
 
     p {
       line-height: 26px;
+      text-align:justify;
     }
 
     ul {
       font-size: 15px;
       padding: 10px 20px;
-      font-family: $font-primary;
+      font-family: $primary-font;
       list-style: circle;
     }
     ol {
       font-size: 15px;
       padding: 10px 20px;
-      font-family: $font-primary;
+      font-family: $primary-font;
     }
 
     blockquote {
-      margin-top: 20px;
+        margin-top: 20px;
+        margin-left:30px;
       font-size: 18px;
-      border-color: $color-primary;
+      border-color: $primary-color;
       padding: 10px 20px;
-      text-align: left;
-      color: darken( $light, 50.98);
+      padding-right:100px;
+      text-align: justify;
+      
+      color: #777;
+      p {
+          font-size:14px;
+          margin: 0 0 10px;
+          text-align: justify;
+      }
     }
 
     .btn-main {
@@ -103,18 +110,18 @@
       font-size: 12px;
     }
   }
+  
+  
+  .footnotes{              
+      li, p{                
+          font-size: 13px; 
+      }                    
+  }                        
+  
 }
 
 .post-pagination {
-  margin: 0px;
-
-  @include desktop {
-    margin-bottom: 60px;
-  }
-
-  @include tablet {
-    margin-bottom: 25px;
-  }
+  margin-top: 70px;
 
   >li {
     margin: 0 2px;
@@ -126,15 +133,15 @@
       @include transition (all, 0.3s, ease);
 
       &:hover {
-        color: $white;
-        background: $color-primary;
-        border: 1px solid $color-primary;
+        color: $light;
+        background: $primary-color;
+        border: 1px solid $primary-color;
       }
     }
 
     &.active>a {
-      background: $color-primary !important;
-      border: 1px solid $color-primary !important;
+      background: $primary-color !important;
+      border: 1px solid $primary-color !important;
     }
   }
 

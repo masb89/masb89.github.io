@@ -7,14 +7,6 @@
   transition: $what $time $how;
 }
 
-@mixin transition-multi($x...){
-  -webkit-transition: $x;
-  -moz-transition: $x;
-  -ms-transition: $x;
-  -o-transition: $x;
-  transition: $x;
-}
-
 // Transform
 @mixin transform($transforms) {
   -moz-transform: $transforms;
