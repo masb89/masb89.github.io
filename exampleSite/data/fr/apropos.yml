@@ -1,0 +1,135 @@
+---
+quisuisje:
+  enable: true
+  image: "/images/mcportrait.jpg"
+  title: Qui suis-je ?
+  content: Lyonnaise d'adoption depuis dix ans, c'est en venant terminer mon master
+    universitaire que je m’y suis définitivement installée. Diplômée en sociologie,
+    psycho-sociologie et histoire, l'humain a toujours été au cœur de mes intérêts.
+    À côté des études, ranger et réagencer étaient mon passe-temps favori et j’étais
+    sollicitée par mes amis et ma famille pour mes compétences de tri et d’organisation.
+    C’est en 2015, lorsque l’essor du métier a commencé grâce à la traduction française
+    de *The Magic of Tidying-up* de Marie Kondo que faire de ma passion un métier
+    s’est révélé comme une évidence. Mes compétences complémentaires avec d’une part,
+    les sciences humaines et d’autre part, ma capacité à voir le potentiel d’un espace
+    intérieur, me permettent d’être une source de motivation et de soutien sans faille
+    dans vos projets et vos idées.
+  button:
+    enable: false
+    label: Download Company Profile
+    link: "#"
+  funfacts: []
+valeurs:
+  enable: true
+  title: Mes valeurs
+  feature_item:
+  - icon: chatbubbles-outline
+    iconhover: chatbubbles
+    name: Écoute
+    content: Je suis attentive à vos besoins, </br>pour former une équipe de qualité
+  - icon: sparkles-outline
+    iconhover: sparkles
+    name: Exigence
+    content: 'Je m''engage à m''investir et vous </br>pousser à obtenir le meilleur
+      résultat '
+  - icon: document-lock-outline
+    iconhover: document-lock
+    name: Confiance
+    content: Je travaille avec vous avec discrétion et confidentialité
+testimonial:
+  enable: true
+  testimonial_slider:
+  - name: Christophe André
+    image: ''
+    designation: Médecin psychiatre et auteur
+    content: La légèreté vaut mieux que la pesanteur, la liberté vaut mieux que la
+      servitude.
+  - name: Gail Steketee
+    image: ''
+    designation: 'Docteure en psychologie cognitive '
+    content: "Il est clair qu’en tant qu’êtres humains, on a un fort attachement,
+      au début de notre vie, envers les gens qui prennent soin de nous. Parfois, on
+      dirait que cet attachement se transfère aux objets, comme s’ils étaient aussi
+      importants que les gens. Je ne crois pas qu’on ait une belle relation avec les
+      choses. \n"
+  - name: Henry David Thoreau
+    image: ''
+    designation: Philosophe
+    content: "Un homme est riche des choses dont il peut se passer. \n"
+  - name: Rick Hanson
+    image: ''
+    designation: Docteur en psychologie
+    content: 'Je crois qu’on ne peut jamais avoir assez de ce qu’on ne veut pas vraiment.
+      En d’autres termes, au fond, on ne veut pas plus de biens, de jouets, de voitures,
+      on veut ce qu’ils vont nous apporter. On veut se sentir complet, satisfait. '
+  - name: Marie Kondō
+    image: ''
+    designation: 'Consultante en rangement '
+    content: "Nos affaires illustrent avec une grande précision l'historique des décisions
+      que nous avons prises dans notre vie. \n"
+  - name: Ludwig Wittgenstein
+    image: ''
+    designation: Philosophe et mathématicien
+    content: "La simplicité est le sceau de la vérité. \n"
+  - name: Juliet Schor
+    image: ''
+    designation: Sociologue et économiste
+    content: "On est trop matérialistes dans le sens courant du mot. Mais on ne l’est
+      pas assez dans le sens véritable du mot. Il faut être de vrais matérialistes,
+      se soucier vraiment des choses que l’on possède. Au lieu de ça, on vit dans
+      un monde où les biens matériels sont très importants en raison de leur signification
+      symbolique, du statut qu’ils nous permettent d’avoir, d’après la publicité ou
+      le marketing de chaque produit. \n"
+  - name: René Char
+    image: ''
+    designation: Poète et résistant
+    content: "L’essentiel est sans cesse menacé par l’insignifiant. \n"
+  - name: Ludwig Mies van der Rohe
+    image: ''
+    designation: Architecte
+    content: 'Less is more. '
+mission_vision:
+  enable: true
+  tabs:
+  - name: Bibliographie
+    publications:
+    - auteur: Dornfest Asha & Koh Christine
+      titre: Minimalist Parenting
+    - auteur: Fields Millburn Joshua & Nicodemus Ryan
+      titre: 'Everything That Remains | Love People, Use Things : The Opposite Never
+        Works'
+    - auteur: Fortin Cary & Quilici Kyle
+      titre: New minimalism
+    - auteur: Harris Dan
+      titre: 10% Happier
+    - auteur: Kondō Marie
+      titre: 'La magie du rangement | Ranger : l’étincelle du bonheur'
+    - auteur: Loreau Dominique
+      titre: L'art de la simplicité ; simplifier sa vie, c'est l'enrichir | L'art
+        de l'essentiel
+    - auteur: Newton Anna
+      titre: An Edited Life
+    - auteur: Rhone Patrick
+      titre: Enough
+    - auteur: Sasaki Fumio
+      titre: L’essentiel, et rien d’autre
+    - auteur: Yamashita Hideko
+      titre: 'Dan-sha-ri : l’art du rangement'
+  - name: Médiagraphie
+    publications:
+    - auteur: Becker Joshua
+      titre: Becoming Minimalist
+    - auteur: Carver Courtney
+      titre: Be More with Less
+    - auteur: Fields Millburn Joshua & Nicodemus Ryan
+      titre: 'podcasts '
+    - auteur: Larsson Benita
+      titre: chaîne YouTube
+    - auteur: Rector Caroline Joy
+      titre: Un-fancy
+    - auteur: Netflix
+      titre: 'The Minimalists : Less Is Now'
+    - auteur: Netflix
+      titre: 'Minimalism : A Documentary About the Important Things'
+    - auteur: Williams Jessica Rose
+      titre: articles de blog

@@ -1,0 +1,101 @@
+---
+intro:
+  enable: true
+  title: Comment ça se passe ?
+  content: "Une fois que vous m’avez contactée par mail, je reviens vers vous, par
+    e-mail ou téléphone selon votre préférence, pour que l’on détermine vos besoins
+    et vos attentes. \nC’est l’occasion pour moi de me faire une première idée des
+    possibilités (surface à travailler, votre disponibilité, <i>etc.</i>). On fixe
+    ensuite le rendez-vous diagnostic, et c’est parti ! \n\nSi vous avez la moindre
+    question, n’hésitez pas à me contacter.\n"
+  image: images/cartonblanc.png
+tripleatouts:
+  enable: false
+  service_item:
+  - name: Adaptabilité
+    icon: ion-erlenmeyer-flask
+    color: primary
+    content: Vous donner confiance en votre instinct pour avancer vite et bien
+  - name: Bienveillance
+    icon: ion-leaf
+    color: primary-dark
+    content: Je suis là pour que vous osiez sortir de votre zone de confort et puissiez
+      respirer à nouveau
+  - name: Accompagnement
+    icon: ion-lightbulb
+    color: primary-darker
+    content: Un deux trois quatre cinq six sept
+services:
+  enable: true
+  title: Un service adapté à votre situation
+  description: ''
+  service_item:
+  - icon: home-outline
+    iconhover: home
+    name: 'Être bien chez soi '
+    content: Si vous triez pour la première fois et </br>ne savez pas comment vous
+      y prendre
+  - icon: image-outline
+    iconhover: image
+    name: Home Staging
+    content: Pour préparer votre bien à la vente </br>ou retrouver l'harmonie
+  - icon: storefront-outline
+    iconhover: storefront
+    name: Boutique et atelier
+    content: Vous êtes artisan et avez besoin de </br>réorganiser votre espace de
+      travail
+  - icon: compass-outline
+    iconhover: compass
+    name: Après le deuil
+    content: Faire évoluer son espace de vie après un deuil est une étape difficile.
+      Je suis là pour vous épauler
+  - icon: cube-outline
+    iconhover: cube
+    name: Déménagement
+    content: Source de stress bien connue, une bonne préparation permet de vivre cette
+      étape sereinement
+  - icon: leaf-outline
+    iconhover: leaf
+    name: Syllogomanie et Diogène
+    content: Sensible à ces pathologies, j'accompagne votre proche pour lui permettre
+      de retrouver un espace sain
+prix:
+  enable: true
+  pricing_table:
+  - name: Diagnostic
+    price: 60€
+    content: Une première rencontre pour évaluer vos besoins et discuter des meilleures
+      solutions adaptées à votre profil.
+    link: "#"
+    services:
+    - Un entretien téléphonique pour préparer la visite
+    - Une visite d'environ 1h pour évaluer les besoins
+    - Un retour complet avec les solutions que je vous propose et un devis si nécessaire
+  - name: Pour les particuliers
+    price: Dès 60€/h
+    content: Suite au diagnostic, je vous propose des forfaits adaptés à votre disponibilité.
+      Que ce soit pour un dressing ou plusieurs pièces.
+    link: contact
+    services:
+    - Une session tri et proposition de solutions pour continuer en autonomie
+    - Session de 2h pour une pièce/catégorie - 140€
+    - Session de 3h pour une pièce/catégorie - 210€
+    - Dégressif au-delà de 3 heures
+  - name: Pour les pros
+    price: Dès 90€/h
+    content: Service dédié aux professionnels.
+    link: contact
+    services:
+    - Rendez-vous échelonnés de façon hebdomadaire ou mensuelle pour s'adapter à votre
+      disponibilité
+    - Un tarif basé sur votre profil, artisan ou entreprise
+    - Un tarif dégressif dès 4 heures
+  - name: Tarif réduit & bénévolat
+    price: 30€/h maximum
+    content: Si vous êtes étudiant-e, non imposable ou au RSA. Nous méritons tous
+      un espace serein.
+    link: ''
+    services:
+    - Un entretien téléphonique pour définir vos besoins
+    - Une demi-journée hebdomadaire maximum
+    - Un compte-rendu complet pour vous permettre d'avancer en autonomie
