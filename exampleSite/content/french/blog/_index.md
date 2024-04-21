@@ -1,6 +1,6 @@
 ---
-title: "Latest News"
-description: "this is meta description"
-draft: false
-bg_image: "images/feature-bg.jpg"
+title: Le blog
+description: ''
+bg_image: "/images/fleursblanches.jpg"
+
 ---
