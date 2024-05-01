@@ -6,24 +6,18 @@ banniere:
   title: Un chat un chat
   titre: Un chat un chat
   soustitre: Association de protection animale 
-  content: <span style="color:#888">Familles d'accueil à Lyon</span>
+  content: <span style="color:#fff">Familles d'accueil à Lyon</span>
   button:
     enable: true
     label: Nous aider
     link: nousaider
 paragraphe1:
   enable: true
-  title: Pour vous aider à retrouver un espace rangé et organisé
+  title: Tout faire pour réduire la souffrance féline
   description: ''
-  content: "Il est aisé de confondre la notion d’organisation avec celle de rangement.
-    La première n’implique que du déplacement, là où la seconde nécessite un travail
-    de fond : le tri. <br/><br/>Grâce à mes services, vous serez accompagné·e dans
-    votre processus de rangement. Je suis là pour vous aider à distinguer ce qui est
-    essentiel pour vous de ce qui est superflu. Lorsque vous maîtriserez l’art du
-    rangement, l’organisation est ensuite un jeu d’enfant. Vous prenez confiance en
-    votre instinct en même temps que vous reprenez le pouvoir sur votre intérieur.</br></br>
-    Home organiser, coach ou consultante en rangement et désencombrement, experte
-    KonMari… Autant de dénominations que d’approches. Apte à appliquer les différentes
-    méthodes, la clé réside selon moi dans la personnalisation des outils.\n\n"
+  content: "La misère féline est souvent invisible et pourtant omniprésente ; en France le nombre de chats errants est estimé à 11 millions. La vie d'errance expose les animaux à la peur quotidienne, la faim, les maladies, les blessures et la cruauté humaine.<br/><br/>
+La stérilisation est la première solution pour endiguer cette souffrance, pour éviter la reproduction et donc multiplication des animaux errants. Pour les mâles, la castration permet de faire quasiment cesser les bagarres liées au territoire et les épargnent ainsi de nombreuses blessures.<br/><br/>
+Un chat un chat est une association sans refuge, qui prend en charge des chats laissés-pour-compte et les placent en familles d'accueil ; ils (re)découvrent le confort d'un foyer, peuvent être soignés en sécurité et sont ensuite placés à l'adoption.<br/><br/>
+C'est un système de sauvetage fragile qui repose entièrement sur le bénévolat et la responsabilité de ces familles d'accueil.\n\n"
   image: "/images/Trio-page-accueil.png"
 
