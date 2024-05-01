@@ -20,7 +20,7 @@
     h1 {
       //font-weight: 100;
       font-weight: 300;
-      color: $primary-color;
+      color: #ffffff;//$primary-color;
       font-size: 45px;
       line-height: 60px;
       letter-spacing: 10px;
@@ -29,10 +29,10 @@
     }
     h1b {
         //font-weight: 100;
-        font-family: $marionclair-font;
-        display:block;
+      font-family: "Playfair Display", serif;
+      display:block;
       font-weight: 300;
-      color: darken($primary-color,20%);
+      color: #ffffff;//darken($primary-color,20%);
       font-size: 45px;
       line-height: 60px;
       letter-spacing: 10px;
@@ -41,8 +41,9 @@
     }
     h1t {
       //font-weight: 100;
+      font-family: "Public Sans", sans-serif;
       font-weight: 300;
-      color: darken($primary-color,10%);
+      color: #ffffff;//darken($primary-color,10%);
       font-size: 35px;
       line-height: 60px;
       letter-spacing: 5px;
@@ -51,8 +52,9 @@
     }
 
     p {
+      font-family: "Public Sans", sans-serif;
       margin-bottom: 30px;
-      color: #888888;//#b9b9b9;
+      color: #ffffff;//#888888;//#b9b9b9;
       font-size: 18px;
       line-height: 27px;
       font-weight: 300;
