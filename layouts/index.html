@@ -12,12 +12,12 @@
         <div class="col-md-12">
           <div class="block">
             <!--<h1>{{ .title | markdownify }}</h1>-->
-            <h1b style="text-align:right;">{{ .titre | markdownify }}</h1b>
-            <h1t style="text-align:right;">{{ .soustitre | markdownify }}</h1t>
-            <p style="text-align:right;">{{ .content | markdownify }}</p>
+            <h1b>{{ .titre | markdownify }}</h1b>
+            <h1t>{{ .soustitre | markdownify }}</h1t>
+            <p>{{ .content | markdownify }}</p>
             {{ if .button.enable }}
             {{ with .button }}
-            <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp" style="float:right;">{{ .label }}</a>
+            <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp">{{ .label }}</a>
             {{ end }}
             {{ end }}
           </div>

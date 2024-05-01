@@ -36,5 +36,58 @@
 {{ end }}
 {{ end }}
 
+{{ if $data.nousaider.donner.enable }}
+{{ with $data.nousaider.donner }}
+<section class="service-about section bg-primary-light" id="donner">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h2>{{ .title | markdownify }}</h2>
+        <p class="mt-30">{{ .content | markdownify }}</p>
+      </div>
+      <div class="col-md-6">
+        <img class="img-responsive" src="{{ .image | absURL }}">
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+{{ if $data.nousaider.fa.enable }}
+{{ with $data.nousaider.fa }}
+<section class="service-about section bg-primary-light" id="fa">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h2>{{ .title | markdownify }}</h2>
+        <p class="mt-30">{{ .content | markdownify }}</p>
+      </div>
+      <div class="col-md-6">
+        <img class="img-responsive" src="{{ .image | absURL }}">
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+{{ if $data.nousaider.suivre.enable }}
+{{ with $data.nousaider.suivre }}
+<section class="service-about section bg-primary-light" id="suivre">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h2>{{ .title | markdownify }}</h2>
+        <p class="mt-30">{{ .content | markdownify }}</p>
+      </div>
+      <div class="col-md-6">
+        <img class="img-responsive" src="{{ .image | absURL }}">
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
 
 {{ end }}
