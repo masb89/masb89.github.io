@@ -101,7 +101,7 @@ prix:
     - Un compte-rendu complet pour vous permettre d'avancer en autonomie
 pourquoi:
   enable: true
-  pourquoi_titre: Nous aider
+  pourquoi_titre: Comment nous aider ?
   pourquoi_table:
   - titre: Faire un don
     bg_image: "/images/Donner.png"
