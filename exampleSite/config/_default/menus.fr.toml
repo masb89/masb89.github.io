@@ -7,19 +7,19 @@ url = ""
 weight = 1
 
 [[main]]
-URL = "galerie"
+URL = "nousaider"
+name = "Nous aider"
+weight = "2"
+
+[[main]]
+URL = "adoption"
 name = "Chats à l'adoption"
-weight = 2
+weight = 3
 
 [[main]]
 URL = "blog"
 name = "Blog"
-weight = 3
-
-[[main]]
-URL = "nousaider"
-name = "Nous aider"
-weight = "4"
+weight = 4
 
 [[main]]
 URL = "contact"
@@ -33,19 +33,19 @@ url = ""
 weight = 1
 
 [[footer]]
-URL = "galerie"
+URL = "nousaider"
+name = "Nous aider"
+weight = "2"
+
+[[footer]]
+URL = "adoption"
 name = "Chats à l'adoption"
-weight = 2
+weight = 3
 
 [[footer]]
 URL = "blog"
 name = "Blog"
-weight = 3
-
-[[footer]]
-URL = "nousaider"
-name = "Nous aider"
-weight = "4"
+weight = 4
 
 [[footer]]
 URL = "contact"

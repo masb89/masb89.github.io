@@ -6,7 +6,7 @@ banniere:
   title: Un chat un chat
   titre: UN CHAT UN CHAT
   soustitre: Association loi 1901 de protection animale 
-  content: <span style="color:#fff">Familles d'accueil à Lyon</span>
+  content: <span style="color:#fff">Sans refuge | Familles d'accueil à Lyon</span>
   button:
     enable: true
     label: Nous aider
@@ -15,9 +15,9 @@ paragraphe1:
   enable: true
   title: Tout faire pour réduire la souffrance féline
   description: ''
-  content: "La misère féline est souvent invisible et pourtant omniprésente ; en France le nombre de chats errants est estimé à 11 millions. La vie d'errance expose les animaux à la peur quotidienne, la faim, les maladies, les blessures et la cruauté humaine.<br/><br/>
-La stérilisation est la première solution pour endiguer cette souffrance, pour éviter la reproduction et donc multiplication des animaux errants. Pour les mâles, la castration permet de faire quasiment cesser les bagarres liées au territoire et les épargnent ainsi de nombreuses blessures.<br/><br/>
-Un chat un chat est une association sans refuge, qui prend en charge des chats laissés-pour-compte et les placent en familles d'accueil ; ils (re)découvrent le confort d'un foyer, peuvent être soignés en sécurité et sont ensuite placés à l'adoption.<br/><br/>
-C'est un système de sauvetage fragile qui repose entièrement sur le bénévolat et la responsabilité de ces familles d'accueil.\n\n"
+  content: "La misère féline est souvent invisible et pourtant omniprésente ; en France le nombre de chats errants est estimé à 11 millions. La vie d'errance expose les animaux à la peur quotidienne, la faim, les maladies, les blessures et la cruauté humaine.\n
+La stérilisation est la première solution pour endiguer cette souffrance, pour éviter la reproduction et donc multiplication des animaux errants. Pour les mâles, la castration permet de faire quasiment cesser les bagarres liées au territoire et les épargnent ainsi de nombreuses blessures.\n
+Un chat un chat est une association sans refuge, qui prend en charge des chats laissés-pour-compte et les placent en familles d'accueil ; ils (re)découvrent le confort d'un foyer, peuvent être soignés en sécurité et sont ensuite placés à l'adoption.\n
+C'est un système de sauvetage idéal mais fragile qui repose entièrement sur le bénévolat et la responsabilité de ces familles d'accueil.\n\n"
   image: "/images/Trio-page-accueil.png"
 
