@@ -103,12 +103,12 @@ pourquoi:
   enable: true
   pourquoi_titre: Comment nous aider ?
   pourquoi_table:
-  - titre: Faire un don
+  - titre: Nous faire un don mensuel ou ponctuel grâce à HelloAsso
     bg_image: "/images/Donner.png"
     link: nousaider
-  - titre: Devenir famille d'accueil
+  - titre: devenez familles d'accueil pour nous aider à sauver des vies !
     bg_image: "/images/FA.png"
     link: nousaider
-  - titre: "Parler de nous"
+  - titre: Un moyen gratuit utile pour l'association est de parler de nous et partager nos réseaux.
     bg_image: "/images/Suivre.png"
     link: nousaider
