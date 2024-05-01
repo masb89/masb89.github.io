@@ -101,14 +101,14 @@ prix:
     - Un compte-rendu complet pour vous permettre d'avancer en autonomie
 pourquoi:
   enable: true
-  pourquoi_titre: Une Home Organiser, pourquoi?
+  pourquoi_titre: Nous aider
   pourquoi_table:
-  - titre: Acquérir des méthodes de rangement et d'organisation efficaces
-    bg_image: "/images/puzzle.jpg"
+  - titre: Faire un don
+    bg_image: "/images/Donner.png"
     link: prestations
-  - titre: Adapter les solutions pour un résultat plus durable qu'un simple rangement
-    bg_image: "/images/bureaublanc.jpg"
+  - titre: Devenir famille d'accueil
+    bg_image: "/images/FA.png"
     link: prestations
-  - titre: " Vous accompagner de façon personnalisée pour vos différents projets"
-    bg_image: "/images/boussole.jpg"
+  - titre: "Parler de nous"
+    bg_image: "/images/Suivre.png"
     link: prestations

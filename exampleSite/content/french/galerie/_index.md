@@ -1,7 +1,7 @@
 ---
 title: Chats à l'adoption
 description: ''
-bg_image: "/images/cadresgalerie.jpg"
+bg_image: ""
 image: ''
 
 ---
