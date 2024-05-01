@@ -2,7 +2,7 @@
   "name": "airspace-hugo",
   "version": "1.2.1",
   "license": "UNLICENSED",
-  "author": "gethugothemes",
+  "author": "Association un chat un chat",
   "scripts": {
     "dev": "hugo server",
     "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",

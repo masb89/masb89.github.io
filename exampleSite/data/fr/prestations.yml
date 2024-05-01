@@ -99,3 +99,16 @@ prix:
     - Un entretien téléphonique pour définir vos besoins
     - Une demi-journée hebdomadaire maximum
     - Un compte-rendu complet pour vous permettre d'avancer en autonomie
+pourquoi:
+  enable: true
+  pourquoi_titre: Une Home Organiser, pourquoi?
+  pourquoi_table:
+  - titre: Acquérir des méthodes de rangement et d'organisation efficaces
+    bg_image: "/images/puzzle.jpg"
+    link: prestations
+  - titre: Adapter les solutions pour un résultat plus durable qu'un simple rangement
+    bg_image: "/images/bureaublanc.jpg"
+    link: prestations
+  - titre: " Vous accompagner de façon personnalisée pour vos différents projets"
+    bg_image: "/images/boussole.jpg"
+    link: prestations

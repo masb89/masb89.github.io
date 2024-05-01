@@ -7,47 +7,47 @@ url = ""
 weight = 1
 
 [[main]]
-URL = "apropos"
-name = "À propos"
-weight = 2
-
-[[main]]
 URL = "galerie"
-name = "Galerie"
-weight = 3
+name = "Chat à l'adoption"
+weight = 2
 
 [[main]]
 URL = "blog"
 name = "Blog"
-weight = 4
+weight = 3
 
 [[main]]
-URL = "prestations"
-name = "Prestations"
-weight = "5"
+URL = "nousaider"
+name = "Nous aider"
+weight = "4"
 
 [[main]]
 URL = "contact"
 name = "Contact"
-weight = "6"
+weight = "5"
 
 # footer menu
 [[footer]]
-URL = "apropos"
-name = "À propos"
+name = "Accueil"
+url = ""
 weight = 1
 
 [[footer]]
 URL = "galerie"
-name = "Galerie"
-weight = "2"
+name = "Chat à l'adoption"
+weight = 2
 
 [[footer]]
-URL = "prestations"
-name = "Prestations"
+URL = "blog"
+name = "Blog"
 weight = 3
+
+[[footer]]
+URL = "nousaider"
+name = "Nous aider"
+weight = "4"
 
 [[footer]]
 URL = "contact"
 name = "Contact"
-weight = "4"
+weight = "5"
