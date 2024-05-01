@@ -105,10 +105,10 @@ pourquoi:
   pourquoi_table:
   - titre: Faire un don
     bg_image: "/images/Donner.png"
-    link: prestations
+    link: nousaider
   - titre: Devenir famille d'accueil
     bg_image: "/images/FA.png"
-    link: prestations
+    link: nousaider
   - titre: "Parler de nous"
     bg_image: "/images/Suivre.png"
-    link: prestations
+    link: nousaider

@@ -4,8 +4,8 @@ banniere:
   bg_image: "images/Site_Couverture.png"
   bg_overlay: false
   title: Un chat un chat
-  titre: Un chat un chat
-  soustitre: Association de protection animale 
+  titre: UN CHAT UN CHAT
+  soustitre: Association loi 1901 de protection animale 
   content: <span style="color:#fff">Familles d'accueil à Lyon</span>
   button:
     enable: true
