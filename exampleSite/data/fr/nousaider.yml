@@ -1,7 +1,7 @@
 ---
 donner:
   enable: true
-  title: Faire un don ?
+  title: Faire un don
   content: "L’association est à but non lucratif et ne fonctionne que grâce à vos dons et votre bénévolat (familles d’accueil) ; 
   il n’y a donc pas de petit don. Vous pouvez même mensualiser votre don, avec un montant libre dès 1€ ! 
   La mensualisation peut être stoppée à tout moment.\n"

@@ -7,10 +7,10 @@
 
 {{ if $data.nousaider.donner.enable }}
 {{ with $data.nousaider.donner }}
-<section class="service-about section bg-primary-light" id="donner">
+<section class="service-about section bg-gray" id="donner">
   <div class="container">
     <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-8">
         <h2>{{ .title | markdownify }}</h2>
         <p class="mt-30">{{ .content | markdownify }}</p>
         {{ if .button.enable }}
@@ -19,7 +19,7 @@
         {{ end }}
         {{ end }}
       </div>
-      <div class="col-md-6">
+      <div class="col-md-4">
         <img class="img-responsive" src="{{ .image | absURL }}">
       </div>
     </div>
@@ -31,13 +31,13 @@
 
 {{ if $data.nousaider.fa.enable }}
 {{ with $data.nousaider.fa }}
-<section class="service-about section bg-gray" id="fa">
+<section class="service-about section bg-primary-light" id="fa">
   <div class="container">
     <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-4">
         <img class="img-responsive" src="{{ .image | absURL }}">
       </div>
-      <div class="col-md-6">
+      <div class="col-md-8">
         <h2>{{ .title | markdownify }}</h2>
         <p class="mt-30">{{ .content | markdownify }}</p>
         {{ if .button.enable }}
@@ -54,14 +54,14 @@
 
 {{ if $data.nousaider.suivre.enable }}
 {{ with $data.nousaider.suivre }}
-<section class="service-about section bg-primary-light" id="suivre">
+<section class="service-about section bg-gray" id="suivre">
   <div class="container">
     <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-8">
         <h2>{{ .title | markdownify }}</h2>
         <p class="mt-30">{{ .content | markdownify }}</p>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-4">
         <img class="img-responsive" src="{{ .image | absURL }}">
       </div>
     </div>

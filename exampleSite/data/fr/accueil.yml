@@ -15,22 +15,21 @@ paragraphe1:
   enable: true
   title: Tout faire pour réduire la souffrance féline
   description: ''
-  content: "La misère féline est souvent invisible et pourtant omniprésente ; en France le nombre de chats errants est estimé à 11 millions. La vie d'errance expose les animaux à la peur quotidienne, la faim, les maladies, les blessures et la cruauté humaine.</p><p>
-La stérilisation est la première solution pour endiguer cette souffrance, pour éviter la reproduction et donc multiplication des animaux errants. Pour les mâles, la castration permet de faire quasiment cesser les bagarres liées au territoire et les épargnent ainsi de nombreuses blessures.</p><p>
-Un chat un chat est une association sans refuge, qui prend en charge des chats laissés-pour-compte et les placent en familles d'accueil ; ils (re)découvrent le confort d'un foyer, peuvent être soignés en sécurité et sont ensuite placés à l'adoption.</p><p>
-C'est un système de sauvetage idéal mais fragile qui repose entièrement sur le bénévolat et la responsabilité de ces familles d'accueil."
+  content: "La misère féline est souvent invisible et pourtant omniprésente ; en France le nombre de chats errants est estimé à 11 millions. La vie d’errance expose les animaux à la peur quotidienne, la faim, les maladies, les blessures et la cruauté humaine.\n
+Un chat un chat est une association sans refuge, qui prend en charge des chats laissés-pour-compte et les placent en familles d’accueil ; ils (re)découvrent le confort d’un foyer, peuvent être soignés en sécurité et sont ensuite placés à l’adoption.\n
+C’est un système de sauvetage idéal mais fragile qui repose entièrement sur le bénévolat et l'engagement des familles d’accueil.\n"
   image: "/images/Trio-page-accueil.png"
 
 pourquoi:
   enable: true
   pourquoi_titre: Comment nous aider ?
   pourquoi_table:
-  - titre: Nous faire un don mensuel ou ponctuel grâce à HelloAsso
+  - titre: Faire un don ponctuel ou mensualisé grâce à la plateforme Hello Asso.
     bg_image: "/images/Donner.png"
     link: "nousaider#donner"
-  - titre: Devenez familles d'accueil pour nous aider à sauver des vies !
+  - titre: Devenir famille d'accueil pour sauver une vie (ou plusieurs) à nos côtés !
     bg_image: "/images/FA.png"
     link: "nousaider#fa"
-  - titre: Un moyen gratuit utile pour l'association est de parler de nous et partager nos réseaux.
+  - titre: Parler de nous atour de vous pour soutenir la cause de l'association.
     bg_image: "/images/Suivre.png"
     link: "nousaider#suivre"
