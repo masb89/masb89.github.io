@@ -67,3 +67,7 @@ link = "plugins/shuffle/shuffle.min.js"
 link = "plugins/google-map/gmap.js"
 [[params.plugins.js]]
 link = "plugins/webfont-loader/webfont-loader-2.min.js"
+[[params.plugins.js]]
+link = "plugins/ionicons/ionicons.esm.js"
+[[params.plugins.js]]
+link = "plugins/ionicons/ionicons.js"
