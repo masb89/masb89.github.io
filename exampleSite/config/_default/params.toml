@@ -18,8 +18,8 @@ image = "images/Logo_Double-police.png" # this image will be used as fallback if
 address_descriptors = false
 # contact info
 phone = ""
-email = "contact.unchatunchat[at]gmail.com"
-location = "Lyon"
+email = """contact.unchatunchat[at]gmail.com"""
+location = """Lyon"""
 
 """
 # copyright
@@ -109,24 +109,10 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[social]]
 title = "facebook"
 icon = "logo-facebook"  
-link = "https://facebook.com/unchatunchat.lyon"
-
-[[social]]
-title = "twitter"
-icon = "fab fa-twitter"  
-link = "#"
+link = """https://facebook.com/unchatunchat.lyon"""
 
 [[social]]
 title = "instagram"
 icon = "logo-instagram" 
-link = "https://facebook.com/unchatunchat.lyon"
+link = """https://facebook.com/unchatunchat.lyon"""
 
-[[social]]
-title = "github"
-icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
-title = "linkedin"
-icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
