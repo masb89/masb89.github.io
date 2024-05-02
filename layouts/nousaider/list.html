@@ -15,7 +15,7 @@
         <p class="mt-30">{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
-        <p></p>
+        <br>
         <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp">{{ .label }}</a>
         {{ end }}
         {{ end }}
@@ -43,7 +43,7 @@
         <p class="mt-30">{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
-        <p></p>
+        <br>
         <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp">{{ .label }}</a>
         {{ end }}
         {{ end }}
