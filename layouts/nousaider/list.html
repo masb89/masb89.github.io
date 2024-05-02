@@ -10,7 +10,7 @@
 <section class="service-about section bg-gray" id="donner">
   <div class="container">
     <div class="row">
-      <div class="col-md-8">
+      <div class="col-md-5 col-xs-offset-1">
         <h2>{{ .title | markdownify }}</h2>
         <p class="mt-30">{{ .content | markdownify }}</p>
         {{ if .button.enable }}
@@ -19,7 +19,7 @@
         {{ end }}
         {{ end }}
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4 col-xs-offset-1">
         <img class="img-responsive" src="{{ .image | absURL }}">
       </div>
     </div>
@@ -34,10 +34,10 @@
 <section class="service-about section bg-primary-light" id="fa">
   <div class="container">
     <div class="row">
-      <div class="col-md-4">
+      <div class="col-md-4 col-xs-offset-1">
         <img class="img-responsive" src="{{ .image | absURL }}">
       </div>
-      <div class="col-md-8">
+      <div class="col-md-5 col-xs-offset-1">
         <h2>{{ .title | markdownify }}</h2>
         <p class="mt-30">{{ .content | markdownify }}</p>
         {{ if .button.enable }}
@@ -57,11 +57,11 @@
 <section class="service-about section bg-gray" id="suivre">
   <div class="container">
     <div class="row">
-      <div class="col-md-8">
+      <div class="col-md-5 col-xs-offset-1">
         <h2>{{ .title | markdownify }}</h2>
         <p class="mt-30">{{ .content | markdownify }}</p>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4 col-xs-offset-1">
         <img class="img-responsive" src="{{ .image | absURL }}">
       </div>
     </div>
