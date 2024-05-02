@@ -4,7 +4,7 @@ donner:
   title: Faire un don
   content: "L’association est à but non lucratif et ne fonctionne que grâce à vos dons et votre bénévolat (familles d’accueil) ; 
   il n’y a donc pas de petit don. Vous pouvez même mensualiser votre don, avec un montant libre dès 1€ ! 
-  La mensualisation peut être stoppée à tout moment.\n\n"
+  La mensualisation peut être stoppée à tout moment."
   image: images/paragraphe-faireundon.png
   button:
     enable: true
@@ -15,7 +15,7 @@ fa:
   enable: true
   title: Devenir famille d’accueil
   content: "Être famille d’accueil, cela signifie que vous prenez soin d’un (ou plusieurs) chat chez vous comme si c’était le vôtre, de quelques semaines à quelques mois. Seuls les frais vétérinaires sont à la charge financière de l’association. Lorsque le chat est prêt à être adopté, vous êtes prioritaires si vous avez eu le coup de cœur pour lui. Sinon, son annonce est diffusée pour qu’il trouve sa famille pour la vie. Voilà ; vous avez permis de sauver une vie en offrant un foyer sécure et chaleureux à un animal abandonné ! 
-Si vous êtes intéressé·e·s, il vous faut remplir notre formulaire en ligne.\n\n"
+Si vous êtes intéressé·e·s, il vous faut remplir notre formulaire en ligne."
   image: images/paragraphe-devenirfa.png
   button:
     enable: true
