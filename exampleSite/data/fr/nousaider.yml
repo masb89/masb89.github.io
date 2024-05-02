@@ -5,7 +5,7 @@ donner:
   content: "L’association est à but non lucratif et ne fonctionne que grâce à vos dons et votre bénévolat (familles d’accueil) ; 
   il n’y a donc pas de petit don. Vous pouvez même mensualiser votre don, avec un montant libre dès 1€ ! 
   La mensualisation peut être stoppée à tout moment.\n"
-  image: images/cartonblanc.png
+  image: images/paragraphe-faireundon.png
   button:
     enable: true
     label: JE FAIS UN DON
@@ -14,9 +14,9 @@ donner:
 fa:
   enable: true
   title: Devenir famille d’accueil
-  content: "ssociation n’a pas de refuge ; elle a besoin de familles d’accueil bénévoles pour pouvoir prendre en charge des protégés. Être famille d’accueil, cela signifie que vous prenez soin d’un (ou plusieurs) chat chez vous comme si c’était le vôtre. Seuls les frais vétérinaires sont à la charge financière de l’association. Lorsque le chat est prêt à être adopté, vous êtes prioritaires si vous avez eu le coup de cœur pour lui. Sinon, son annonce est diffusée pour qu’il trouve sa famille pour la vie ; vous recevez chez vous ses potentiels adoptantes, et si tout se déroule bien il rejoint rapidement son nouveau foyer. Voilà ; vous avez permis de sauver une vie en offrant un foyer sécure et chaleureux à un animal abandonné !\n
+  content: "L'association n’a pas de refuge ; elle a besoin de familles d’accueil bénévoles pour pouvoir prendre en charge des protégés. Être famille d’accueil, cela signifie que vous prenez soin d’un (ou plusieurs) chat chez vous comme si c’était le vôtre. Seuls les frais vétérinaires sont à la charge financière de l’association. Lorsque le chat est prêt à être adopté, vous êtes prioritaires si vous avez eu le coup de cœur pour lui. Sinon, son annonce est diffusée pour qu’il trouve sa famille pour la vie ; vous recevez chez vous ses potentiels adoptantes, et si tout se déroule bien il rejoint rapidement son nouveau foyer. Voilà ; vous avez permis de sauver une vie en offrant un foyer sécure et chaleureux à un animal abandonné !\n
   Si vous êtes intéressé·e·s, vous devez remplir un formulaire en ligne\n"
-  image: images/cartonblanc.png
+  image: images/paragraphe-devenirfa.png
   button:
     enable: true
     label: JE REMPLIS LE FORMULAIRE
@@ -27,4 +27,4 @@ suivre:
   title: Parler de nous
   content: "Un moyen gratuit et très simple de nous aider est tout simplement de parler de nous ! Vous trouvez le lien vers notre page Facebook et Instagram en haut à droite de notre site, ou bien dans l’onglet « contact ».\n
   Partagez avec nous sur nos réseaux, parlez de l’association, et surtout : promouvez la stérilisation systématique des chats auprès de votre entourage. Merci, merci, merci !"
-  image: images/cartonblanc.png
+  image: images/paragraphe-parlerdenous.png
