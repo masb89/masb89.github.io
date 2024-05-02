@@ -28,7 +28,7 @@ pourquoi:
     bg_image: "/images/Donner.png"
     link: "nousaider#donner"
   - titre: Devenir famille d'accueil pour sauver une vie (ou plusieurs) à nos côtés !
-    bg_image: "/images/FA.png"
+    bg_image: "/images/fa_white.png"
     link: "nousaider#fa"
   - titre: Parler de nous autour de vous pour soutenir la cause de l'association.
     bg_image: "/images/Suivre.png"
