@@ -21,3 +21,16 @@ Un chat un chat est une association sans refuge, qui prend en charge des chats l
 C'est un système de sauvetage idéal mais fragile qui repose entièrement sur le bénévolat et la responsabilité de ces familles d'accueil."
   image: "/images/Trio-page-accueil.png"
 
+pourquoi:
+  enable: true
+  pourquoi_titre: Comment nous aider ?
+  pourquoi_table:
+  - titre: Nous faire un don mensuel ou ponctuel grâce à HelloAsso
+    bg_image: "/images/Donner.png"
+    link: "nousaider#donner"
+  - titre: Devenez familles d'accueil pour nous aider à sauver des vies !
+    bg_image: "/images/FA.png"
+    link: "nousaider#fa"
+  - titre: Un moyen gratuit utile pour l'association est de parler de nous et partager nos réseaux.
+    bg_image: "/images/Suivre.png"
+    link: "nousaider#suivre"

@@ -1,47 +1,30 @@
 ---
-pourquoi:
-  enable: true
-  pourquoi_titre: Comment nous aider ?
-  pourquoi_table:
-  - titre: Nous faire un don mensuel ou ponctuel grâce à HelloAsso
-    bg_image: "/images/Donner.png"
-    link: "#donner"
-  - titre: Devenez familles d'accueil pour nous aider à sauver des vies !
-    bg_image: "/images/FA.png"
-    link: "#fa"
-  - titre: Un moyen gratuit utile pour l'association est de parler de nous et partager nos réseaux.
-    bg_image: "/images/Suivre.png"
-    link: "#suivre"
-
 donner:
   enable: true
-  title: Comment ça se passe ?
-  content: "Une fois que vous m’avez contactée par mail, je reviens vers vous, par
-    e-mail ou téléphone selon votre préférence, pour que l’on détermine vos besoins
-    et vos attentes. \nC’est l’occasion pour moi de me faire une première idée des
-    possibilités (surface à travailler, votre disponibilité, <i>etc.</i>). On fixe
-    ensuite le rendez-vous diagnostic, et c’est parti ! \n\nSi vous avez la moindre
-    question, n’hésitez pas à me contacter.\n"
+  title: Faire un don ?
+  content: "L’association est à but non lucratif et ne fonctionne que grâce à vos dons et votre bénévolat (familles d’accueil) ; 
+  il n’y a donc pas de petit don. Vous pouvez même mensualiser votre don, avec un montant libre dès 1€ ! 
+  La mensualisation peut être stoppée à tout moment.\n"
   image: images/cartonblanc.png
+  button:
+    enable: true
+    label: JE FAIS UN DON
+    link: nousaider
 
 fa:
   enable: true
-  title: Comment ça se passe ?
-  content: "Une fois que vous m’avez contactée par mail, je reviens vers vous, par
-    e-mail ou téléphone selon votre préférence, pour que l’on détermine vos besoins
-    et vos attentes. \nC’est l’occasion pour moi de me faire une première idée des
-    possibilités (surface à travailler, votre disponibilité, <i>etc.</i>). On fixe
-    ensuite le rendez-vous diagnostic, et c’est parti ! \n\nSi vous avez la moindre
-    question, n’hésitez pas à me contacter.\n"
+  title: Devenir famille d’accueil
+  content: "ssociation n’a pas de refuge ; elle a besoin de familles d’accueil bénévoles pour pouvoir prendre en charge des protégés. Être famille d’accueil, cela signifie que vous prenez soin d’un (ou plusieurs) chat chez vous comme si c’était le vôtre. Seuls les frais vétérinaires sont à la charge financière de l’association. Lorsque le chat est prêt à être adopté, vous êtes prioritaires si vous avez eu le coup de cœur pour lui. Sinon, son annonce est diffusée pour qu’il trouve sa famille pour la vie ; vous recevez chez vous ses potentiels adoptantes, et si tout se déroule bien il rejoint rapidement son nouveau foyer. Voilà ; vous avez permis de sauver une vie en offrant un foyer sécure et chaleureux à un animal abandonné !\n
+  Si vous êtes intéressé·e·s, vous devez remplir un formulaire en ligne\n"
   image: images/cartonblanc.png
+  button:
+    enable: true
+    label: JE REMPLIS LE FORMULAIRE
+    link: https://forms.gle/uXqkXNHYGf3hro8w7
 
 suivre:
   enable: true
-  title: Comment ça se passe ?
-  content: "Une fois que vous m’avez contactée par mail, je reviens vers vous, par
-    e-mail ou téléphone selon votre préférence, pour que l’on détermine vos besoins
-    et vos attentes. \nC’est l’occasion pour moi de me faire une première idée des
-    possibilités (surface à travailler, votre disponibilité, <i>etc.</i>). On fixe
-    ensuite le rendez-vous diagnostic, et c’est parti ! \n\nSi vous avez la moindre
-    question, n’hésitez pas à me contacter.\n"
+  title: Parler de nous
+  content: "Un moyen gratuit et très simple de nous aider est tout simplement de parler de nous ! Vous trouvez le lien vers notre page Facebook et Instagram en haut à droite de notre site, ou bien dans l’onglet « contact ».\n
+  Partagez avec nous sur nos réseaux, parlez de l’association, et surtout : promouvez la stérilisation systématique des chats auprès de votre entourage. Merci, merci, merci !"
   image: images/cartonblanc.png
