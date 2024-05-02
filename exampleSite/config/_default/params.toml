@@ -19,9 +19,8 @@ address_descriptors = false
 # contact info
 phone = ""
 email = "contact.unchatunchat[at]gmail.com"
-location = """
-**Association Un chat un chat**  
-Lyon
+location = "Lyon"
+
 """
 # copyright
 copyright = "Copyright (c) 2024 - Association Un chat un chat"
@@ -109,18 +108,18 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 ############################# social site ########################
 [[social]]
 title = "facebook"
-icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+icon = "logo-facebook"  
+link = "https://facebook.com/unchatunchat.lyon"
 
 [[social]]
 title = "twitter"
-icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons/
+icon = "fab fa-twitter"  
 link = "#"
 
 [[social]]
 title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+icon = "logo-instagram" 
+link = "https://facebook.com/unchatunchat.lyon"
 
 [[social]]
 title = "github"
