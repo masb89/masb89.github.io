@@ -9,7 +9,7 @@ banniere:
   content: <span style="color:#fff">Sans refuge | Familles d'accueil à Lyon</span>
   button:
     enable: true
-    label: Nous aider
+    label: Nous soutenir
     link: nousaider
 paragraphe1:
   enable: true
@@ -27,9 +27,12 @@ pourquoi:
   - titre: Faire un don ponctuel ou mensualisé grâce à la plateforme Hello Asso.
     bg_image: "/images/donner_white.png"
     link: "nousaider#donner"
+    texte_lien: Faire un don
   - titre: Devenir famille d'accueil pour sauver une vie (ou plusieurs) à nos côtés !
     bg_image: "/images/fa_white.png"
     link: "nousaider#fa"
-  - titre: Parler de nous autour de vous pour soutenir la cause de l'association.
+    texte_lien: Devenir FA
+  - titre: Échanger avec nous sur nos réseaux et les partager. Simple et gratuit !
     bg_image: "/images/suivre_white.png"
     link: "nousaider#suivre"
+    texte_lien: Nous suivre
