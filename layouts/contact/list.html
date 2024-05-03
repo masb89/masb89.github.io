@@ -36,19 +36,12 @@
         <div class="block">
           <h2>{{ i18n "address_title" }}</h2>
           <ul class="address-block">
-            <li><ion-icon src="/images/location-outline.svg"></ion-icon>{{ site.Params.location }}</li>
-            <li><ion-icon src="/images/mail-outline.svg"></ion-icon>{{ site.Params.email }}</li>
+            <li><img src="/images/location-outline.svg">{{ site.Params.location }}</li>
+            <li><img src="/images/mail-outline.svg">{{ site.Params.email }}</li>
           </ul>
           <ul class="social-icons">
-            <li><a href="https://facebook.com/unchatunchat.lyon" target="_blank"><ion-icon src="/images/logo-facebook.svg"></ion-icon></a></li>
-            <li><a href="https://instagram.com/unchatunchat.lyon" target="_blank"><ion-icon name="/images/logo-instagram"></ion-icon></a></li>
-          </ul>
-
-
-          <ul class="social-icons">
-            {{ range site.Params.social }}
-            <li><a href="{{ .link | safeURL }}" target="_blank"><ion-icon name="{{ .icon }}"></ion-icon></a></li>
-            {{ end }}
+            <li><a href="https://facebook.com/unchatunchat.lyon" target="_blank"><img src="/images/logo-facebook.svg" alt="unchatunchat.lyon"></a></li>
+            <li><a href="https://instagram.com/unchatunchat.lyon" target="_blank"><img src="/images/logo-instagram.svg" alt="unchatunchat.lyon"></a></li>
           </ul>
         </div>
       </div>
