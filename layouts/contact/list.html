@@ -6,7 +6,7 @@
 
 <section class="contact-form">
   <div class="container">
-    <div class="row">
+    {{/*  <div class="row">
       <form method="POST" action="{{ site.Params.contact_form_action | safeURL }}">
         <div class="col-md-6 col-sm-12">
           <div class="block">
@@ -26,15 +26,15 @@
             <div class="form-group-2">
               <textarea name="user_message" class="form-control" rows="4" placeholder="Votre message"></textarea>
             </div>
-            <button class="btn btn-default" type="submit">Envoyer</button>
+            <button class="btn btn-main animated fadeInUp" type="submit">Envoyer</button>
           </div>
         </div>
       </form>
-    </div>
+    </div>  */}}
     <div class="contact-box row">
       <div class="col-md-6 col-sm-12">  
         <div class="block">
-          <h2>{{ i18n "address_title" }}</h2>
+          {{/*  <h2>{{ i18n "address_title" }}</h2>  */}}
           <ul class="address-block">
             <li><img style="width:24px;" src="/images/location-outline.svg">{{ site.Params.location }}</li>
             <li><img style="width:24px;"  src="/images/mail-outline.svg">{{ site.Params.email }}</li>
