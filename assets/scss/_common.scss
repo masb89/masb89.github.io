@@ -294,11 +294,11 @@ input[type="tel"] {
     h1 {
       font-size:25px;
       color: $light;
-      font-weight: 500;
-      letter-spacing:5px;
+      //font-weight: 500;
+      letter-spacing:3px;
       margin-top: 0;
       margin-bottom: 0;
-      //text-transform: capitalize;
+      text-transform: uppercase;
     }
 
     p {
