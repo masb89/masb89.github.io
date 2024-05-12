@@ -1,6 +1,6 @@
 ---
 title: Nous aider
 description: ''
-bg_image: ""
+bg_image: "images/siteinternetbandeau.png"
 
 ---
