@@ -18,7 +18,7 @@ image = "images/Logo_Double-police.png" # this image will be used as fallback if
 address_descriptors = false
 # contact info
 phone = ""
-email = """contact.unchatunchat[at]gmail.com"""
+email = """contact[at]unchatunchat.fr"""
 location = """Lyon"""
 
 # copyright
