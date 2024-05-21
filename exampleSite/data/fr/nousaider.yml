@@ -9,7 +9,7 @@ Merci par avance pour votre engagement.<br>"
   button:
     enable: true
     label: JE FAIS UN DON
-    link: nousaider
+    link: https://www.helloasso.com/associations/un-chat-un-chat/formulaires/1
 
 fa:
   enable: true
