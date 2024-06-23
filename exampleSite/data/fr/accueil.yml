@@ -9,8 +9,9 @@ banniere:
   content: <span style="color:#fff">Sans refuge | Familles d'accueil à Lyon</span>
   button:
     enable: true
-    label: Nous soutenir
-    link: nousaider
+    label: Faire un don
+    link: https://www.helloasso.com/associations/un-chat-un-chat/formulaires/1
+
 paragraphe1:
   enable: true
   title: Tout faire pour réduire la souffrance féline
