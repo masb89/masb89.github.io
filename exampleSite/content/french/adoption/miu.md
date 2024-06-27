@@ -27,7 +27,7 @@ __________
 ✓ Primo-vaccinée Typhus-Coryza \
 ✓ Déparasitée \
 Stérilisation OBLIGATOIRE à ses 6 mois \
-Frais d’adoption de 180€ \
+Frais d’adoption de 180€
 __________
 
 Intéressé·e par Miu ? Une seule façon de faire une demande d’adoption ; merci de remplir ce formulaire en ligne : https://forms.gle/JCAiLu11q4bP9NCo6
