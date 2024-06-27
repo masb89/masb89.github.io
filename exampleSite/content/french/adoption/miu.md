@@ -2,7 +2,7 @@
 title: "Miu"
 description: "Adoptez Miu"
 draft: false
-image : "images/MIU_ADOPTION.jpg"
+image : "images/MIU_ADOPTION.png"
 bg_image: "images/siteinternetbandeau.png"
 ---
 
