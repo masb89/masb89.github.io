@@ -1,6 +1,6 @@
 ---
 title: "Miu"
-description: "Adoptez Miu"
+description: "En savoir plus sur Miu"
 draft: false
 image : "images/MIU_ADOPTION.png"
 bg_image: "images/siteinternetbandeau.png"
