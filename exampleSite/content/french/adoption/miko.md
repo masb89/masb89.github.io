@@ -1,5 +1,5 @@
 ---
-title: "MiKo"
+title: "Miko"
 description: "En savoir plus sur Miko"
 draft: false
 image : "images/MIKO_ADOPTION.png"
