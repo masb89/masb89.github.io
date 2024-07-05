@@ -5,7 +5,7 @@ donner:
   content: "L’association est à but non lucratif et ne fonctionne que grâce à votre soutien ; il n’y a donc pas de petit don !<br>
 Vous pouvez même mensualiser votre don, avec un montant libre dès 1€. La mensualisation peut être stoppée à tout moment.<br>
 Merci par avance pour votre engagement.<br>"
-  image: images/paragraphe-faireundon.png
+  image: images/faireundon.png
   button:
     enable: true
     label: JE FAIS UN DON
@@ -18,7 +18,7 @@ fa:
 Lorsque le chat est prêt à être adopté, son annonce est diffusée pour qu’il trouve sa famille pour la vie.<br>
 Voilà ; vous avez permis de sauver une vie en offrant un foyer sécure et chaleureux à un animal abandonné !<br>
 Si vous êtes intéressé·e·s, il vous faut remplir notre formulaire en ligne.<br>"
-  image: images/paragraphe-devenirfa.png
+  image: images/devenirfa.png
   button:
     enable: true
     label: JE REMPLIS LE FORMULAIRE
@@ -29,4 +29,4 @@ suivre:
   title: Parler de nous
   content: "Un moyen gratuit et très simple de nous aider est tout simplement de parler de nous ! Vous trouvez le lien vers notre page Facebook et Instagram en haut à droite de notre site, ou bien dans l’onglet « contact ».<br>
   Partagez avec nous sur nos réseaux, parlez de l’association, et surtout : promouvez la stérilisation systématique des chats auprès de votre entourage. Merci !"
-  image: images/paragraphe-parlerdenous.png
+  image: images/parlerdenous.png
