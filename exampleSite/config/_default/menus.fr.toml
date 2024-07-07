@@ -17,9 +17,14 @@ name = "Chats à l'adoption"
 weight = 3
 
 [[main]]
+URL = "adoptes"
+name = "Nos adoptés"
+weight = 4
+
+[[main]]
 URL = "contact"
 name = "Contact"
-weight = "4"
+weight = "5"
 
 # footer menu
 [[footer]]
@@ -38,6 +43,11 @@ name = "Chats à l'adoption"
 weight = 3
 
 [[footer]]
+URL = "adoptes"
+name = "Nos adoptés"
+weight = 4
+
+[[footer]]
 URL = "contact"
 name = "Contact"
-weight = "4"
+weight = "5"
