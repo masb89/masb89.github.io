@@ -7,26 +7,26 @@ bg_image: "images/siteinternetbandeau.png"
 ---
 
 ## Miko 
-Miko est une petite chatonne de trois mois, née d’une jeune errante et récupérée dans le jardin d’un particulier.
+Miko est une chatonne de trois mois, née d’une jeune errante et récupérée dans le jardin d’un particulier.
+Miko est une friponne ultra dynamique ! C’est la pile électrique de sa fratrie 🔋 Le temps qu’elle ne passe à dormir sera toujours bien utilisé : chasser le plumeau, courir après une ficelle, jouer avec ses balles rebondissantes favorites, explorer tout l’espace à sa disposition… 
 
-Miko est une friponne ultra dynamique ! Le temps qu’elle ne passe à dormir sera toujours bien utilisé : sa préférence tend vers une bonne bagarre avec son frère Hoshi, mais la chasse au plumeau ne la laisse pas indifférente non plus ; de ses frère et sœurs, c’est forcément la dernière à s'arreter de courir et bondir après cet ennemi juré ! Les balles rebondissantes et autres ficelles peuvent la craindre également ; Miko aime jouer et n’est pas difficile s’il s’agit de se dépenser 🤪
+Son énergie est impressionnante et rien ne l’arrête : elle joue toujours jusqu’à l’essoufflement 🤸🏻‍♀️
+La maman de Miko étant sur la réserve envers les humains, ses petits ont appris cette timidité. Miko est la moins câline de sa fratrie ; elle a tendance à se « faxer » sous les caresses et pour le moment elle préfère la compagnie de sa mère ou de son papa-chat d’accueil à celle des humains. 
 
-Elle est une petite minette rigolote qui a choisi comme lieu de sieste de prédilection… le rebord d’une gamelle vide 😅 Quand elle n’y est pas installée, c’est qu’elle dort sur un tapis avec ses sœurs Miu et Sora.
+Mais à trois mois, c'est bel et bien un bébé et elle évolue chaque jour ! Depuis que ses frère et sœurs ont été adoptés, elle devient de plus en plus un petit chat-chien et suit et observe ses bipèdes d'accueil dans leurs tâches quotidiennes. Et dans les moments calmes, elle se montre de plus en plus réceptive aux papouilles 🥰
 
-La maman de Miko étant sur la réserve envers les humains, ses petits apprennent cette timidité. Miko se « faxe » plus volontiers sous les mains caressantes qu’autre chose, et elle préfère la compagnie de sa fratrie à celle de ses humains d’accueil.
+Miko est prête à trouver sa famille pour la vie 💖 
 
-Cependant, elle va grandir et évoluer ; à tout juste trois mois c’est bel et bien un bébé, et quiconque saura la faire jouer chaque jour gagnera forcément son petit cœur espiègle 🥰
-
-Miko est prête à trouver sa famille pour la vie 💖 Elle s’entend très bien avec sa fratrie, sa mère et son papa-chat d’accueil. Nous ne connaissons pas son entente avec les chiens.
+Nous privilégierons pour elle un foyer à l'environnement stimulant (beaucoup de présence, jardin...), idéalement avec un autre chat (ou chien éventuellement –nous ne connaissons pas son entente avec eux) bien que ce ne soit pas obligatoire. 
 __________
 
 ✓ Identifiée \
 ✓ Testée négatif FIV/FeLV (elle n’est pas porteuse) \
-✓ Primo-vaccinée Typhus-Coryza \
+✓ Vaccinée Typhus-Coryza \
 ✓ Déparasitée \
 Stérilisation OBLIGATOIRE à ses 6 mois \
 Pas d’accès extérieur avant sa stérilisation \
-Frais d’adoption de 180€ 
+Frais d’adoption de 200€ 
 __________
 
 Intéressé·e par Miko ? Une seule façon de faire une demande d’adoption ; merci de remplir ce formulaire en ligne : https://forms.gle/XtKtUaaynEc6oqY26
