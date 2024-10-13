@@ -2,7 +2,11 @@
 donner:
   enable: true
   title: Faire un don
-  content: "L’association est à but non lucratif et ne fonctionne que grâce à votre soutien ; il n’y a donc pas de petit don !<br>
+  content: "L’association est à but non lucratif ; si les frais d'adoption de nos protégés permettent en général de rembourser les frais vétérinaires engagés pour eux, ils ne couvrent en aucun cas le gîte et le couvert 🫠<br> 
+Nourrir et prendre soin des chats de l'association représente un coût non négligeable !<br>
+Il n'y a pas de petit don et chaque euro est destiné au soin nos protégés.<br>
+Vous pouvez effectuer un don financier, qu'il soit ponctuel ou mensualisé, avec un montant libre dès 1€. La mensualisation peut être stoppée à tout moment.<br>
+Vous pouvez également faire un don matériel, en nourriture ou accessoires, grâce à notre wishlist ; pour cela il vous suffit de faire vos achats en cliquant sur le bouton ci-dessous, et au moment de la livraison, choisir « cadeau association Un chat un chat », et la commande nous sera directement envoyée ✨<br>
 Vous pouvez même mensualiser votre don, avec un montant libre dès 1€. La mensualisation peut être stoppée à tout moment.<br>
 Merci par avance pour votre engagement.<br>"
   image: images/faireundon.png
@@ -27,5 +31,6 @@ Si vous êtes intéressé·e·s, il vous faut remplir notre formulaire en ligne.
 suivre:
   enable: true
   title: Parler de nous
-  content: "L’association est à but non lucratif ; si les frais d'adoption de nos protégés permettent en général de rembourser les frais vétérinaires engagés pour eux, ils ne couvrent en aucun cas le gîte et le couvert 🫠 <br> Nourrir et prendre soin des chats de l'association représente un coût non négligeable ! <br> Il n'y a pas de petit don et chaque euro est destiné au soin nos protégés. <br> Vous pouvez effectuer un don financier, qu'il soit ponctuel ou mensualisé, avec un montant libre dès 1€. La mensualisation peut être stoppée à tout moment. <br> Vous pouvez également faire un don matériel, en nourriture ou accessoires, grâce à notre wishlist ; pour cela il vous suffit de faire vos achats en cliquant sur le bouton ci-dessous, et au moment de la livraison, choisir « cadeau association Un chat un chat », et la commande nous sera directement envoyée ✨ <br> Partagez avec nous sur nos réseaux, parlez de l’association, et surtout : promouvez la stérilisation systématique des chats auprès de votre entourage. Merci !"
+  content: "Un moyen gratuit et très simple de nous aider est tout simplement de parler de nous ! Vous trouvez le lien vers notre page Facebook et Instagram en haut à droite de notre site, ou bien dans l’onglet « contact ».<br>
+  Partagez avec nous sur nos réseaux, parlez de l’association, et surtout : promouvez la stérilisation systématique des chats auprès de votre entourage. Merci !"
   image: images/parlerdenous.png
