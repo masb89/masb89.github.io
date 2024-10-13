@@ -6,7 +6,7 @@ donner:
   image: images/faireundon.png
   button:
     enable: true
-    label: JE FAIS UN DON €
+    label: FAIRE UN DON €
     link: https://www.helloasso.com/associations/un-chat-un-chat/formulaires/1
   button2:
     enable: true
