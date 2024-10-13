@@ -25,6 +25,10 @@ pourquoi:
   enable: true
   pourquoi_titre: Comment nous aider ?
   pourquoi_table:
+  - titre: Échanger avec nous sur nos réseaux et les partager. Simple et gratuit !
+    bg_image: "/images/suivre_white.png"
+    link: "nousaider#suivre"
+    texte_lien: Nous suivre
   - titre: Faire un don ponctuel ou mensualisé grâce à la plateforme Hello Asso.
     bg_image: "/images/donner_white.png"
     link: "nousaider#donner"
@@ -33,7 +37,4 @@ pourquoi:
     bg_image: "/images/fa_white.png"
     link: "nousaider#fa"
     texte_lien: Devenir FA
-  - titre: Échanger avec nous sur nos réseaux et les partager. Simple et gratuit !
-    bg_image: "/images/suivre_white.png"
-    link: "nousaider#suivre"
-    texte_lien: Nous suivre
+
