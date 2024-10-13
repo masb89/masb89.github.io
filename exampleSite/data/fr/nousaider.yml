@@ -17,10 +17,12 @@ donner:
 fa:
   enable: true
   title: Devenir famille d’accueil
-  content: "Être famille d’accueil, cela signifie que vous prenez soin d’un (ou plusieurs) chat chez vous comme si c’était le vôtre, de quelques semaines à quelques mois. Seuls les frais vétérinaires sont à la charge financière de l’association.<br>
-Lorsque le chat est prêt à être adopté, son annonce est diffusée pour qu’il trouve sa famille pour la vie.<br>
-Voilà ; vous avez permis de sauver une vie en offrant un foyer sécure et chaleureux à un animal abandonné !<br>
-Si vous êtes intéressé·e·s, il vous faut remplir notre formulaire en ligne.<br>"
+  content: "Être famille d’accueil, cela signifie que vous prenez soin d’un (ou plusieurs) chat chez vous comme si c’était le vôtre, de quelques semaines à quelques mois. <br>
+Les frais vétérinaires sont à la charge financière de l’association.<br>
+Lorsque le chat est prêt à être adopté, son annonce est diffusée pour qu’il trouve sa famille pour la vie. Si toutefois vous avez eu le coup de foudre pour votre pensionnaire, vous êtes prioritaire pour l'adopter.<br>
+Nous cherchons des familles d'accueil bénévoles engagées et soucieuses de participer à la protection animale, avec lesquelles nous faisons équipe  —pas de famille d'accueil « jetable » comme nous avons nous-mêmes pu l'être dans d'autres structures.<br>
+Si vous êtes intéressé·e·s, il vous faut remplir notre formulaire en ligne.
+"
   image: images/devenirfa.png
   button:
     enable: true

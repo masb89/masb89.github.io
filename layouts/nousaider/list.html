@@ -64,24 +64,19 @@
         <h2>{{ .title | markdownify }}</h2>
         <p class="mt-30">{{ .content | markdownify }}</p>
       </div>
+      {{ if .button.enable }}
+      {{ with .button }}
+      <br>
+      <a href="{{ .link | relLangURL }}" target=”_blank” class="btn btn-main animated fadeInUp">{{ .label }}</a>
+      {{ end }}
+      {{ with .button2 }}
+      <br>
+      <a href="{{ .link | relLangURL }}" target=”_blank” class="btn btn-main animated fadeInUp">{{ .label }}</a>
+      {{ end }}
+      {{ end }}
       <div class="col-md-4 col-xs-offset-1">
         <img class="img-responsive" src="{{ .image | absURL }}">
       </div>
-      <div class="col-md-5 col-xs-offset-1">
-        <h2>{{ .title | markdownify }}</h2>
-        <p class="mt-30">{{ .content | markdownify }}</p>
-        {{ if .button.enable }}
-        {{ with .button }}
-        <br>
-        <a href="{{ .link | relLangURL }}" target=”_blank” class="btn btn-main animated fadeInUp">{{ .label }}</a>
-        {{ end }}
-        {{ with .button2 }}
-        <br>
-        <a href="{{ .link | relLangURL }}" target=”_blank” class="btn btn-main animated fadeInUp">{{ .label }}</a>
-        {{ end }}
-        {{ end }}
-      </div>
-    </div>
     </div>
   </div>
 </section>
