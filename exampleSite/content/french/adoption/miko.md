@@ -28,9 +28,8 @@ __________
 ✓ Testée négatif FIV/FeLV (elle n’est pas porteuse) \
 ✓ Vaccinée Typhus-Coryza \
 ✓ Déparasitée \
-Stérilisation OBLIGATOIRE à ses 6 mois \
-Pas d’accès extérieur avant sa stérilisation \
-Frais d’adoption de 200€
+✓ Stérilisée \
+Frais d’adoption de 220€
 
 __________
 
