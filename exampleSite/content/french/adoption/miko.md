@@ -8,7 +8,7 @@ adopted: false
 ---
 
 ## Miko 
-Miko est une chatonne de cinq mois, récupérée dans le jardin d’un particulier avec sa jeune mère et ses 4 frères et sœurs.
+Miko est une chatonne de six mois, récupérée dans le jardin d’un particulier avec sa jeune mère et ses 4 frères et sœurs.
 
 C'est un petit chat-chien qui observe avec attention la moindre activité humaine. Télétravail, séries tv, vaisselle, douche, nettoyage de litière...; très bon public, elle vous suit partout pour tenter de comprendre ces étranges occupations 🧐
 
