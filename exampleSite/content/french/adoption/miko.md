@@ -4,7 +4,7 @@ description: "En savoir plus sur Miko"
 draft: false
 image : "images/MIKO_ADOPTION.png"
 bg_image: "images/siteinternetbandeau.png"
-adopted: false
+adopted: true
 ---
 
 ## Miko 
