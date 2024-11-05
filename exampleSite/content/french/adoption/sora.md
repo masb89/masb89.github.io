@@ -4,7 +4,7 @@ description: "En savoir plus sur Sora"
 draft: false
 image : "images/sora_adoptes.png"
 bg_image: "images/siteinternetbandeau.png"
-weight: 3
+weight: 4
 adopted: true
 ---
 
