@@ -12,7 +12,7 @@
         <div class="block">
           <div class="row shuffle-wrapper">
             {{ range .Data.Pages }}
-            {{ if and (ne .Params.adopted) (ne .Params.gone) }}
+            {{ if and (not .Params.adopted) (not .Params.gone) }}
               <div class="col-md-4 portfolio-item shuffle-item" data-groups="[&quot;{{ .Params.Category | urlize }}&quot;]">
                 <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
                 <div class="portfolio-hover">
@@ -53,7 +53,7 @@
         <div class="block">
           <div class="row shuffle-wrapper">
             {{ range .Data.Pages }}
-            {{ if and (.Params.adopted) (ne .Params.gone) }}
+            {{ if and (.Params.adopted) (not .Params.gone) }}
               <div class="col-md-3 portfolio-item shuffle-item">
                 <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
               </div>
