@@ -4,8 +4,9 @@ description: "En savoir plus sur Miu"
 draft: false
 image : "images/miu_adoptes.png"
 bg_image: "images/siteinternetbandeau.png"
-weight: 1
+weight: 2
 adopted: true
+gone: false
 ---
 
 ## Miu 

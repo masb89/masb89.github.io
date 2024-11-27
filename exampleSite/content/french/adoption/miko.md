@@ -6,6 +6,7 @@ image : "images/MIKO_ADOPTION.png"
 bg_image: "images/siteinternetbandeau.png"
 weight: 1
 adopted: true
+gone: false
 ---
 
 ## Miko 

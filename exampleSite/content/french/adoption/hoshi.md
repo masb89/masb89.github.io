@@ -4,8 +4,9 @@ description: "En savoir plus sur Hoshi"
 draft: false
 image : "images/hoshi_adoptes.png"
 bg_image: "images/siteinternetbandeau.png"
-weight: 2
+weight: 3
 adopted: true
+gone: false
 ---
 
 ## Hoshi 

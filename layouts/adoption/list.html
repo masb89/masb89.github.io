@@ -12,7 +12,7 @@
         <div class="block">
           <div class="row shuffle-wrapper">
             {{ range .Data.Pages }}
-            {{ if not .Params.adopted}}
+            {{ if not .Params.adopted and not .Params.gone}}
               <div class="col-md-4 portfolio-item shuffle-item" data-groups="[&quot;{{ .Params.Category | urlize }}&quot;]">
                 <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
                 <div class="portfolio-hover">
@@ -53,7 +53,41 @@
         <div class="block">
           <div class="row shuffle-wrapper">
             {{ range .Data.Pages }}
-            {{ if .Params.adopted}}
+            {{ if .Params.adopted and not .Params.gone}}
+              <div class="col-md-3 portfolio-item shuffle-item">
+                <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
+              </div>
+            {{ end }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="page-title bg-2" style="background-image: url('{{.Params.Bg_image | absURL}}'); background-size: contain;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1>Une dernière pensée pour...</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Portfolio Start -->
+<section class="portfolio-work">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <div class="row shuffle-wrapper">
+            {{ range .Data.Pages }}
+            {{ if .Params.gone}}
               <div class="col-md-3 portfolio-item shuffle-item">
                 <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
               </div>
