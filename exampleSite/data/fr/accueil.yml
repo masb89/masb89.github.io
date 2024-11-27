@@ -5,8 +5,8 @@ banniere:
   bg_overlay: false
   title: Un chat un chat
   titre: UN CHAT UN CHAT
-  soustitre: Association loi 1901 de protection animale 
-  content: <span style="color:#fff">Sans refuge | Familles d'accueil à Lyon</span>
+  soustitre: Association loi 1901 | Créée en 2024
+  content: <span style="color:#fff">Sans refuge — Familles d’accueil à Lyon</span>
   button:
     enable: true
     label: Faire un don
@@ -14,7 +14,7 @@ banniere:
 
 paragraphe1:
   enable: true
-  title: Tout faire pour réduire la souffrance féline
+  title: AGIR POUR RÉDUIRE LA SOUFFRANCE FÉLINE
   description: ''
   content: "La misère féline est souvent invisible et pourtant omniprésente ; en France le nombre de chats errants est estimé à 11 millions. La vie d’errance expose les animaux à la peur quotidienne, la faim, les maladies, les blessures et la cruauté humaine.\n\n
 Un chat un chat est une association sans refuge, qui prend en charge des chats laissés-pour-compte et les placent en familles d’accueil ; ils (re)découvrent le confort d’un foyer, peuvent être soignés en sécurité et sont ensuite placés à l’adoption.\n\n
