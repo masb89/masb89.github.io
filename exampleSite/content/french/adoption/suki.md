@@ -4,7 +4,7 @@ description: "En savoir plus sur Suki"
 draft: false
 image : "images/SUKI_ADOPTION.png"
 bg_image: "images/siteinternetbandeau.png"
-weight: 1
+weight: 2
 adopted: false
 gone: false
 ---
