@@ -2,10 +2,10 @@
 title: "Hermione"
 description: "En savoir plus sur Hermione"
 draft: false
-image : "images/HERMIONE_ADOPTION.png"
+image : "images/Hermione.png"
 bg_image: "images/siteinternetbandeau.png"
-weight: 1
-adopted: false
+weight: 9994
+adopted: true
 gone: false
 ---
 
