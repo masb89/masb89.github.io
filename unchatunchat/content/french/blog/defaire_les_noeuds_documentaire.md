@@ -3,7 +3,7 @@ title: "Défaire les nœuds : on vous résume le documentaire « Quelles croquet
   pour nos bêtes ? »."
 author: Un chat un chat
 bg_image: images/siteinternetbandeau.png
-image: /unchatunchat/static/images/blog_croquettes.png
+image: images/blog_croquettes.png
 type: post
 date: 2025-01-22T12:00:00+00:00
 draft: false
