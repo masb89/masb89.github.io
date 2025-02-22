@@ -60,6 +60,9 @@ maxAge = "720h"
 [markup]
 [markup.goldmark.renderer]
 unsafe= true
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      footnote = true
 
 [markup.tableOfContents]
 startLevel = 2
