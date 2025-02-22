@@ -16,5 +16,7 @@ collections:
       - { type: "Type", name: "type", widget: "string", default: "post" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Draft", name: "draft", widget: "boolean", default: false } 
+      - { label: "Categories", name: "categories", widget: "list" } 
+      - { label: "Tags", name: "tags", widget: "list" } 
+      - { label: "Draft", name: "draft", widget: "boolean", default: false } 
       - { label: "Body", name: "body", widget: "markdown" }
-
