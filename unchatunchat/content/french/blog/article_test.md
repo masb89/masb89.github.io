@@ -2,7 +2,7 @@
 title: "Petfood - un documentaire"
 date: 2025-01-22T12:00:00+00:00
 author: Un chat un chat
-image : "images/SUKI_ADOPTION.jpg"
+image : "images/SUKI_ADOPTION.png"
 bg_image: "images/siteinternetbandeau.png"
 categories: ["Petfood"]
 tags: ["Chat"]
