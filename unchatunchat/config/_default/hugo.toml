@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://unchatunchatlyon.netlify.app/"
 title = "Un chat un chat | Lyon"
-theme = "masb89.github.io"
+theme = "masb89.github.io   "
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "Europe/Paris"
 # post pagination
