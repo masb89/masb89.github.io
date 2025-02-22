@@ -56,10 +56,10 @@ De plus, même si le travail d’enquête sur l’influence des industriels aupr
 
 Nous revenons très bientôt avec de nouveaux articles concernant la nutrition de nos petits félins, et en attendant, bon visionnage !
 
-[^1]: Pour le démontrer, il faudrait réaliser une étude scientifique de grande ampleur comptant deux groupes de chats témoins nourris exclusivement de croquettes pour l’un, exclusivement de nourriture humide ou crue pour l’autre, et qu’elle s’étende sur une dizaine d’années minimum. C’est extrêmement difficile ! [↑](#footnote-ref-1)
-[^2]: [Groupe *Facebook* « Alerte croquettes toxiques »](https://www.facebook.com/groups/alertescroquettes/?locale=fr_FR) [↑](#footnote-ref-2)
-[^3]: La FEDIAF est la *European Pet Food Industry Federation*. Ils représentent 18 pays et 95% de l’industrie en Europe, donc touchent 352 millions d’animaux domestiques. Données fournies par leur site internet. [↑](#footnote-ref-3)
-[^4]: Documentaire Arte décryptant l’industrie du sucre et les techniques lobbyistes ; [« Sucre, le doux mensonge »](https://www.youtube.com/watch?v=WuWAlXkGbCg) [↑](#footnote-ref-4)
-[^5]: [« Parce que les croquettivores n’existent pas »](https://barf-asso.fr/) [↑](#footnote-ref-5)
-[^6]: L’alimentation de nos chats devrait être composée d’au moins 60% d’eau, pour préserver leurs reins entre autres. Nous en reparlerons dans un prochain article. [↑](#footnote-ref-6)
-[^7]: Les Échos, [« Après les croquettes, *Mars* mise sur les cliniques vétérinaires en Europe »](https://www.lesechos.fr/industrie-services/conso-distribution/apres-les-croquettes-mars-mise-sur-les-cliniques-veterinaires-en-europe-1217821) [↑](#footnote-ref-7)
+[^1]: Pour le démontrer, il faudrait réaliser une étude scientifique de grande ampleur comptant deux groupes de chats témoins nourris exclusivement de croquettes pour l’un, exclusivement de nourriture humide ou crue pour l’autre, et qu’elle s’étende sur une dizaine d’années minimum. C’est extrêmement difficile ! 
+[^2]: [Groupe *Facebook* « Alerte croquettes toxiques »](https://www.facebook.com/groups/alertescroquettes/?locale=fr_FR) 
+[^3]: La FEDIAF est la *European Pet Food Industry Federation*. Ils représentent 18 pays et 95% de l’industrie en Europe, donc touchent 352 millions d’animaux domestiques. Données fournies par leur site internet. 
+[^4]: Documentaire Arte décryptant l’industrie du sucre et les techniques lobbyistes ; [« Sucre, le doux mensonge »](https://www.youtube.com/watch?v=WuWAlXkGbCg) 
+[^5]: [« Parce que les croquettivores n’existent pas »](https://barf-asso.fr/)
+[^6]: L’alimentation de nos chats devrait être composée d’au moins 60% d’eau, pour préserver leurs reins entre autres. Nous en reparlerons dans un prochain article.
+[^7]: Les Échos, [« Après les croquettes, *Mars* mise sur les cliniques vétérinaires en Europe »](https://www.lesechos.fr/industrie-services/conso-distribution/apres-les-croquettes-mars-mise-sur-les-cliniques-veterinaires-en-europe-1217821) 
