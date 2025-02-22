@@ -4,7 +4,7 @@ author: Un chat un chat
 bg_image: images/bandeau_blog.png
 image: images/blog_croquettes.png
 type: post
-date: 2025-01-22T12:00:00+00:00
+date: 2025-02-22T13:00:00.000Z
 draft: false
 categories:
   - Défaire les nœuds
