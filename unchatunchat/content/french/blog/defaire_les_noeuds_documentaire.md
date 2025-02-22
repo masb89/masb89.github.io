@@ -11,8 +11,6 @@ draft: false
 type: "post"
 
 ---
-Défaire les nœuds : on vous résume le documentaire « Quelles croquettes pour nos bêtes ? ».
-
 _Temps de lecture : 7 minutes._
 
 Le documentaire « [Quelles croquettes pour nos bêtes](https://www.youtube.com/watch?v=ZJAdhwGte-o) » de Marion Baillot, diffusé pour la première fois en 2017 sur France 5, est édifiant et toujours d’actualité 8 ans plus tard.
