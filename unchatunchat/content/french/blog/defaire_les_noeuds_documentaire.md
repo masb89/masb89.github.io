@@ -31,7 +31,7 @@ Voici en 14 points le résumé de ce que cette enquête met au jour ;
 * Cet apport en céréales pose deux problèmes majeurs ; cela augmente fortement la quantité de glucides dans la nourriture, et les mycotoxines développées dans les céréales sont dangereuses pour la santé de nos animaux (le taux de mycotoxines est légalement limité en ce qui concerne la nourriture humaine. Pour la nourriture destinée aux animaux, cette limitation n’est plus qu’une simple recommandation).\
     En mangeant des croquettes tous les jours pendant des années, ils risquent de développer des maladies graves (diabète, obésité, dermatite…).  
 * Nos chats n’ont aucunement besoin de glucides dans leur alimentation puisqu’ils synthétisent leurs propres glucides à travers d’autres nutriments par le phénomène de néoglucogenèse.\
-    Entre 2007 et 2017, les visites vétérinaires ont augmenté de 70%. Bien que cela puisse correspondre au développement du monopole de la *petfood* sur le nourrissage de nos animaux, aucune étude ne démontre la corrélation entre croquettes et maladies chroniques au moment du documentaire<sup>\[[1]](#footnote-1)</sup>.  
+    Entre 2007 et 2017, les visites vétérinaires ont augmenté de 70%. Bien que cela puisse correspondre au développement du monopole de la *petfood* sur le nourrissage de nos animaux, aucune étude ne démontre la corrélation entre croquettes et maladies chroniques au moment du documentaire[^1]<sup>\[[1]](#footnote-1)</sup>.  
 * Gilles Vouillon, fondateur du groupe *Facebook* « Alerte croquettes toxiques »<sup>\[[2]](#footnote-2)</sup> visant à éduquer au décryptage des étiquettes nutritionnelles des paquets de croquettes et militant pour une plus grande transparence des industriels, explique le principe du « splitting » (*séparation*, *scission* en français).\
     Pour ne pas avoir à afficher le maïs (ou le blé, le riz…) comme premier ingrédient nutritionnel et afin que ce soit la « viande » le premier (avec seulement 17% par exemple), le *splitting* permet d’obtenir de plus petits pourcentages en divisant « maïs » par « protéine de maïs », « gluten de maïs », *etc*. C’est une technique malhonnête envers les consommateur·ices, mais légale.  
 * Seuls les tableaux nutritionnels permettent de révéler la répartition réelle en protéines, glucides, fibres *etc*. Mais pour la nourriture animale, la législation européenne n’oblige pas les industriels à fournir ces informations de façon complète. En particulier, le taux de glucides est facultatif (et en pratique quasiment jamais mentionné).  
@@ -56,7 +56,7 @@ De plus, même si le travail d’enquête sur l’influence des industriels aupr
 Nous revenons très bientôt avec de nouveaux articles concernant la nutrition de nos petits félins, et en attendant, bon visionnage !
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
+[1^] Test
 1. Pour le démontrer, il faudrait réaliser une étude scientifique de grande ampleur comptant deux groupes de chats témoins nourris exclusivement de croquettes pour l’un, exclusivement de nourriture humide ou crue pour l’autre, et qu’elle s’étende sur une dizaine d’années minimum. C’est extrêmement difficile ! [↑](#footnote-ref-1)
 2. [Groupe *Facebook* « Alerte croquettes toxiques »](https://www.facebook.com/groups/alertescroquettes/?locale=fr_FR) [↑](#footnote-ref-2)
 3. La FEDIAF est la *European Pet Food Industry Federation*. Ils représentent 18 pays et 95% de l’industrie en Europe, donc touchent 352 millions d’animaux domestiques. Données fournies par leur site internet. [↑](#footnote-ref-3)
