@@ -4,7 +4,7 @@ backend:
 media_folder: "static/images"
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
+    label: "Article" # Used in the UI
     folder: "content/french/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -15,5 +15,6 @@ collections:
       - { label: "Featured Image", name: "image", widget: "image" }
       - { type: "Type", name: "type", widget: "string", default: "post" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Draft", name: "draft", widget: "bool" } 
+      - { label: "Draft", name: "draft", widget: "string", default: "false" } 
+      - { label: "Body", name: "body", widget: "markdown" }
 
