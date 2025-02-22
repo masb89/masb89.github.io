@@ -16,7 +16,7 @@ const deleteFolder = (folderPath) => {
 const getFolderName = (rootfolder) => {
   const configPath = path.join(
     rootfolder,
-    "exampleSite/config/_default/hugo.toml"
+    "unchatunchat/config/_default/hugo.toml"
   );
   const getConfig = fs.readFileSync(configPath, "utf8");
   const match = getConfig.match(/theme\s*=\s*\[?"([^"\]]+)"\]?/);
@@ -48,7 +48,7 @@ const iterateFilesAndFolders = (rootFolder, { destinationRoot }) => {
 const setupTheme = () => {
   const rootFolder = path.join(__dirname, "../");
 
-  if (!fs.existsSync(path.join(rootFolder, "exampleSite"))) {
+  if (!fs.existsSync(path.join(rootFolder, "unchatunchat"))) {
     const includesFiles = [
       "hugo.toml",
       "assets",
@@ -59,12 +59,12 @@ const setupTheme = () => {
       "static",
     ];
 
-    const folder = createNewfolder(rootFolder, "exampleSite");
+    const folder = createNewfolder(rootFolder, "unchatunchat");
 
     fs.readdirSync(rootFolder, { withFileTypes: true }).forEach((file) => {
       if (includesFiles.includes(file.name)) {
         if (file.isDirectory()) {
-          const destination = path.join(rootFolder, "exampleSite", file.name);
+          const destination = path.join(rootFolder, "unchatunchat", file.name);
           fs.mkdirSync(destination, { recursive: true });
           iterateFilesAndFolders(path.join(rootFolder, file.name), {
             destinationRoot: destination,

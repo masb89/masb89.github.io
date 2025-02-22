@@ -4,7 +4,7 @@ const path = require("path");
 const getFolderName = (rootfolder) => {
   const configPath = path.join(
     rootfolder,
-    "exampleSite/config/_default/hugo.toml"
+    "unchatunchat/config/_default/hugo.toml"
   );
   const getConfig = fs.readFileSync(configPath, "utf8");
   const match = getConfig.match(/theme\s*=\s*\[?"([^"\]]+)"\]?/);
@@ -68,9 +68,9 @@ const setupProject = () => {
       }
     });
 
-    const exampleSite = path.join(rootfolder, "exampleSite");
-    iterateFilesAndFolders(exampleSite, { destinationRoot: rootfolder });
-    deleteFolder(exampleSite);
+    const unchatunchat = path.join(rootfolder, "unchatunchat");
+    iterateFilesAndFolders(unchatunchat, { destinationRoot: rootfolder });
+    deleteFolder(unchatunchat);
   }
 };
 
