@@ -20,8 +20,12 @@ Le documentaire « [Quelles croquettes pour nos bêtes ?](https://www.youtube.co
 
 Voici en 14 points le résumé de ce que cette enquête met au jour ;
 
-* Les plus gros industriels du marché sont les groupes *Nestlé* (qui possède les marques *Purina One*, *Pro Plan*, *Friskies*, *Gourmet*, *Félix*…) et *Mars* (qui possède les marques *Royal Canin*, *Sheba*, *Whiskas*, *Kitekat*…). Ils se partagent plusieurs milliards de chiffre d’affaires sur le secteur *petfood* chaque année.
+* Les plus gros industriels du marché sont les groupes *Nestlé* (qui possède les marques *Purina One*, *Pro Plan*, *Friskies*, *Gourmet*, *Félix*…) et *Mars* (qui possède les marques *Royal Canin*, *Sheba*, *Whiskas*, *Kitekat*…). Ils se partagent plusieurs milliards de chiffre d’affaires sur le secteur *petfood* chaque année. 
+
+
 * Les sources de protéines animales dans les croquettes ne sont *jamais* des morceaux nobles. Elles proviennent le plus souvent de farines animales, c’est-à-dire de ces morceaux pauvres qui sont cuits puis broyés. Sabots, carcasses, plumes, peaux et même laine peuvent être ajoutés et ainsi augmenter le taux protéinique d’une croquette.  
+
+
 * La plupart des industriels ajoutent des céréales à leurs croquettes. D’une part parce que l’amidon de celles-ci sert de liant aux croquettes (ça « colle »), et d’autre part parce que c’est bien moins onéreux que la viande.\
     Cet ajout de céréales n’a aucun bénéfice nutritionnel ; il sert uniquement à pallier une problématique industrielle.  
 * Cet apport en céréales pose deux problèmes majeurs ; cela augmente fortement la quantité de glucides dans la nourriture, et les mycotoxines développées dans les céréales sont dangereuses pour la santé de nos animaux (le taux de mycotoxines est légalement limité en ce qui concerne la nourriture humaine. Pour la nourriture destinée aux animaux, cette limitation n’est plus qu’une simple recommandation).\
@@ -50,6 +54,8 @@ Par ailleurs, ces dernières années ont aussi vu l’essor des réseaux sociaux
 De plus, même si le travail d’enquête sur l’influence des industriels auprès des éleveur·euses et des instances européennes est formidable, le documentaire ne traite pas de la question de leur entrisme dans les 4 écoles vétérinaires françaises (et ses conséquences), ni dans les cliniques vétérinaires elles-mêmes<sup>\[[7]](#footnote-7)</sup>.
 
 Nous revenons très bientôt avec de nouveaux articles concernant la nutrition de nos petits félins, et en attendant, bon visionnage !
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1. Pour le démontrer, il faudrait réaliser une étude scientifique de grande ampleur comptant deux groupes de chats témoins nourris exclusivement de croquettes pour l’un, exclusivement de nourriture humide ou crue pour l’autre, et qu’elle s’étende sur une dizaine d’années minimum. C’est extrêmement difficile ! [↑](#footnote-ref-1)
 2. [Groupe *Facebook* « Alerte croquettes toxiques »](https://www.facebook.com/groups/alertescroquettes/?locale=fr_FR) [↑](#footnote-ref-2)
