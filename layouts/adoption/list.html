@@ -54,7 +54,7 @@
           <div class="row shuffle-wrapper">
             {{ range .Data.Pages }}
             {{ if and (.Params.adopted) (not .Params.gone) }}
-              <div class="col-md-3 portfolio-item shuffle-item">
+              <div class="col-md-2 portfolio-item shuffle-item">
                 <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
               </div>
             {{ end }}
@@ -88,7 +88,7 @@
           <div class="row shuffle-wrapper">
             {{ range .Data.Pages }}
             {{ if .Params.gone}}
-              <div class="col-md-3 portfolio-item shuffle-item">
+              <div class="col-md-2 portfolio-item shuffle-item">
                 <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
               </div>
             {{ end }}

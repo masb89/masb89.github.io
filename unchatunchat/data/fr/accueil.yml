@@ -9,8 +9,8 @@ banniere:
   content: <span style="color:#fff">Sans refuge — Familles d’accueil à Lyon</span>
   button:
     enable: true
-    label: Faire un don
-    link: https://www.helloasso.com/associations/un-chat-un-chat/formulaires/1
+    label: Donner 1€/mois
+    link: https://www.teaming.net/unchatunchat
 
 paragraphe1:
   enable: true
