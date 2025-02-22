@@ -1,6 +1,6 @@
 ---
 title: Blog
 description: ''
-bg_image: "images/siteinternetbandeau.png"
+bg_image: "images/bandeau_blog.png"
 
 ---
