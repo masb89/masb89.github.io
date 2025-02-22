@@ -2,7 +2,10 @@
 donner:
   enable: true
   title: Faire un don
-  content: "L’association est à but non lucratif ; si les frais d'adoption de nos protégés permettent en général de rembourser les frais vétérinaires engagés pour eux, ils ne couvrent en aucun cas le gîte et le couvert 🫠 Nourrir et prendre soin des chats de l'association représente un coût non négligeable !<br>Il n'y a pas de petit don et chaque euro est destiné au soin nos pensionnaires.<br>Vous pouvez effectuer un don financier, qu'il soit ponctuel ou mensualisé, avec un montant libre dès 1€. La mensualisation peut être stoppée à tout moment.<br>Vous pouvez également faire un don matériel, en nourriture ou accessoires, grâce à notre wishlist ; pour cela il vous suffit de faire vos achats en cliquant sur le bouton ci-dessous, et au moment de la livraison, choisir « cadeau association Un chat un chat », et la commande nous sera directement envoyée ✨<br>Merci par avance pour votre engagement 🙏.<br>"
+  content: "Les frais d’adoption nous permettent de rembourser les frais vétérinaires engagés pour nos protégés (identification, déparasitage, vaccination et stérilisation). Ces frais d’adoption ne couvrent pas les frais de nourriture et de litière qui représentent un investissement conséquent pour notre toute petite association.<br>
+Pour nous aider, vous pouvez effectuer un don financier, ponctuel ou mensualisé, avec un montant libre dès 1€.<br>
+Vous pouvez également faire un don matériel grâce à notre wishlist. Pour cela, cliquez sur le bouton « Faire un don matériel », effectuez vos achats en ligne et choisissez l’option « cadeau association Un chat un chat » au moment de la livraison. La commande nous sera directement envoyée !<br>
+Merci 🩷<br>"
   image: images/faireundon.png
   button:
     enable: true
@@ -32,7 +35,7 @@ Si vous êtes intéressé·e·s, il vous faut remplir notre formulaire en ligne.
 suivre:
   enable: true
   title: Suivre nos réseaux sociaux
-  content: "Un moyen gratuit et très simple de nous aider est tout simplement de nous suivre sur nos réseaux et d’interagir avec nos publications ! Liker, commenter nos publications et parler de l’association nous permet de gagner en visibilité ; chaque chat adopté grâce à cette visibilité libère une place en famille d'accueil et permet ainsi de sauver un petit laissé-pour-compte de la rue. Les liens vers notre page Facebook et notre compte Instagram se trouvent en haut à droite de notre menu.<br>
+  content: "Un moyen simple et gratuit de nous aider est de nous suivre sur Instagram et Facebook et d’interagir avec nos publications ! Liker, commenter et partager nous permet de gagner en visibilité, ce qui peut permettre une adoption ou d’être rejoint par une nouvelle famille d’accueil par exemple.<br>
 Bien entendu, le meilleur soutien que vous pouvez apporter à la cause féline reste de stériliser vos chats et de promouvoir la stérilisation systématique auprès de votre entourage.<br>
 Merci 🩷"
   image: images/parlerdenous.png
