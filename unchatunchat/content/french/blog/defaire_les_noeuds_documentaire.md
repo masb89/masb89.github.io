@@ -1,0 +1,76 @@
+---
+title: "Défaire les nœuds : on vous résume le documentaire « Quelles croquettes pour nos bêtes ? »."
+date: 2025-01-22T12:00:00+00:00
+author: Un chat un chat
+image : "images/SUKI_ADOPTION.png"
+bg_image: "images/siteinternetbandeau.png"
+categories: ["Défaire les nœuds"]
+tags: ["Chat","Petfood","Croquettes"]
+description: "this is meta description"
+draft: false
+type: "post"
+
+---
+Défaire les nœuds : on vous résume le documentaire « Quelles croquettes pour nos bêtes ? ».
+
+_Temps de lecture : 7 minutes._
+
+Le documentaire « [Quelles croquettes pour nos bêtes](https://www.youtube.com/watch?v=ZJAdhwGte-o) » de Marion Baillot, diffusé pour la première fois en 2017 sur France 5, est édifiant et toujours d’actualité 8 ans plus tard.
+
+Voici en 14 points le résumé de ce que cette enquête met au jour ;
+
+- Les plus gros industriels du marché sont les groupes _Nestlé_ (qui possède les marques _Purina One_, _Pro Plan_, _Friskies_, _Gourmet_, _Félix_…) et _Mars_ (qui possède les marques _Royal Canin_, _Sheba_, _Whiskas_, _Kitekat_…). Ils se partagent plusieurs milliards de chiffre d’affaires sur le secteur _petfood_ chaque année.
+- Les sources de protéines animales dans les croquettes ne sont _jamais_ des morceaux nobles. Elles proviennent le plus souvent de farines animales, c’est-à-dire de ces morceaux pauvres qui sont cuits puis broyés. Sabots, carcasses, plumes, peaux et même laine peuvent être ajoutés et ainsi augmenter le taux protéinique d’une croquette.  
+
+- La plupart des industriels ajoutent des céréales à leurs croquettes. D’une part parce que l’amidon de celles-ci sert de liant aux croquettes (ça « colle »), et d’autre part parce que c’est bien moins onéreux que la viande.  
+    Cet ajout de céréales n’a aucun bénéfice nutritionnel ; il sert uniquement à pallier une problématique industrielle.  
+
+- Cet apport en céréales pose deux problèmes majeurs ; cela augmente fortement la quantité de glucides dans la nourriture, et les mycotoxines développées dans les céréales sont dangereuses pour la santé de nos animaux (le taux de mycotoxines est légalement limité en ce qui concerne la nourriture humaine. Pour la nourriture destinée aux animaux, cette limitation n’est plus qu’une simple recommandation).  
+    En mangeant des croquettes tous les jours pendant des années, ils risquent de développer des maladies graves (diabète, obésité, dermatite…).  
+
+- Nos chats n’ont aucunement besoin de glucides dans leur alimentation puisqu’ils synthétisent leurs propres glucides à travers d’autres nutriments par le phénomène de néoglucogenèse.  
+    Entre 2007 et 2017, les visites vétérinaires ont augmenté de 70%. Bien que cela puisse correspondre au développement du monopole de la _petfood_ sur le nourrissage de nos animaux, aucune étude ne démontre la corrélation entre croquettes et maladies chroniques au moment du documentaire<sup>[\[1\]](#footnote-1)</sup>.  
+
+- Gilles Vouillon, fondateur du groupe _Facebook_ « Alerte croquettes toxiques » <sup>[\[2\]](#footnote-2)</sup> visant à éduquer au décryptage des étiquettes nutritionnelles des paquets de croquettes et militant pour une plus grande transparence des industriels, explique le principe du « splitting » (_séparation_, _scission_ en français).  
+    Pour ne pas avoir à afficher le maïs (ou le blé, le riz…) comme premier ingrédient nutritionnel et afin que ce soit la « viande » le premier (avec seulement 17% par exemple), le _splitting_ permet d’obtenir de plus petits pourcentages en divisant « maïs » par « protéine de maïs », « gluten de maïs », _etc_. C’est une technique malhonnête envers les consommateur·ices, mais légale.  
+
+- Seuls les tableaux nutritionnels permettent de révéler la répartition réelle en protéines, glucides, fibres _etc_. Mais pour la nourriture animale, la législation européenne n’oblige pas les industriels à fournir ces informations de façon complète. En particulier, le taux de glucides est facultatif (et en pratique quasiment jamais mentionné).  
+
+- Les résultats d’analyse d’un laboratoire indépendant belge révèlent que sur les 8 paquets de croquettes représentatifs du marché fournis par les journalistes, tous contiennent entre 40 et 55% de glucides.  
+
+- La FEDIAF (regroupement des industriels de la _petfood_)<sup>[\[3\]](#footnote-3)</sup> emploie des lobbyistes qui luttent contre l’avancement législatif visant à rendre transparente la composition de leurs produits, entre autres (ou bien énoncé de façon positive ; qui « luttent pour défendre les intérêts des industriels face aux fonctionnaires »).  
+
+- Des eurodéputé·es critiquent cette influence industrielle, comme Michèle Rivasi (Europe Écologie), interrogée dans l’enquête. Cependant, ça ne suffit pas. La FEDIAF est parvenue à faire joindre à la réglementation européenne _Un guide de bonne pratique de l’étiquetage_. Ce guide ne mentionne pas une seule fois le mot _glucides_.
+- À la suite de l’intervention de Michèle Rivasi, la journaliste Marion Baillot retourne interviewer le lobbyiste de la FEDIAF au sujet de ce guide de bonne pratique. « C’est vrai que les animaux n’ont pas besoin de beaucoup de glucides » admet-il. Il ajoute ; « Si vous analysez un produit, vous n’allez pas trouver beaucoup de glucides », ce à quoi la journaliste rétorque en fournissant les analyses indépendantes qui révèlent en moyenne 46% de glucides dans les croquettes qu’il défend ; « vous trouvez que _c’est pas beaucoup_ ? ». Dos au mur et au lieu d’admettre que _oui, c’est beaucoup_, il utilise le fameux « avez-vous des preuves que c’est dangereux pour la santé ? » (dernier recours systématiquement utilisé par tous les industriels –tabac, sucre…<sup>[\[4\]](#footnote-4)</sup>).  
+    La journaliste n’en démord pas ; « pourquoi l’industrie n’affiche pas son taux de glucides ? A-t-elle quelque chose à cacher ? ». Selon le lobbyiste, non, puisque le consommateur « peut appeler le fabriquant » pour connaître la composition exacte. L’échange se termine sur un blanc de 10 secondes de la part du lobbyiste, n’ayant pas de réponse à la remarque « c’est pas plus simple de l’indiquer sur le paquet ? ».  
+
+- Le groupe _Mars_ (pour rappel ; _Royal Canin_, _Whiskas_, _Sheba_…) développe son influence jusqu’aux éleveur·euses animaliers. Les éleveurs signent des partenariats avec ces grandes marques afin d’obtenir une réduction sur leurs achats en croquettes.  
+    C’est d’autant plus intéressant pour les industriels que c’est une publicité garantie pour leur marque auprès des acheteur·euses d’animaux de race ; celleux-ci reçoivent avec leur animal un paquet de ces croquettes accompagné d’un bon de réduction pour leur prochain achat, les poussant à conserver la même nourriture que l’éleveur·euse (idéalement pour « toute la vie de l’animal » comme la commerciale _Royal Canin_ interviewée en rit).  
+
+- En 2017, le BARF (_nourriture de viande crue_) commence son essor. Des particuliers souhaitant offrir une alimentation plus saine et physiologiquement respectueuse à leur animal s’unissent et fondent l’association BARF-ASSO<sup>[\[5\]](#footnote-5)</sup> afin de réduire le coût d’achat de la viande crue. Les repas leur coûtent 0,65€ par portion, imbattable.  
+
+- Le documentaire se conclue ; _à l’issue de notre enquête, si vous souhaitez nourrir vos animaux avec des croquettes ou des pâtées, pensez à inspecter les emballages pour vérifier la nature des viandes utilisées et la quantité de céréales incorporées. N’hésitez pas à calculer le taux de glucides, ou à appeler votre fabriquant pour le connaître. Certains industriels proposent désormais des gammes sans céréales. Et si vous avez le temps pour ce chien, ce chat que vous chérissez, et bien ; cuisinez !_
+
+Et en 2025 ?
+
+Bien que les croquettes sans céréales se soient largement développées et que de nombreuses marques fournissent désormais des tableaux nutritionnels complets (c’est-à-dire où 100% de la composition est affichée), le fond du problème reste le même pour nos chats : et l’hydratation dans tout ça ?<sup>[\[6\]](#footnote-6)</sup>
+
+Par ailleurs, ces dernières années ont aussi vu l’essor des réseaux sociaux offrir une nouvelle zone d’influence aux industriels. C’est un terrain privilégié pour s’adresser directement aux particuliers intéressés par la santé et le bien-être de leur animal (par le biais de partenariats avec des influenceur·euses, des professionnel·les –comme des comportementalistes _etc._), sans aucune régulation (quelle concurrence possible pour les plus petites marques ?) ni législation forçant à révéler les conflits d’intérêts.
+
+De plus, même si le travail d’enquête sur l’influence des industriels auprès des éleveur·euses et des instances européennes est formidable, le documentaire ne traite pas de la question de leur entrisme dans les 4 écoles vétérinaires françaises (et ses conséquences), ni dans les cliniques vétérinaires elles-mêmes<sup>[\[7\]](#footnote-7)</sup>.
+
+Nous revenons très bientôt avec de nouveaux articles concernant la nutrition de nos petits félins, et en attendant, bon visionnage !
+
+1. Pour le démontrer, il faudrait réaliser une étude scientifique de grande ampleur comptant deux groupes de chats témoins nourris exclusivement de croquettes pour l’un, exclusivement de nourriture humide ou crue pour l’autre, et qu’elle s’étende sur une dizaine d’années minimum. C’est extrêmement difficile ! [↑](#footnote-ref-1)
+
+2. [Groupe _Facebook_ « Alerte croquettes toxiques »](https://www.facebook.com/groups/alertescroquettes/?locale=fr_FR) [↑](#footnote-ref-2)
+
+3. La FEDIAF est la _European Pet Food Industry Federation_. Ils représentent 18 pays et 95% de l’industrie en Europe, donc touchent 352 millions d’animaux domestiques. Données fournies par leur site internet. [↑](#footnote-ref-3)
+
+4. Documentaire Arte décryptant l’industrie du sucre et les techniques lobbyistes ; [« Sucre, le doux mensonge »](https://www.youtube.com/watch?v=WuWAlXkGbCg) [↑](#footnote-ref-4)
+
+5. [« Parce que les croquettivores n’existent pas »](https://barf-asso.fr/) [↑](#footnote-ref-5)
+
+6. L’alimentation de nos chats devrait être composée d’au moins 60% d’eau, pour préserver leurs reins entre autres. Nous en reparlerons dans un prochain article. [↑](#footnote-ref-6)
+
+7. Les Échos, [« Après les croquettes, _Mars_ mise sur les cliniques vétérinaires en Europe »](https://www.lesechos.fr/industrie-services/conso-distribution/apres-les-croquettes-mars-mise-sur-les-cliniques-veterinaires-en-europe-1217821) [↑](#footnote-ref-7)
