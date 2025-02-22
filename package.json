@@ -12,5 +12,8 @@
     "preview:example": "cd unchatunchat; hugo server --themesDir ../.. --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
     "project-setup": "node ./scripts/projectSetup.js",
     "theme-setup": "node ./scripts/themeSetup.js"
+  },
+  "dependencies": {
+    "@tinacms/cli": "^1.9.0"
   }
 }
