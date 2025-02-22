@@ -1,15 +1,19 @@
 ---
-title: "Défaire les nœuds : on vous résume le documentaire « Quelles croquettes pour nos bêtes ? »."
-date: 2025-01-22T12:00:00+00:00
+title: "Défaire les nœuds : on vous résume le documentaire « Quelles croquettes
+  pour nos bêtes ? »."
 author: Un chat un chat
-image : "images/SUKI_ADOPTION.png"
-bg_image: "images/siteinternetbandeau.png"
-categories: ["Défaire les nœuds"]
-tags: ["Chat","Petfood","Croquettes"]
-description: "this is meta description"
+bg_image: images/siteinternetbandeau.png
+image: /unchatunchat/static/images/blog_croquettes.png
+type: post
+date: 2025-01-22T12:00:00+00:00
 draft: false
-type: "post"
-
+categories:
+  - Défaire les nœuds
+tags:
+  - Chat
+  - Petfood
+  - Croquettes
+description: this is meta description
 ---
 _Temps de lecture : 7 minutes._
 
