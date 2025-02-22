@@ -37,32 +37,7 @@
               <li><a class="socials" href="https://facebook.com/unchatunchat.lyon" target="_blank"><img style="width:20px;" src="/images/logo-facebook.svg" alt="unchatunchat.lyon"></a></li>
               <li><a class="socials" href="https://instagram.com/unchatunchat.lyon" target="_blank"><img style="width:20px;" src="/images/logo-instagram.svg" alt="unchatunchat.lyon"></a></li>
 
-              
-              <!-- Language List -->
-              {{- if site.IsMultiLingual }}
-              <li>
-                <select id="select-language" onchange="location = this.value;">
-                  {{ $siteLanguages := site.Languages}}
-                  {{ $pageLang := .Page.Lang}}
-                  {{ range .Page.AllTranslations }}
-                  {{ $translation := .}}
-                  {{ range $siteLanguages }}
-                  {{ if eq $translation.Lang .Lang }}
-                  {{ $selected := false }}
-                  {{ if eq $pageLang .Lang}}
-                  <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>
-                    {{ .LanguageName }}
-                  </option>
-                  {{ else }}
-                  <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}
-                  </option>
-                  {{ end }}
-                  {{ end }}
-                  {{ end }}
-                  {{ end }}
-                </select>
-              </li>
-              {{ end }}
+            
             </ul>
           </div><!-- /.navbar-collapse -->
         </nav>
