@@ -7,13 +7,13 @@ url = ""
 weight = 1
 
 [[main]]
-URL = "nousaider"
-name = "Nous aider"
+URL = "adoption"
+name = "Chats à l'adoption"
 weight = 2
 
 [[main]]
-URL = "adoption"
-name = "Chats à l'adoption"
+URL = "nousaider"
+name = "Nous aider"
 weight = 3
 
 [[main]]
@@ -28,13 +28,13 @@ url = ""
 weight = 1
 
 [[footer]]
-URL = "nousaider"
-name = "Nous aider"
-weight = "2"
-
-[[footer]]
 URL = "adoption"
 name = "Chats à l'adoption"
+weight = 2
+
+[[footer]]
+URL = "nousaider"
+name = "Nous aider"
 weight = 3
 
 [[footer]]
