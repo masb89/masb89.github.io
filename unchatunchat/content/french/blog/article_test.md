@@ -7,9 +7,10 @@ description = "PAs de description"
 image = "/images/SUKI_ADOPTION.jpg"
 tags = ["petfood"]
 title = "Petfood"
+draft = false
 type = "post"
-
 +++
+
 ###### Temps de lecture : X minutes
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque justo tellus, ut aliquam ipsum finibus id. Donec velit eros, sagittis id eros ut, mollis efficitur velit. Nulla convallis porttitor magna. Fusce nulla neque, eleifend eu turpis quis, luctus pellentesque ante. Phasellus imperdiet a arcu non tempor. Donec rhoncus consequat nulla sed finibus. Sed porta at turpis ut sagittis. Aenean gravida, mauris sed efficitur placerat, turpis purus imperdiet ex, sed dapibus sapien orci rutrum neque. Aliquam sodales dolor enim, id tempus ligula venenatis nec. Etiam at nibh fermentum, tempor est sit amet, faucibus tellus. Proin nec mattis lorem, non pellentesque velit.
