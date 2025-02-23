@@ -53,13 +53,13 @@ Voici en 13 points clés la synthèse des révélations de cette enquête ;
 - Le groupe *Mars* (pour rappel ; *Royal Canin*, *Whiskas*, *Sheba*…) développe son influence jusqu’aux éleveur·euses animaliers. Les éleveurs signent des partenariats avec ces grandes marques afin d’obtenir une réduction sur leurs achats en croquettes.\
     C’est d’autant plus intéressant pour les industriels que c’est une publicité garantie pour leur marque auprès des acheteur·euses d’animaux de race ; celleux-ci reçoivent avec leur animal un paquet de ces croquettes accompagné d’un bon de réduction pour leur prochain achat, les poussant à conserver la même nourriture que l’éleveur·euse (idéalement pour « toute la vie de l’animal » comme la commerciale *Royal Canin* interviewée en rit).  
 
-- En 2017, le BARF (*Bones And Raw Food* –« Os et viande crue » en français) commence son essor. Des particuliers souhaitant offrir une alimentation plus saine et physiologiquement respectueuse à leur animal s’unissent et fondent l’association BARF-ASSO[^5] afin de réduire le coût d’achat de la viande crue. Les repas leur coûtent 0,65€ par portion, imbattable.  
+- En 2017, le BARF[^5] commence son essor. Des particuliers souhaitant offrir une alimentation plus saine et physiologiquement respectueuse à leur animal s’unissent et fondent l’association BARF-ASSO[^6] afin de réduire le coût d’achat de la viande crue. Les repas leur coûtent 0,65€ par portion, imbattable.  
 
 Le documentaire se conclue ; *à l’issue de notre enquête, si vous souhaitez nourrir vos animaux avec des croquettes ou des pâtées, pensez à inspecter les emballages pour vérifier la nature des viandes utilisées et la quantité de céréales incorporées. N’hésitez pas à calculer le taux de glucides, ou à appeler votre fabriquant pour le connaître. Certains industriels proposent désormais des gammes sans céréales. Et si vous avez le temps pour ce chien, ce chat que vous chérissez, et bien ; cuisinez !*
 
-Et en 2025 ?
+Huit ans plus tard, où en sommes-nous ?
 
-Bien que les croquettes sans céréales se soient largement développées et que de nombreuses marques fournissent désormais des tableaux nutritionnels complets (c’est-à-dire où 100% de la composition est affichée), le fond du problème reste le même pour nos chats : et l’hydratation dans tout ça ?[^6]
+Bien que les croquettes sans céréales se soient largement développées et que de nombreuses marques fournissent désormais des tableaux nutritionnels complets (c’est-à-dire où 100% de la composition est affichée), les croquettes pleines de glucides sont toujours sur le marché et même activement défendues par certain·es acteur·ices du milieu de la santé et du bien-être félins.
 
 Par ailleurs, ces dernières années ont aussi vu l’essor des réseaux sociaux offrir une nouvelle zone d’influence aux industriels. C’est un terrain privilégié pour s’adresser directement aux particuliers intéressés par la santé et le bien-être de leur animal (par le biais de partenariats avec des influenceur·euses, des professionnel·les –comme des comportementalistes *etc.*), sans aucune régulation (quelle concurrence possible pour les plus petites marques ?) ni législation forçant à révéler les conflits d’intérêts.
 
@@ -71,6 +71,6 @@ Nous revenons très bientôt avec de nouveaux articles concernant la nutrition d
 [^2]: [Groupe *Facebook* « Alerte croquettes toxiques »](https://www.facebook.com/groups/alertescroquettes/?locale=fr_FR) 
 [^3]: La FEDIAF est la *European Pet Food Industry Federation*. Ils représentent 18 pays et 95% de l’industrie en Europe, donc touchent 352 millions d’animaux domestiques. Données fournies par leur site internet. 
 [^4]: Documentaire Arte décryptant l’industrie du sucre et les techniques lobbyistes ; [« Sucre, le doux mensonge »](https://www.youtube.com/watch?v=WuWAlXkGbCg) 
-[^5]: [« Parce que les croquettivores n’existent pas »](https://barf-asso.fr/)
-[^6]: L’alimentation de nos chats devrait être composée d’au moins 60% d’eau, pour préserver leurs reins entre autres. Nous en reparlerons dans un prochain article.
+[^5]: *Bones And Raw Food*, en français « Os et viande crue »
+[^6]: [« Parce que les croquettivores n’existent pas »](https://barf-asso.fr/)
 [^7]: Les Échos, [« Après les croquettes, *Mars* mise sur les cliniques vétérinaires en Europe »](https://www.lesechos.fr/industrie-services/conso-distribution/apres-les-croquettes-mars-mise-sur-les-cliniques-veterinaires-en-europe-1217821)
