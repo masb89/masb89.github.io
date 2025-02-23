@@ -18,9 +18,12 @@ description: this is meta description
 
 Le documentaire « [Quelles croquettes pour nos bêtes ?](https://www.youtube.com/watch?v=ZJAdhwGte-o) » de Marion Baillot, diffusé pour la première fois en 2017 sur France 5, est édifiant et toujours d’actualité 8 ans plus tard.
 
-Voici en 13 points clés la synthèse des révélations de cette enquête ;
+Voici en 14 points clés la synthèse des révélations de cette enquête ;
 
 - Les plus gros industriels du marché sont les groupes *Nestlé* (qui possède les marques *Purina One*, *Pro Plan*, *Friskies*, *Gourmet*, *Félix*…) et *Mars* (qui possède les marques *Royal Canin*, *Sheba*, *Whiskas*, *Kitekat*…). Ils se partagent plusieurs *milliards* de chiffre d’affaires sur le secteur *petfood* chaque année. 
+
+- Les paquets de croquettes sont soigneusement marketés ; photo de viande, photo de chat ou de chien à l'air dynamique et sain, packaging au matériau brillant, mots-clés à la connotation naturelle ou scientifique... 
+La consultante en marketing Véronique Gaboriau considère que les consommateurs *souhaitent que leur attention soit détournée* de la composition réelle des croquettes qu'ils achètent par ces artifices, afin de ne pas remettre en question leur habitude d'achat.
 
 - Les sources de protéines animales dans les croquettes ne sont jamais des morceaux nobles. Elles proviennent le plus souvent de farines animales, c’est-à-dire de morceaux pauvres qui sont cuits puis broyés. Sabots, carcasses, plumes, peaux et même laine peuvent être ajoutés et ainsi augmenter le taux protéinique d’une croquette.  
 
@@ -30,7 +33,7 @@ Voici en 13 points clés la synthèse des révélations de cette enquête ;
 - Cet apport en céréales pose deux problèmes majeurs ; cela augmente fortement le taux de glucide* dans la nourriture, et les mycotoxines développées dans les céréales sont dangereuses pour la santé de nos animaux (le taux de mycotoxines est légalement limité en ce qui concerne la nourriture humaine. Pour la nourriture destinée aux animaux, cette limitation n’est plus qu’une simple recommandation).\
     En mangeant des croquettes tous les jours pendant des années, ils risquent de développer des maladies graves (diabète, obésité, dermatite…).  
 
-- Nos chats n’ont aucunement besoin de glucides dans leur alimentation puisqu’ils synthétisent leurs propres glucides à travers d’autres nutriments par le phénomène de néoglucogenèse.\
+- Les chats **n’ont pas besoin de glucides** dans leur alimentation puisqu’ils synthétisent leurs propres glucides à travers d’autres nutriments par le phénomène de néoglucogenèse.\
     Entre 2007 et 2017, les visites vétérinaires ont augmenté de 70%. Bien que cela puisse correspondre au développement du monopole de la *petfood* sur le nourrissage de nos animaux, aucune étude ne démontre la
      corrélation entre croquettes et maladies chroniques au moment du documentaire[^1].  
 
@@ -57,13 +60,15 @@ Voici en 13 points clés la synthèse des révélations de cette enquête ;
 
 Le documentaire se conclue ; *à l’issue de notre enquête, si vous souhaitez nourrir vos animaux avec des croquettes ou des pâtées, pensez à inspecter les emballages pour vérifier la nature des viandes utilisées et la quantité de céréales incorporées. N’hésitez pas à calculer le taux de glucides, ou à appeler votre fabriquant pour le connaître. Certains industriels proposent désormais des gammes sans céréales. Et si vous avez le temps pour ce chien, ce chat que vous chérissez, et bien ; cuisinez !*
 
--> Huit ans plus tard, où en sommes-nous ?
+Huit ans plus tard, où en sommes-nous ?
 
 Bien que les croquettes sans céréales se soient largement développées et que de nombreuses marques fournissent désormais des tableaux nutritionnels complets (c’est-à-dire où 100% de la composition est affichée), les croquettes pleines de glucides sont toujours sur le marché et même activement défendues par certain·es acteur·ices du milieu de la santé et du bien-être félins.
 
 Par ailleurs, ces dernières années ont aussi vu l’essor des réseaux sociaux offrir une nouvelle zone d’influence aux industriels. C’est un terrain privilégié pour s’adresser directement aux particuliers intéressés par l'épanouissement de leur animal (par le biais de partenariats avec des influenceur·euses, des professionnel·les –comme des comportementalistes *etc.*), sans aucune régulation (quelle concurrence possible pour les plus petites marques ?) ni législation forçant à révéler les conflits d’intérêts en jeu.
 
 De plus, même si le travail d’enquête sur l’influence des industriels auprès des éleveur·euses et des instances européennes est formidable, le documentaire ne traite pas de la question de leur entrisme dans les 4 écoles vétérinaires françaises (et ses conséquences), ni dans les cliniques vétérinaires elles-mêmes[^7]. L'entrisme dans le monde associatif[^8] n'est pas non plus évoqué, alors qu'il est tout aussi lucratif que lorsqu'il s'agit d'être partenaire d'éleveur·euses ; l'étiquette *bienfaiteur* étant très bénéfique pour une marque[^9].
+
+Bref ; l'omniprésence des industriels dicte la qualité nutritionnelle proposée à nos animaux. Ne serait-ce pas les besoins physiologiques de nos chats qui devraient dicter la qualité nutritionnelle offerte pas les industriels ?
 
 Nous revenons très bientôt avec de nouveaux articles concernant la nutrition de nos petits félins, et en attendant, bon visionnage !
 
