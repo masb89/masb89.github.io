@@ -21,13 +21,9 @@ Le documentaire « [Quelles croquettes pour nos bêtes ?](https://www.youtube.co
 Voici en 14 points le résumé de ce que cette enquête met au jour ;
 
 * Les plus gros industriels du marché sont les groupes *Nestlé* (qui possède les marques *Purina One*, *Pro Plan*, *Friskies*, *Gourmet*, *Félix*…) et *Mars* (qui possède les marques *Royal Canin*, *Sheba*, *Whiskas*, *Kitekat*…). Ils se partagent plusieurs milliards de chiffre d’affaires sur le secteur *petfood* chaque année. 
-
-
-* Les sources de protéines animales dans les croquettes ne sont *jamais* des morceaux nobles. Elles proviennent le plus souvent de farines animales, c’est-à-dire de ces morceaux pauvres qui sont cuits puis broyés. Sabots, carcasses, plumes, peaux et même laine peuvent être ajoutés et ainsi augmenter le taux protéinique d’une croquette.  
-
-
+* Les sources de protéines animales dans les croquettes ne sont *jamais* des morceaux nobles. Elles proviennent le plus souvent de farines animales, c’est-à-dire de morceaux pauvres qui sont cuits puis broyés. Sabots, carcasses, plumes, peaux et même laine peuvent être ajoutés et ainsi augmenter le taux protéinique d’une croquette.  
 * La plupart des industriels ajoutent des céréales à leurs croquettes. D’une part parce que l’amidon de celles-ci sert de liant aux croquettes (ça « colle »), et d’autre part parce que c’est bien moins onéreux que la viande.\
-    Cet ajout de céréales n’a aucun bénéfice nutritionnel ; il sert uniquement à pallier une problématique industrielle.  
+    L'ajout de céréales n’a aucun bénéfice nutritionnel ; il sert uniquement à pallier une problématique industrielle.  
 * Cet apport en céréales pose deux problèmes majeurs ; cela augmente fortement la quantité de glucides dans la nourriture, et les mycotoxines développées dans les céréales sont dangereuses pour la santé de nos animaux (le taux de mycotoxines est légalement limité en ce qui concerne la nourriture humaine. Pour la nourriture destinée aux animaux, cette limitation n’est plus qu’une simple recommandation).\
     En mangeant des croquettes tous les jours pendant des années, ils risquent de développer des maladies graves (diabète, obésité, dermatite…).  
 * Nos chats n’ont aucunement besoin de glucides dans leur alimentation puisqu’ils synthétisent leurs propres glucides à travers d’autres nutriments par le phénomène de néoglucogenèse.\
@@ -62,4 +58,4 @@ Nous revenons très bientôt avec de nouveaux articles concernant la nutrition d
 [^4]: Documentaire Arte décryptant l’industrie du sucre et les techniques lobbyistes ; [« Sucre, le doux mensonge »](https://www.youtube.com/watch?v=WuWAlXkGbCg) 
 [^5]: [« Parce que les croquettivores n’existent pas »](https://barf-asso.fr/)
 [^6]: L’alimentation de nos chats devrait être composée d’au moins 60% d’eau, pour préserver leurs reins entre autres. Nous en reparlerons dans un prochain article.
-[^7]: Les Échos, [« Après les croquettes, *Mars* mise sur les cliniques vétérinaires en Europe »](https://www.lesechos.fr/industrie-services/conso-distribution/apres-les-croquettes-mars-mise-sur-les-cliniques-veterinaires-en-europe-1217821) 
+[^7]: Les Échos, [« Après les croquettes, *Mars* mise sur les cliniques vétérinaires en Europe »](https://www.lesechos.fr/industrie-services/conso-distribution/apres-les-croquettes-mars-mise-sur-les-cliniques-veterinaires-en-europe-1217821)
