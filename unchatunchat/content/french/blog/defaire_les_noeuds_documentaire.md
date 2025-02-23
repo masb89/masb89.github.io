@@ -68,7 +68,7 @@ Par ailleurs, ces dernières années ont aussi vu l’essor des réseaux sociaux
 
 De plus, même si le travail d’enquête sur l’influence des industriels auprès des éleveur·euses et des instances européennes est formidable, le documentaire ne traite pas de la question de leur entrisme dans les 4 écoles vétérinaires françaises[^7], ni dans les cliniques vétérinaires elles-mêmes[^8]. L'entrisme dans le monde associatif[^9] n'est pas non plus évoqué, alors qu'il est tout aussi lucratif que lorsqu'il s'agit d'être partenaire d'éleveur·euses ; apparaître comme *bienfaitrice* étant très bénéfique pour une marque[^10].
 
-Bref ; l'omniprésence des industriels leur permet de dicter la composition de leurs produits. Cela ne devrait-il pas être dans le sens inverse ? **Ne seraient-ce pas les besoins physiologiques de nos chats qui devraient dicter la qualité nutritionnelle offerte pas les industriels ?**
+Bref ; l'omniprésence des industriels leur permet de dicter la composition de leurs produits. Cela ne devrait-il pas être dans le sens inverse ? **Ne seraient-ce pas les besoins physiologiques de nos chats qui devraient dicter la qualité nutritionnelle des produits que les industriels fabriquent ?**
 
 Nous revenons très bientôt avec de nouveaux articles concernant la nutrition de nos petits félins, et en attendant, bon visionnage !
 
