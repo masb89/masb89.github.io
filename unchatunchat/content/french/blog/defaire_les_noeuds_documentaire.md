@@ -25,9 +25,9 @@ Voici en 14 points clés la synthèse des révélations de cette enquête ;
 - Les paquets de croquettes sont soigneusement marketés ; photo de viande, photo de chat ou de chien à l'air dynamique et sain, packaging au matériau brillant, mots-clés à la connotation naturelle ou scientifique... 
 La consultante en marketing Véronique Gaboriau considère que les consommateurs *souhaitent que leur attention soit détournée* de la composition réelle des croquettes qu'ils achètent par ces artifices, afin de ne pas remettre en question leur habitude d'achat.
 
-- Les sources de protéines animales dans les croquettes ne sont jamais des morceaux nobles. Elles proviennent le plus souvent de farines animales, c’est-à-dire de morceaux pauvres qui sont cuits puis broyés. Sabots, carcasses, plumes, peaux et même laine peuvent être ajoutés et ainsi augmenter le taux protéinique d’une croquette.  
+- La « viande » des croquettes n'est jamais issue de morceaux nobles. En réalité, c'est le plus souvent de **farines animales** dont il s'agit ; c’est-à-dire de morceaux pauvres qui sont cuits puis broyés. Sabots, carcasses, plumes, peaux et même laine peuvent être ajoutés et ainsi augmenter le taux protéinique d’une croquette.  
 
-- La plupart des industriels ajoutent des céréales à leurs croquettes. D’une part parce que l’amidon de celles-ci sert de liant aux croquettes (ça « colle »), et d’autre part parce que c’est bien moins onéreux que la viande.\
+- Presque tous les industriels ajoutent des céréales à leurs croquettes. D’une part parce que l’amidon de celles-ci sert de liant aux croquettes (ça « colle »), et d’autre part parce que c’est bien moins onéreux que la viande.\
     L'ajout de céréales n’a aucun bénéfice nutritionnel ; il sert uniquement à pallier une problématique industrielle.  
 
 - Cet apport en céréales pose deux problèmes majeurs ; cela augmente fortement le taux de glucide* dans la nourriture, et les mycotoxines développées dans les céréales sont dangereuses pour la santé de nos animaux (le taux de mycotoxines est légalement limité en ce qui concerne la nourriture humaine. Pour la nourriture destinée aux animaux, cette limitation n’est plus qu’une simple recommandation).\
