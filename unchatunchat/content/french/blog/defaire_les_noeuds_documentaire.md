@@ -46,7 +46,7 @@ En mangeant des croquettes tous les jours pendant des années, ils risquent de d
 
 - La FEDIAF (fédération des industriels de la *petfood*)[^3] emploie des lobbyistes qui luttent contre l’avancement législatif visant à rendre transparente la composition de leurs produits, entre autres contraintes (ou bien énoncé de façon positive ; qui luttent pour défendre les intérêts des industriels face aux fonctionnaires).  
 
-- Des eurodéputé·es critiquent cette influence industrielle, comme Michèle Rivasi (Europe Écologie), interrogée dans l’enquête. Cependant, ça ne suffit pas. La FEDIAF est parvenue à faire joindre à la réglementation européenne *Un guide de bonnes pratiques de l’étiquetage*. Ce guide ne mentionne pas une seule fois le mot *glucides*.
+- Des eurodéputé·es critiquent cette influence industrielle, comme Michèle Rivasi (Europe Écologie), interrogée dans l’enquête. Cependant, ça ne suffit pas. La FEDIAF est parvenue à faire joindre à la réglementation européenne *Un guide de bonnes pratiques de l’étiquetage*. Long de 63 pages, ce guide ne mentionne pas une seule fois le mot *glucides*.
 
 - À la suite de l’intervention de Michèle Rivasi, la journaliste Marion Baillot retourne interviewer le lobbyiste de la FEDIAF au sujet de ce guide de bonnes pratiques. \
   « C’est vrai que les animaux n’ont pas besoin de beaucoup de glucides » admet-il. Il ajoute ; « Si vous analysez un produit, vous n’allez pas trouver beaucoup de glucides », ce à quoi la journaliste rétorque en fournissant les analyses indépendantes qui révèlent en moyenne 46% de glucides dans les croquettes qu’il défend ; « vous trouvez que *c’est pas beaucoup* ? ». \
