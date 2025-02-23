@@ -35,15 +35,14 @@ La consultante en marketing Véronique Gaboriau considère que les consommateurs
 
 - Une vétérinaire rappelle que les chats et les chiens sont des carnivores ; de leur dentition à leur système digestif, leur physiologie est faite pour consommer de la viande et n'a rien à voir avec la physiologie d'omnivores.
 Les chats n’ont pas besoin de glucides dans leur alimentation puisqu’ils **synthétisent leurs propres glucides** grâce aux autres nutriments qu'ils absorbent par le phénomène de néoglucogenèse.\
-    Entre 2007 et 2017, les visites vétérinaires ont augmenté de 70%. Bien que cela puisse correspondre au développement du monopole de la *petfood* sur le nourrissage de nos animaux, aucune étude ne démontre la
-     corrélation entre croquettes et maladies chroniques au moment du documentaire[^1].  
+    Entre 2007 et 2017, les visites vétérinaires ont augmenté de 70%. Bien que cela puisse correspondre au développement du monopole de la *petfood* sur le nourrissage de nos animaux, aucune étude ne démontre la corrélation entre croquettes et maladies chroniques au moment du documentaire[^1].  
 
-- Gilles Vouillon, fondateur du groupe *Facebook* « Alerte croquettes toxiques »[^2] visant à éduquer au décryptage des étiquettes nutritionnelles des paquets de croquettes et militant pour une plus grande transparence des industriels, explique le principe du « splitting » (*séparation*, *scission* en français).\
+- Gilles Vouillon, fondateur du groupe *Facebook* « Alerte croquettes toxiques »[^2] visant à éduquer les particuliers au décryptage des étiquettes nutritionnelles des paquets de croquettes, explique le principe du « **splitting** » (*séparation*, *scission* en français).\
     Pour ne pas avoir à afficher le maïs (ou le blé, le riz…) comme premier ingrédient nutritionnel et afin que ce soit la « viande » le premier (avec seulement 17% par exemple), le *splitting* permet d’obtenir de plus petits pourcentages en divisant « maïs » par « protéine de maïs », « gluten de maïs », *etc*. C’est une technique malhonnête envers les consommateur·ices, mais légale.  
 
-- Seuls les tableaux nutritionnels permettent de révéler la répartition réelle en protéines, glucides, fibres *etc*. Mais pour la nourriture animale, la législation européenne n’oblige pas les industriels à fournir ces informations de façon complète. En particulier, le taux de glucides est facultatif (et en pratique quasiment jamais mentionné).  
+- Seuls les **tableaux nutritionnels** permettent de révéler la répartition réelle en protéines, glucides, fibres *etc*. Mais pour la nourriture animale, la législation européenne n’oblige pas les industriels à fournir ces informations de façon complète.Et effectivement, en pratique les glucides ne sont presque jamais affichés.  
 
-- Les résultats d’analyse d’un laboratoire indépendant belge révèlent que sur les 8 paquets de croquettes représentatifs du marché fournis par les journalistes, tous contiennent entre 40 et 55% de glucides.  
+- Les résultats d’analyse d’un laboratoire indépendant belge révèlent que sur les 8 paquets de croquettes représentatifs du marché fournis par les journalistes, **tous contiennent entre 40 et 55% de glucides**.  
 
 - La FEDIAF (regroupement des industriels de la *petfood*)[^3] emploie des lobbyistes qui luttent contre l’avancement législatif visant à rendre transparente la composition de leurs produits, entre autres (ou bien énoncé de façon positive ; qui « luttent pour défendre les intérêts des industriels face aux fonctionnaires »).  
 
