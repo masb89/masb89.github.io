@@ -18,7 +18,7 @@ description: this is meta description
 
 Le documentaire « [Quelles croquettes pour nos bêtes ?](https://www.youtube.com/watch?v=ZJAdhwGte-o) » de Marion Baillot, diffusé pour la première fois en 2017 sur France 5, est édifiant et toujours d’actualité 8 ans plus tard.
 
-Voici en 14 points le résumé de ce que cette enquête met au jour ;
+Voici en 13 points clé la synthèse des révélations de cette enquête ;
 
 - Les plus gros industriels du marché sont les groupes *Nestlé* (qui possède les marques *Purina One*, *Pro Plan*, *Friskies*, *Gourmet*, *Félix*…) et *Mars* (qui possède les marques *Royal Canin*, *Sheba*, *Whiskas*, *Kitekat*…). Ils se partagent plusieurs *milliards* de chiffre d’affaires sur le secteur *petfood* chaque année. 
 
@@ -55,7 +55,7 @@ Voici en 14 points le résumé de ce que cette enquête met au jour ;
 
 - En 2017, le BARF (*Bones And Raw Food* –« Os et viande crue » en français) commence son essor. Des particuliers souhaitant offrir une alimentation plus saine et physiologiquement respectueuse à leur animal s’unissent et fondent l’association BARF-ASSO[^5] afin de réduire le coût d’achat de la viande crue. Les repas leur coûtent 0,65€ par portion, imbattable.  
 
-- Le documentaire se conclue ; *à l’issue de notre enquête, si vous souhaitez nourrir vos animaux avec des croquettes ou des pâtées, pensez à inspecter les emballages pour vérifier la nature des viandes utilisées et la quantité de céréales incorporées. N’hésitez pas à calculer le taux de glucides, ou à appeler votre fabriquant pour le connaître. Certains industriels proposent désormais des gammes sans céréales. Et si vous avez le temps pour ce chien, ce chat que vous chérissez, et bien ; cuisinez !*
+Le documentaire se conclue ; *à l’issue de notre enquête, si vous souhaitez nourrir vos animaux avec des croquettes ou des pâtées, pensez à inspecter les emballages pour vérifier la nature des viandes utilisées et la quantité de céréales incorporées. N’hésitez pas à calculer le taux de glucides, ou à appeler votre fabriquant pour le connaître. Certains industriels proposent désormais des gammes sans céréales. Et si vous avez le temps pour ce chien, ce chat que vous chérissez, et bien ; cuisinez !*
 
 Et en 2025 ?
 
