@@ -63,7 +63,7 @@ Bien que les croquettes sans céréales se soient largement développées et que
 
 Par ailleurs, ces dernières années ont aussi vu l’essor des réseaux sociaux offrir une nouvelle zone d’influence aux industriels. C’est un terrain privilégié pour s’adresser directement aux particuliers intéressés par l'épanouissement de leur animal (par le biais de partenariats avec des influenceur·euses, des professionnel·les –comme des comportementalistes *etc.*), sans aucune régulation (quelle concurrence possible pour les plus petites marques ?) ni législation forçant à révéler les conflits d’intérêts en jeu.
 
-De plus, même si le travail d’enquête sur l’influence des industriels auprès des éleveur·euses et des instances européennes est formidable, le documentaire ne traite pas de la question de leur entrisme dans les 4 écoles vétérinaires françaises (et ses conséquences), ni dans les cliniques vétérinaires elles-mêmes[^7].
+De plus, même si le travail d’enquête sur l’influence des industriels auprès des éleveur·euses et des instances européennes est formidable, le documentaire ne traite pas de la question de leur entrisme dans les 4 écoles vétérinaires françaises (et ses conséquences), ni dans les cliniques vétérinaires elles-mêmes[^7]. L'entrisme dans le monde associatif[^8] n'est pas non plus évoqué, alors qu'il est tout aussi lucratif que lorsqu'il s'agit d'être partenaire d'éleveur·euses ; l'étiquette *bienfaiteur* étant très bénéfique pour une marque[^9].
 
 Nous revenons très bientôt avec de nouveaux articles concernant la nutrition de nos petits félins, et en attendant, bon visionnage !
 
@@ -74,3 +74,5 @@ Nous revenons très bientôt avec de nouveaux articles concernant la nutrition d
 [^5]: *Bones And Raw Food*, en français « Os et viande crue »
 [^6]: [« Parce que les croquettivores n’existent pas »](https://barf-asso.fr/)
 [^7]: Les Échos, [« Après les croquettes, *Mars* mise sur les cliniques vétérinaires en Europe »](https://www.lesechos.fr/industrie-services/conso-distribution/apres-les-croquettes-mars-mise-sur-les-cliniques-veterinaires-en-europe-1217821)
+[^8]: [*Affinity Petcare* signe un partenariat avec la SPA](https://www.la-spa.fr/articles/signature-partenariat-affinity-petcare/)
+[^9]: [Trois mois plus tard *Affinity Petcare* annonce agrandir son site industriel français](https://www.latribune.fr/entreprises-finance/industrie/agroalimentaire-biens-de-consommation-luxe/alimentation-animale-comment-ultima-se-differencie-des-geants-mars-et-nestle-974847.html)
