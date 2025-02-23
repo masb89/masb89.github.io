@@ -48,7 +48,7 @@ En mangeant des croquettes tous les jours pendant des années, ils risquent de d
 
 - Des eurodéputé·es critiquent cette influence industrielle, comme Michèle Rivasi (Europe Écologie), interrogée dans l’enquête. Cependant, ça ne suffit pas. La FEDIAF est parvenue à faire joindre à la réglementation européenne *Un guide de bonnes pratiques de l’étiquetage*. Long de 63 pages, ce guide ne mentionne pas une seule fois le mot *glucides*.
 
-- Pour comprendre, la journaliste interroge un lobbyiste de la FEDIAF au sujet des lacunes de ce guide de bonnes pratiques. \
+- Pour comprendre les lacunes de ce guide de bonnes pratiques, la journaliste interroge un lobbyiste de la FEDIAF à ce sujet. \
   « C’est vrai que les animaux n’ont pas besoin de beaucoup de glucides » admet-il. Il ajoute ; « Si vous analysez un produit, vous n’allez pas trouver beaucoup de glucides », ce à quoi la journaliste rétorque en fournissant les analyses indépendantes qui révèlent en moyenne 46% de glucides dans les croquettes qu’il défend ; « vous trouvez que *c’est pas beaucoup* ? ». \
   Dos au mur et au lieu d’admettre que *oui, c’est beaucoup*, il utilise le fameux « avez-vous des preuves que c’est dangereux pour la santé ? » (dernier recours systématiquement utilisé par tous les industriels –tabac, sucre…[^4]).\
     La journaliste n’en démord pas ; « pourquoi l’industrie n’affiche pas son taux de glucides ? A-t-elle quelque chose à cacher ? ». Selon le lobbyiste, non, puisque le consommateur « peut appeler le fabriquant » pour connaître la composition exacte. L’échange se termine sur un blanc de 10 secondes de la part du lobbyiste, ne sachant pas quoi répondre à « c’est pas plus simple de l’indiquer sur le paquet ? ».  
