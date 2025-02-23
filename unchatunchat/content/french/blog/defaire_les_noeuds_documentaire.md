@@ -31,11 +31,11 @@ La consultante en marketing Véronique Gaboriau considère que les consommateurs
     L'ajout de céréales **n’a aucun bénéfice nutritionnel** ; il sert uniquement à pallier une problématique industrielle.  
 
 - Cet apport en céréales pose deux problèmes majeurs. D'une part, cela **augmente fortement le taux de glucides** dans la nourriture. D'autre part, les mycotoxines développées dans les céréales sont très dangereuses pour la santé de nos animaux (le taux de mycotoxines est légalement limité en ce qui concerne la nourriture humaine. Pour la nourriture destinée aux animaux, cette limitation n’est plus qu’une simple recommandation).\
-    En mangeant des croquettes tous les jours pendant des années, ils risquent de développer des maladies graves (diabète, obésité, dermatite…).  
 
 - Une vétérinaire rappelle que les chats et les chiens sont des carnivores ; de leur dentition à leur système digestif, leur physiologie est faite pour consommer de la viande et n'a rien à voir avec la physiologie d'omnivores.
 Les chats n’ont pas besoin de glucides dans leur alimentation puisqu’ils **synthétisent leurs propres glucides** grâce aux autres nutriments qu'ils absorbent par le phénomène de néoglucogenèse.\
-    Entre 2007 et 2017, les visites vétérinaires ont augmenté de 70%. Bien que cela puisse correspondre au développement du monopole de la *petfood* sur le nourrissage de nos animaux, aucune étude ne démontre la corrélation entre croquettes et maladies chroniques au moment du documentaire[^1].  
+En mangeant des croquettes tous les jours pendant des années, ils risquent de développer des maladies graves (diabète, obésité, dermatite…). 
+    De fait, entre 2007 et 2017, les visites vétérinaires ont augmenté de 70%. Bien que cela puisse correspondre au développement du monopole de la *petfood* sur le nourrissage de nos animaux, aucune étude ne démontre la corrélation entre croquettes et maladies chroniques au moment du documentaire[^1].  
 
 - Gilles Vouillon, fondateur du groupe *Facebook* « Alerte croquettes toxiques »[^2] visant à éduquer les particuliers au décryptage des étiquettes nutritionnelles des paquets de croquettes, explique le principe du « **splitting** » (*séparation*, *scission* en français).\
     Pour ne pas avoir à afficher le maïs (ou le blé, le riz…) comme premier ingrédient nutritionnel et afin que ce soit la « viande » le premier (avec seulement 17% par exemple), le *splitting* permet d’obtenir de plus petits pourcentages en divisant « maïs » par « protéine de maïs », « gluten de maïs », *etc*. C’est une technique malhonnête envers les consommateur·ices, mais légale.  
