@@ -40,7 +40,7 @@ En mangeant des croquettes tous les jours pendant des années, ils risquent de d
 - Gilles Vouillon, fondateur du groupe *Facebook* « Alerte croquettes toxiques »[^2] visant à éduquer les particuliers au décryptage des informations nutritionnelles sur les paquets de croquettes, explique le principe du « **splitting** » (*séparation*, *scission* en français).\
     Pour ne pas avoir à afficher le maïs (ou le blé, le riz…) comme principal ingrédient et afin que ce soit la protéine animale qui apparaisse en premier (en comptant seulement 17% de la composition totale par exemple), le *splitting* permet d’obtenir de plus petits pourcentages en divisant le maïs en « protéine de maïs », « gluten de maïs », *etc*. C’est une technique malhonnête envers les consommateur·ices, mais légale.  
 
-- Seuls les **tableaux nutritionnels** permettent de révéler la répartition réelle en protéines, glucides, fibres *etc*. Mais pour la nourriture animale, la législation européenne n’oblige pas les industriels à fournir ces informations de façon complète.Et effectivement, en pratique les glucides ne sont presque jamais affichés.  
+- Seuls les **tableaux nutritionnels** permettent de révéler la répartition réelle des protéines, glucides, fibres *etc*. Mais pour la nourriture animale, la législation européenne n’oblige pas les industriels à fournir ces informations de façon complète.Et effectivement, en pratique les glucides ne sont presque jamais affichés.  
 
 - Les résultats d’analyse d’un laboratoire indépendant belge révèlent que sur les 8 paquets de croquettes représentatifs du marché fournis par les journalistes, **tous contiennent entre 40 et 55% de glucides**.  
 
