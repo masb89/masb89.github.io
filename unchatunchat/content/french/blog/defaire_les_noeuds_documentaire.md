@@ -44,7 +44,7 @@ En mangeant des croquettes tous les jours pendant des années, ils risquent de d
 
 - Les résultats d’analyses d’un laboratoire indépendant belge révèlent que sur les 8 paquets de croquettes représentatifs du marché fournis par les journalistes, **tous contiennent entre 40 et 55% de glucides**.  
 
-- La FEDIAF (regroupement des industriels de la *petfood*)[^3] emploie des lobbyistes qui luttent contre l’avancement législatif visant à rendre transparente la composition de leurs produits, entre autres contraintes (ou bien énoncé de façon positive ; qui « luttent pour défendre les intérêts des industriels face aux fonctionnaires »).  
+- La FEDIAF (fédération des industriels de la *petfood*)[^3] emploie des lobbyistes qui luttent contre l’avancement législatif visant à rendre transparente la composition de leurs produits, entre autres contraintes (ou bien énoncé de façon positive ; qui « luttent pour défendre les intérêts des industriels face aux fonctionnaires »).  
 
 - Des eurodéputé·es critiquent cette influence industrielle, comme Michèle Rivasi (Europe Écologie), interrogée dans l’enquête. Cependant, ça ne suffit pas. La FEDIAF est parvenue à faire joindre à la réglementation européenne *Un guide de bonne pratique de l’étiquetage*. Ce guide ne mentionne pas une seule fois le mot *glucides*.
 
