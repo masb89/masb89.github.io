@@ -14,7 +14,7 @@ tags:
   - Enquête
 description: this is meta description
 ---
-*Temps de lecture : 7 minutes.*
+*Temps de lecture : 8 minutes.*
 
 Le documentaire « <a href="https://www.youtube.com/watch?v=ZJAdhwGte-o" target="_blank">Quelles croquettes pour nos bêtes ?</a> » de Marion Baillot, diffusé pour la première fois en 2017 sur France 5, est édifiant et toujours d’actualité 8 ans plus tard.
 
