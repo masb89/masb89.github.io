@@ -16,7 +16,7 @@ description: this is meta description
 ---
 *Temps de lecture : 7 minutes.*
 
-Le documentaire « <a href="https://www.youtube.com/watch?v=ZJAdhwGte-o" target="_blank">Quelles croquettes pour nos bêtes ?</a>[Quelles croquettes pour nos bêtes ?](https://www.youtube.com/watch?v=ZJAdhwGte-o) » de Marion Baillot, diffusé pour la première fois en 2017 sur France 5, est édifiant et toujours d’actualité 8 ans plus tard.
+Le documentaire « <a href="https://www.youtube.com/watch?v=ZJAdhwGte-o" target="_blank">Quelles croquettes pour nos bêtes ?</a> » de Marion Baillot, diffusé pour la première fois en 2017 sur France 5, est édifiant et toujours d’actualité 8 ans plus tard.
 
 Voici en 14 points clés la synthèse des révélations de cette enquête ;
 
@@ -73,11 +73,11 @@ Bref ; l'omniprésence des industriels dicte la qualité nutritionnelle proposé
 Nous revenons très bientôt avec de nouveaux articles concernant la nutrition de nos petits félins, et en attendant, bon visionnage !
 
 [^1]: Pour le démontrer, il faudrait réaliser une étude scientifique de grande ampleur comptant deux groupes de chats témoins nourris exclusivement de croquettes pour l’un, exclusivement de nourriture humide ou crue pour l’autre, et qu’elle s’étende sur une dizaine d’années minimum. C’est extrêmement difficile ! 
-[^2]: [Groupe *Facebook* « Alerte croquettes toxiques »](https://www.facebook.com/groups/alertescroquettes/?locale=fr_FR) 
+[^2]: <a href="https://www.facebook.com/groups/alertescroquettes/?locale=fr_FR" target="_blank">Groupe *Facebook* « Alerte croquettes toxiques »</a>
 [^3]: La FEDIAF est la *European Pet Food Industry Federation*. Ils représentent 18 pays et 95% de l’industrie en Europe, donc touchent 352 millions d’animaux domestiques. Données fournies par leur site internet. 
-[^4]: Documentaire Arte décryptant l’industrie du sucre et les techniques lobbyistes ; [« Sucre, le doux mensonge »](https://www.youtube.com/watch?v=WuWAlXkGbCg) 
+[^4]: Documentaire Arte décryptant l’industrie du sucre et les techniques lobbyistes ; <a href="https://www.youtube.com/watch?v=WuWAlXkGbCg" target="_blank">« Sucre, le doux mensonge »</a>
 [^5]: *Bones And Raw Food*, en français « Os et viande crue »
-[^6]: [« Parce que les croquettivores n’existent pas »](https://barf-asso.fr/)
-[^7]: Les Échos, [« Après les croquettes, *Mars* mise sur les cliniques vétérinaires en Europe »](https://www.lesechos.fr/industrie-services/conso-distribution/apres-les-croquettes-mars-mise-sur-les-cliniques-veterinaires-en-europe-1217821)
-[^8]: [*Affinity Petcare* signe un partenariat avec la SPA](https://www.la-spa.fr/articles/signature-partenariat-affinity-petcare/)
-[^9]: [Trois mois plus tard *Affinity Petcare* annonce agrandir son site industriel français](https://www.latribune.fr/entreprises-finance/industrie/agroalimentaire-biens-de-consommation-luxe/alimentation-animale-comment-ultima-se-differencie-des-geants-mars-et-nestle-974847.html)
+[^6]: <a href="https://barf-asso.fr/" target="_blank">« Parce que les croquettivores n’existent pas »</a>
+[^7]: Les Échos, <a href="https://www.lesechos.fr/industrie-services/conso-distribution/apres-les-croquettes-mars-mise-sur-les-cliniques-veterinaires-en-europe-1217821" target="_blank">« Après les croquettes, *Mars* mise sur les cliniques vétérinaires en Europe »</a>
+[^8]: <a href="https://www.la-spa.fr/articles/signature-partenariat-affinity-petcare/" target="_blank">*Affinity Petcare* signe un partenariat avec la SPA</a>
+[^9]: <a href="https://www.latribune.fr/entreprises-finance/industrie/agroalimentaire-biens-de-consommation-luxe/alimentation-animale-comment-ultima-se-differencie-des-geants-mars-et-nestle-974847.html" target="_blank">Trois mois plus tard *Affinity Petcare* annonce agrandir son site industriel français</a>
