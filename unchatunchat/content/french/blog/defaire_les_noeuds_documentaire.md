@@ -21,11 +21,15 @@ Le documentaire « [Quelles croquettes pour nos bêtes ?](https://www.youtube.co
 Voici en 14 points le résumé de ce que cette enquête met au jour ;
 
 - Les plus gros industriels du marché sont les groupes *Nestlé* (qui possède les marques *Purina One*, *Pro Plan*, *Friskies*, *Gourmet*, *Félix*…) et *Mars* (qui possède les marques *Royal Canin*, *Sheba*, *Whiskas*, *Kitekat*…). Ils se partagent plusieurs *milliards* de chiffre d’affaires sur le secteur *petfood* chaque année. 
+
 - Les sources de protéines animales dans les croquettes ne sont jamais des morceaux nobles. Elles proviennent le plus souvent de farines animales, c’est-à-dire de morceaux pauvres qui sont cuits puis broyés. Sabots, carcasses, plumes, peaux et même laine peuvent être ajoutés et ainsi augmenter le taux protéinique d’une croquette.  
+
 - La plupart des industriels ajoutent des céréales à leurs croquettes. D’une part parce que l’amidon de celles-ci sert de liant aux croquettes (ça « colle »), et d’autre part parce que c’est bien moins onéreux que la viande.\
     L'ajout de céréales n’a aucun bénéfice nutritionnel ; il sert uniquement à pallier une problématique industrielle.  
+
 - Cet apport en céréales pose deux problèmes majeurs ; cela augmente fortement le taux de glucide* dans la nourriture, et les mycotoxines développées dans les céréales sont dangereuses pour la santé de nos animaux (le taux de mycotoxines est légalement limité en ce qui concerne la nourriture humaine. Pour la nourriture destinée aux animaux, cette limitation n’est plus qu’une simple recommandation).\
     En mangeant des croquettes tous les jours pendant des années, ils risquent de développer des maladies graves (diabète, obésité, dermatite…).  
+
 - Nos chats n’ont aucunement besoin de glucides dans leur alimentation puisqu’ils synthétisent leurs propres glucides à travers d’autres nutriments par le phénomène de néoglucogenèse.\
     Entre 2007 et 2017, les visites vétérinaires ont augmenté de 70%. Bien que cela puisse correspondre au développement du monopole de la *petfood* sur le nourrissage de nos animaux, aucune étude ne démontre la
      corrélation entre croquettes et maladies chroniques au moment du documentaire[^1].  
@@ -44,7 +48,7 @@ Voici en 14 points le résumé de ce que cette enquête met au jour ;
 - À la suite de l’intervention de Michèle Rivasi, la journaliste Marion Baillot retourne interviewer le lobbyiste de la FEDIAF au sujet de ce guide de bonne pratique. \
   « C’est vrai que les animaux n’ont pas besoin de beaucoup de glucides » admet-il. Il ajoute ; « Si vous analysez un produit, vous n’allez pas trouver beaucoup de glucides », ce à quoi la journaliste rétorque en fournissant les analyses indépendantes qui révèlent en moyenne 46% de glucides dans les croquettes qu’il défend ; « vous trouvez que *c’est pas beaucoup* ? ». \
   Dos au mur et au lieu d’admettre que *oui, c’est beaucoup*, il utilise le fameux « avez-vous des preuves que c’est dangereux pour la santé ? » (dernier recours systématiquement utilisé par tous les industriels –tabac, sucre…[^4]).\
-    La journaliste n’en démord pas ; « pourquoi l’industrie n’affiche pas son taux de glucides ? A-t-elle quelque chose à cacher ? ». Selon le lobbyiste, non, puisque le consommateur « peut appeler le fabriquant » pour connaître la composition exacte. L’échange se termine sur un blanc lunaire de 10 secondes de la part du lobbyiste, ne sachant pas quoi répondre à la remarque « c’est pas plus simple de l’indiquer sur le paquet ? ».  
+    La journaliste n’en démord pas ; « pourquoi l’industrie n’affiche pas son taux de glucides ? A-t-elle quelque chose à cacher ? ». Selon le lobbyiste, non, puisque le consommateur « peut appeler le fabriquant » pour connaître la composition exacte. L’échange se termine sur un blanc de 10 secondes de la part du lobbyiste, ne sachant pas quoi répondre à la remarque « c’est pas plus simple de l’indiquer sur le paquet ? ».  
 
 - Le groupe *Mars* (pour rappel ; *Royal Canin*, *Whiskas*, *Sheba*…) développe son influence jusqu’aux éleveur·euses animaliers. Les éleveurs signent des partenariats avec ces grandes marques afin d’obtenir une réduction sur leurs achats en croquettes.\
     C’est d’autant plus intéressant pour les industriels que c’est une publicité garantie pour leur marque auprès des acheteur·euses d’animaux de race ; celleux-ci reçoivent avec leur animal un paquet de ces croquettes accompagné d’un bon de réduction pour leur prochain achat, les poussant à conserver la même nourriture que l’éleveur·euse (idéalement pour « toute la vie de l’animal » comme la commerciale *Royal Canin* interviewée en rit).  
