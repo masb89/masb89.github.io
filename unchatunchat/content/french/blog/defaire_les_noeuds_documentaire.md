@@ -42,7 +42,7 @@ En mangeant des croquettes tous les jours pendant des années, ils risquent de d
 
 - Seuls les **tableaux nutritionnels** permettent de révéler la répartition réelle des protéines, glucides, fibres *etc*. Mais pour la nourriture animale, la législation européenne n’oblige pas les industriels à fournir ces informations de façon complète. Et effectivement, en pratique les glucides ne sont presque jamais affichés.  
 
-- Les résultats d’analyse d’un laboratoire indépendant belge révèlent que sur les 8 paquets de croquettes représentatifs du marché fournis par les journalistes, **tous contiennent entre 40 et 55% de glucides**.  
+- Les résultats d’analyses d’un laboratoire indépendant belge révèlent que sur les 8 paquets de croquettes représentatifs du marché fournis par les journalistes, **tous contiennent entre 40 et 55% de glucides**.  
 
 - La FEDIAF (regroupement des industriels de la *petfood*)[^3] emploie des lobbyistes qui luttent contre l’avancement législatif visant à rendre transparente la composition de leurs produits, entre autres contraintes (ou bien énoncé de façon positive ; qui « luttent pour défendre les intérêts des industriels face aux fonctionnaires »).  
 
