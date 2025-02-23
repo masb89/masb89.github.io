@@ -57,7 +57,7 @@ Voici en 13 points clés la synthèse des révélations de cette enquête ;
 
 Le documentaire se conclue ; *à l’issue de notre enquête, si vous souhaitez nourrir vos animaux avec des croquettes ou des pâtées, pensez à inspecter les emballages pour vérifier la nature des viandes utilisées et la quantité de céréales incorporées. N’hésitez pas à calculer le taux de glucides, ou à appeler votre fabriquant pour le connaître. Certains industriels proposent désormais des gammes sans céréales. Et si vous avez le temps pour ce chien, ce chat que vous chérissez, et bien ; cuisinez !*
 
-Huit ans plus tard, où en sommes-nous ?
+-> Huit ans plus tard, où en sommes-nous ?
 
 Bien que les croquettes sans céréales se soient largement développées et que de nombreuses marques fournissent désormais des tableaux nutritionnels complets (c’est-à-dire où 100% de la composition est affichée), les croquettes pleines de glucides sont toujours sur le marché et même activement défendues par certain·es acteur·ices du milieu de la santé et du bien-être félins.
 
