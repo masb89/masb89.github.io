@@ -62,7 +62,7 @@ Le documentaire se conclue ; *à l’issue de notre enquête, si vous souhaitez 
 
 Huit ans plus tard, où en sommes-nous ?
 
-Bien que les croquettes sans céréales se soient largement développées et que de nombreuses marques fournissent désormais des tableaux nutritionnels complets (c’est-à-dire où 100% de la composition est affichée), les croquettes pleines de glucides sont toujours sur le marché et même promues par certain·es acteur·ices du milieu de la santé et du bien-être félins.
+Bien que les croquettes sans céréales se soient largement développées et que certaines marques affichent désormais des tableaux nutritionnels complets (c’est-à-dire où 100% de la composition est affichée), les croquettes pleines de glucides sont toujours sur le marché et même promues par certain·es acteur·ices du milieu de la santé et du bien-être félins.
 
 Par ailleurs, ces dernières années ont aussi vu l’essor des réseaux sociaux offrir une nouvelle zone d’influence aux industriels. C’est un terrain privilégié pour s’adresser directement aux particuliers intéressés par l'épanouissement de leur animal (par le biais de partenariats avec des influenceur·euses, des professionnel·les –comme des comportementalistes *etc.*), sans aucune régulation (quelle concurrence possible pour les plus petites marques ?) ni législation forçant à révéler les conflits d’intérêts en jeu.
 
