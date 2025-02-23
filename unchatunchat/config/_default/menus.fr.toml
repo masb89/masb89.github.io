@@ -7,19 +7,24 @@ url = ""
 weight = 1
 
 [[main]]
+URL = "blog"
+name = "Blog"
+weight = 2
+
+[[main]]
 URL = "adoption"
 name = "Chats à l'adoption"
-weight = 2
+weight = 3
 
 [[main]]
 URL = "nousaider"
 name = "Nous aider"
-weight = 3
+weight = 4
 
 [[main]]
 URL = "contact"
 name = "Contact"
-weight = 4
+weight = 5
 
 # footer menu
 [[footer]]
@@ -28,16 +33,21 @@ url = ""
 weight = 1
 
 [[footer]]
+URL = "blog"
+name = "Blog"
+weight = 2
+
+[[footer]]
 URL = "adoption"
 name = "Chats à l'adoption"
-weight = 2
+weight = 3
 
 [[footer]]
 URL = "nousaider"
 name = "Nous aider"
-weight = 3
+weight = 4
 
 [[footer]]
 URL = "contact"
 name = "Contact"
-weight = 4
+weight = 5
