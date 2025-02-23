@@ -56,7 +56,7 @@ En mangeant des croquettes tous les jours pendant des années, ils risquent de d
 - Le groupe *Mars* (pour rappel ; *Royal Canin*, *Whiskas*, *Sheba*…) développe son influence jusqu’aux éleveur·euses animaliers. Les éleveurs signent des partenariats avec ces grandes marques afin d’obtenir une réduction sur leurs achats en croquettes.\
     C’est d’autant plus intéressant pour les industriels que c’est une **publicité garantie** pour leur marque auprès des acheteur·euses d’animaux de race. Celleux-ci reçoivent avec leur animal un paquet offert des croquettes concernées, accompagné d’un bon de réduction pour leur prochain achat —les poussant ainsi à conserver la même nourriture que l’éleveur·euse (idéalement « pour toute la vie de l’animal » comme la commerciale *Royal Canin* interviewée en rit).  
 
-- En 2017, le BARF[^5] commence son essor. Des particuliers souhaitant offrir une alimentation plus saine et physiologiquement respectueuse à leur animal s’unissent et fondent l’association BARF-ASSO[^6] afin de réduire le coût d’achat de la viande crue. Grâce à cette mobilisation, les repas leur reviennent à 0,65€ par portion. Imbattable.  
+- En 2017, le BARF[^5] commence son essor. Des particuliers souhaitant offrir une alimentation plus saine et physiologiquement respectueuse à leur animal s’unissent et fondent l’association BARF-ASSO[^6] afin de réduire le coût d’achat de viande crue. Grâce à cette mobilisation, les repas leur reviennent à 0,65€ par portion. Imbattable.  
 
 Le documentaire se conclue ; *à l’issue de notre enquête, si vous souhaitez nourrir vos animaux avec des croquettes ou des pâtées, pensez à inspecter les emballages pour vérifier la nature des viandes utilisées et la quantité de céréales incorporées. N’hésitez pas à calculer le taux de glucides, ou à appeler votre fabriquant pour le connaître. Certains industriels proposent désormais des gammes sans céréales. Et si vous avez le temps pour ce chien, ce chat que vous chérissez, et bien ; cuisinez !*
 
@@ -76,7 +76,7 @@ Nous revenons très bientôt avec de nouveaux articles concernant la nutrition d
 [^2]: <a href="https://www.facebook.com/groups/alertescroquettes/?locale=fr_FR" target="_blank">Groupe *Facebook* « Alerte croquettes toxiques »</a>
 [^3]: La FEDIAF est la *European Pet Food Industry Federation*. Ils représentent 18 pays et 95% de l’industrie en Europe, donc touchent 352 millions d’animaux domestiques. Données fournies par leur site internet. 
 [^4]: Documentaire Arte décryptant l’industrie du sucre et les techniques lobbyistes ; <a href="https://www.youtube.com/watch?v=WuWAlXkGbCg" target="_blank">« Sucre, le doux mensonge »</a>
-[^5]: *Bones And Raw Food*, en français « Os et viande crue »
+[^5]: *Bones And Raw Food*. En français « Os et viande crue »
 [^6]: <a href="https://barf-asso.fr/" target="_blank">« Parce que les croquettivores n’existent pas »</a>
 [^7]: Les Échos, <a href="https://www.lesechos.fr/industrie-services/conso-distribution/apres-les-croquettes-mars-mise-sur-les-cliniques-veterinaires-en-europe-1217821" target="_blank">« Après les croquettes, *Mars* mise sur les cliniques vétérinaires en Europe »</a>
 [^8]: En 2023, <a href="https://www.la-spa.fr/articles/signature-partenariat-affinity-petcare/" target="_blank">*Affinity Petcare* signe un partenariat avec la SPA</a>
