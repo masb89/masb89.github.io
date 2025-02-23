@@ -44,7 +44,7 @@ Les chats n’ont pas besoin de glucides dans leur alimentation puisqu’ils **s
 
 - Les résultats d’analyse d’un laboratoire indépendant belge révèlent que sur les 8 paquets de croquettes représentatifs du marché fournis par les journalistes, **tous contiennent entre 40 et 55% de glucides**.  
 
-- La FEDIAF (regroupement des industriels de la *petfood*)[^3] emploie des lobbyistes qui luttent contre l’avancement législatif visant à rendre transparente la composition de leurs produits, entre autres (ou bien énoncé de façon positive ; qui « luttent pour défendre les intérêts des industriels face aux fonctionnaires »).  
+- La FEDIAF (regroupement des industriels de la *petfood*)[^3] emploie des lobbyistes qui luttent contre l’avancement législatif visant à rendre transparente la composition de leurs produits, entre autres contraintes (ou bien énoncé de façon positive ; qui « luttent pour défendre les intérêts des industriels face aux fonctionnaires »).  
 
 - Des eurodéputé·es critiquent cette influence industrielle, comme Michèle Rivasi (Europe Écologie), interrogée dans l’enquête. Cependant, ça ne suffit pas. La FEDIAF est parvenue à faire joindre à la réglementation européenne *Un guide de bonne pratique de l’étiquetage*. Ce guide ne mentionne pas une seule fois le mot *glucides*.
 
@@ -54,21 +54,21 @@ Les chats n’ont pas besoin de glucides dans leur alimentation puisqu’ils **s
     La journaliste n’en démord pas ; « pourquoi l’industrie n’affiche pas son taux de glucides ? A-t-elle quelque chose à cacher ? ». Selon le lobbyiste, non, puisque le consommateur « peut appeler le fabriquant » pour connaître la composition exacte. L’échange se termine sur un blanc de 10 secondes de la part du lobbyiste, ne sachant pas quoi répondre à « c’est pas plus simple de l’indiquer sur le paquet ? ».  
 
 - Le groupe *Mars* (pour rappel ; *Royal Canin*, *Whiskas*, *Sheba*…) développe son influence jusqu’aux éleveur·euses animaliers. Les éleveurs signent des partenariats avec ces grandes marques afin d’obtenir une réduction sur leurs achats en croquettes.\
-    C’est d’autant plus intéressant pour les industriels que c’est une publicité garantie pour leur marque auprès des acheteur·euses d’animaux de race ; celleux-ci reçoivent avec leur animal un paquet de ces croquettes accompagné d’un bon de réduction pour leur prochain achat, les poussant à conserver la même nourriture que l’éleveur·euse (idéalement pour « toute la vie de l’animal » comme la commerciale *Royal Canin* interviewée en rit).  
+    C’est d’autant plus intéressant pour les industriels que c’est une **publicité garantie** pour leur marque auprès des acheteur·euses d’animaux de race. Celleux-ci reçoivent avec leur animal un paquet de ces croquettes offert accompagné d’un bon de réduction pour leur prochain achat, les poussant à conserver la même nourriture que l’éleveur·euse (idéalement « pour toute la vie de l’animal » comme la commerciale *Royal Canin* interviewée en rit).  
 
-- En 2017, le BARF[^5] commence son essor. Des particuliers souhaitant offrir une alimentation plus saine et physiologiquement respectueuse à leur animal s’unissent et fondent l’association BARF-ASSO[^6] afin de réduire le coût d’achat de la viande crue. Les repas leur coûtent 0,65€ par portion, imbattable.  
+- En 2017, le BARF[^5] commence son essor. Des particuliers souhaitant offrir une alimentation plus saine et physiologiquement respectueuse à leur animal s’unissent et fondent l’association BARF-ASSO[^6] afin de réduire le coût d’achat de la viande crue. Grâce à cette mobilisation, les repas leur reviennent à 0,65€ par portion. Imbattable.  
 
 Le documentaire se conclue ; *à l’issue de notre enquête, si vous souhaitez nourrir vos animaux avec des croquettes ou des pâtées, pensez à inspecter les emballages pour vérifier la nature des viandes utilisées et la quantité de céréales incorporées. N’hésitez pas à calculer le taux de glucides, ou à appeler votre fabriquant pour le connaître. Certains industriels proposent désormais des gammes sans céréales. Et si vous avez le temps pour ce chien, ce chat que vous chérissez, et bien ; cuisinez !*
 
 Huit ans plus tard, où en sommes-nous ?
 
-Bien que les croquettes sans céréales se soient largement développées et que de nombreuses marques fournissent désormais des tableaux nutritionnels complets (c’est-à-dire où 100% de la composition est affichée), les croquettes pleines de glucides sont toujours sur le marché et même activement défendues par certain·es acteur·ices du milieu de la santé et du bien-être félins.
+Bien que les croquettes sans céréales se soient largement développées et que de nombreuses marques fournissent désormais des tableaux nutritionnels complets (c’est-à-dire où 100% de la composition est affichée), les croquettes pleines de glucides sont toujours sur le marché et même promues par certain·es acteur·ices du milieu de la santé et du bien-être félins.
 
 Par ailleurs, ces dernières années ont aussi vu l’essor des réseaux sociaux offrir une nouvelle zone d’influence aux industriels. C’est un terrain privilégié pour s’adresser directement aux particuliers intéressés par l'épanouissement de leur animal (par le biais de partenariats avec des influenceur·euses, des professionnel·les –comme des comportementalistes *etc.*), sans aucune régulation (quelle concurrence possible pour les plus petites marques ?) ni législation forçant à révéler les conflits d’intérêts en jeu.
 
-De plus, même si le travail d’enquête sur l’influence des industriels auprès des éleveur·euses et des instances européennes est formidable, le documentaire ne traite pas de la question de leur entrisme dans les 4 écoles vétérinaires françaises (et ses conséquences), ni dans les cliniques vétérinaires elles-mêmes[^7]. L'entrisme dans le monde associatif[^8] n'est pas non plus évoqué, alors qu'il est tout aussi lucratif que lorsqu'il s'agit d'être partenaire d'éleveur·euses ; l'étiquette *bienfaiteur* étant très bénéfique pour une marque[^9].
+De plus, même si le travail d’enquête sur l’influence des industriels auprès des éleveur·euses et des instances européennes est formidable, le documentaire ne traite pas de la question de leur entrisme dans les 4 écoles vétérinaires françaises, ni dans les cliniques vétérinaires elles-mêmes[^7]. L'entrisme dans le monde associatif[^8] n'est pas non plus évoqué, alors qu'il est tout aussi lucratif que lorsqu'il s'agit d'être partenaire d'éleveur·euses ; l'étiquette de *bienfaiteur* étant très bénéfique pour une marque[^9].
 
-Bref ; l'omniprésence des industriels dicte la qualité nutritionnelle proposée à nos animaux. Ne serait-ce pas les besoins physiologiques de nos chats qui devraient dicter la qualité nutritionnelle offerte pas les industriels ?
+Bref ; l'omniprésence des industriels leur permet de dicter la qualité nutritionnelle de leurs produits. Cela ne devrait-il pas être dans le sens inverse ? **Ne seraient-ce pas les besoins physiologiques de nos chats qui devraient dicter la qualité nutritionnelle offerte pas les industriels ?**
 
 Nous revenons très bientôt avec de nouveaux articles concernant la nutrition de nos petits félins, et en attendant, bon visionnage !
 
@@ -79,5 +79,5 @@ Nous revenons très bientôt avec de nouveaux articles concernant la nutrition d
 [^5]: *Bones And Raw Food*, en français « Os et viande crue »
 [^6]: <a href="https://barf-asso.fr/" target="_blank">« Parce que les croquettivores n’existent pas »</a>
 [^7]: Les Échos, <a href="https://www.lesechos.fr/industrie-services/conso-distribution/apres-les-croquettes-mars-mise-sur-les-cliniques-veterinaires-en-europe-1217821" target="_blank">« Après les croquettes, *Mars* mise sur les cliniques vétérinaires en Europe »</a>
-[^8]: <a href="https://www.la-spa.fr/articles/signature-partenariat-affinity-petcare/" target="_blank">*Affinity Petcare* signe un partenariat avec la SPA</a>
-[^9]: <a href="https://www.latribune.fr/entreprises-finance/industrie/agroalimentaire-biens-de-consommation-luxe/alimentation-animale-comment-ultima-se-differencie-des-geants-mars-et-nestle-974847.html" target="_blank">Trois mois plus tard *Affinity Petcare* annonce agrandir son site industriel français</a>
+[^8]: En 2023, <a href="https://www.la-spa.fr/articles/signature-partenariat-affinity-petcare/" target="_blank">*Affinity Petcare* signe un partenariat avec la SPA</a>
+[^9]: La même année, <a href="https://www.latribune.fr/entreprises-finance/industrie/agroalimentaire-biens-de-consommation-luxe/alimentation-animale-comment-ultima-se-differencie-des-geants-mars-et-nestle-974847.html" target="_blank">la marque annonce agrandir son site industriel français</a>
