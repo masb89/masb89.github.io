@@ -18,7 +18,7 @@ description: this is meta description
 
 Le documentaire « <a href="https://www.youtube.com/watch?v=ZJAdhwGte-o" target="_blank">Quelles croquettes pour nos bêtes ?</a> » de Marion Baillot, diffusé pour la première fois en 2017 sur France 5, est édifiant et toujours d’actualité 8 ans plus tard.
 
-Voici en 14 points clés la synthèse des révélations de cette enquête ;
+Voici en 14 points clés le résumé de cette enquête ;
 
 - Les plus gros industriels du marché sont les groupes *Nestlé* (qui possède les marques *Purina One*, *Pro Plan*, *Friskies*, *Gourmet*, *Félix*…) et *Mars* (qui possède les marques *Royal Canin*, *Sheba*, *Whiskas*, *Kitekat*…). Ils se partagent plusieurs *milliards* de chiffre d’affaires sur le secteur *petfood* chaque année. 
 
