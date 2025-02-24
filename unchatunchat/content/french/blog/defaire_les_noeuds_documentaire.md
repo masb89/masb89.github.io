@@ -73,7 +73,7 @@ Bref ; l'omniprésence des industriels leur permet de dicter la composition de l
 Nous revenons très bientôt avec de nouveaux articles concernant la nutrition de nos petits félins, et en attendant, bon visionnage !
 
 [^1]: Le documentaire parle des chats *et des chiens* dans leur ensemble. 
-[^2]: Cependant, le docteur en biologie Jérémy Anso partage plusieurs publications scientifiques qui établissent une corrélation entre diabète, obésité et nourrissage par croquettes ; *Dur à avaler*, <a href="https://www.dur-a-avaler.com/jai-vu-le-reportage-de-france-5-sur-les-croquettes/"_blank">« J’ai vu le reportage de France 5 sur les croquettes : une véritable bombe ! »</a>
+[^2]: Cependant, le docteur en biologie Jérémy Anso partage plusieurs publications scientifiques qui établissent une corrélation entre diabète, obésité et nourrissage par croquettes ; *Dur à avaler*, <a href="https://www.dur-a-avaler.com/jai-vu-le-reportage-de-france-5-sur-les-croquettes/" target="_blank">« J’ai vu le reportage de France 5 sur les croquettes : une véritable bombe ! »</a>
 [^3]: <a href="https://www.facebook.com/groups/alertescroquettes/?locale=fr_FR" target="_blank">Groupe *Facebook* « Alerte croquettes toxiques »</a>
 [^4]: La FEDIAF est la *European Pet Food Industry Federation*. Ils représentent 18 pays et 95% de l’industrie en Europe, donc touchent 352 millions d’animaux domestiques. Données fournies par leur site internet. 
 [^5]: Documentaire Arte décryptant l’industrie du sucre et les techniques lobbyistes ; <a href="https://www.youtube.com/watch?v=WuWAlXkGbCg" target="_blank">« Sucre, le doux mensonge »</a>
