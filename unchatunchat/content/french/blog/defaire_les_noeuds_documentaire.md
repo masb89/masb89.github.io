@@ -34,7 +34,7 @@ Selon la consultante en marketing Véronique Gaboriau les consommateurs *souhait
 
 - La vétérinaire Sylvia Morand explique que de leur dentition à leur système digestif, la physiologie des chats est faite pour consommer de la viande et n'a rien à voir avec la physiologie d'omnivores.\
 Les chats n’ont pas besoin de glucides dans leur alimentation puisqu’ils **synthétisent leurs propres glucides** grâce aux autres nutriments qu'ils absorbent par le phénomène de néoglucogenèse.\
-En mangeant des croquettes tous les jours pendant des années, ils risquent de développer des maladies graves (diabète, obésité, dermatite…). 
+En mangeant des croquettes tous les jours pendant des années, ils risquent de développer des maladies graves (diabète, obésité, dermatite…).\ 
     De fait, entre 2007 et 2017, les visites vétérinaires ont augmenté de 70%. Bien que cela puisse correspondre au développement du monopole de la *petfood* sur le nourrissage de nos animaux, aucune étude ne démontre la corrélation entre croquettes et maladies chroniques au moment de l'enquête[^1].  
 
 - Gilles Vouillon, fondateur du groupe *Facebook* « Alerte croquettes toxiques »[^2] visant à éduquer les particuliers au décryptage des informations nutritionnelles sur les paquets de croquettes, explique le principe du « **splitting** » (*séparation*, *scission* en français).\
