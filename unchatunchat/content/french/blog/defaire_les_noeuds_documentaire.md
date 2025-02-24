@@ -50,7 +50,7 @@ En mangeant des croquettes tous les jours pendant des années, ils risquent de d
 
 - Pour comprendre comment un guide d'étiquetage peut omettre de faire apparaître les glucides, la journaliste interroge un lobbyiste de la FEDIAF à ce sujet. \
   « C’est vrai que les animaux n’ont pas besoin de beaucoup de glucides » admet-il. Il ajoute ; « Si vous analysez un produit, vous n’allez pas trouver beaucoup de glucides ». La journaliste réplique en fournissant les analyses indépendantes qui révèlent en moyenne 46% de glucides dans les croquettes qu'il défend ; « Vous trouvez que c’est pas beaucoup ? ». \
-  Dos au mur et au lieu d’admettre que *oui, c’est beaucoup*, il utilise le fameux « Avez-vous des preuves que c’est dangereux pour la santé ? » —dernier recours systématiquement utilisé par tous les industriels ; tabac, sucre…[^4].\
+  Dos au mur et au lieu d’admettre que *oui, c’est beaucoup*, il utilise le fameux « Avez-vous des preuves que c’est dangereux pour la santé ? » —dernier recours systématiquement utilisé par tous les industriels ; tabac, sucre…[^4]\
     La journaliste n’en démord pas ; « Pourquoi l’industrie n’affiche pas son taux de glucides ? A-t-elle quelque chose à cacher ? ». Selon le lobbyiste, non, puisque le consommateur *peut appeler le fabriquant* pour connaître la composition exacte d'un produit. L’échange se termine sur un blanc de 10 secondes de la part du lobbyiste, ne sachant pas quoi répondre à « **C’est pas plus simple de l’indiquer sur le paquet ?** ».  
 
 - Le groupe *Mars* (pour rappel ; *Royal Canin*, *Whiskas*, *Sheba*…) développe son influence jusqu’aux éleveur·euses animaliers. Les éleveurs signent des partenariats avec ces grandes marques afin d’obtenir une réduction sur leurs achats en croquettes.\
