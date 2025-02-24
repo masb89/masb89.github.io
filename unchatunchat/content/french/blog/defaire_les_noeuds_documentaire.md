@@ -77,7 +77,7 @@ Nous revenons très bientôt avec de nouveaux articles concernant la nutrition d
 [^3]: <a href="https://www.facebook.com/groups/alertescroquettes/?locale=fr_FR" target="_blank">Groupe *Facebook* « Alerte croquettes toxiques »</a>
 [^4]: La FEDIAF est la *European Pet Food Industry Federation*. Ils représentent 18 pays et 95% de l’industrie en Europe, donc touchent 352 millions d’animaux domestiques. Données fournies par leur site internet. 
 [^5]: Documentaire Arte décryptant l’industrie du sucre et les techniques lobbyistes ; <a href="https://www.youtube.com/watch?v=WuWAlXkGbCg" target="_blank">« Sucre, le doux mensonge »</a>
-[^6]: *Bones And Raw Food*. En français « Os et viande crue »
+[^6]: *Biologically Appropriate Raw Food*. En français « Nourriture crue biologiquement appropriée »
 [^7]: <a href="https://barf-asso.fr/" target="_blank">« Parce que les croquettivores n’existent pas »</a>
 [^8]: Libération, <a href="https://www.liberation.fr/planete/2017/11/09/croquettes-pas-nettes_1609031/" target="_blank">« Croquettes pas nettes »</a>
 [^9]: Les Échos, <a href="https://www.lesechos.fr/industrie-services/conso-distribution/apres-les-croquettes-mars-mise-sur-les-cliniques-veterinaires-en-europe-1217821" target="_blank">« Après les croquettes, *Mars* mise sur les cliniques vétérinaires en Europe »</a>
