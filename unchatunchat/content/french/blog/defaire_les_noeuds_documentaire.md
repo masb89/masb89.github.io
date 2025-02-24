@@ -22,7 +22,7 @@ Voici en 14 points clés le résumé de cette enquête ;
 
 - Les plus gros industriels du marché sont les groupes *Nestlé* (qui possède les marques *Purina One*, *Pro Plan*, *Friskies*, *Gourmet*, *Félix*…) et *Mars* (qui possède les marques *Royal Canin*, *Sheba*, *Whiskas*, *Kitekat*…). Ils se partagent plusieurs *milliards* de chiffre d’affaires sur le secteur *petfood* chaque année. 
 
-- Les paquets de croquettes sont soigneusement marketés ; photo de viande, photo de chat ou de chien à l'air dynamique et sain, packaging au matériau brillant, mots-clés à la connotation naturelle ou scientifique... 
+- Les paquets de croquettes sont soigneusement marketés : packaging au matériau brillant, photo de viande, photo de chat à l'air dynamique et sain, mots-clés à la connotation naturelle ou scientifique... 
 La consultante en marketing Véronique Gaboriau considère que les consommateurs *souhaitent que leur attention soit détournée* de la composition réelle des croquettes qu'ils achètent par ces artifices, afin de ne pas remettre en question leur habitude d'achat.
 
 - La « viande » des croquettes n'est jamais issue de morceaux nobles. En réalité, c'est le plus souvent de **farines animales** dont il s'agit ; c’est-à-dire de morceaux pauvres qui sont cuits puis broyés. Sabots, carcasses, plumes, peaux et même laine peuvent être ajoutés et ainsi augmenter le taux protéinique d’une croquette.  
