@@ -68,7 +68,7 @@ Par ailleurs, ces dernières années ont aussi vu l’essor des réseaux sociaux
 
 De plus, même si le travail d’enquête sur l’influence des industriels auprès des éleveur·euses et des instances européennes est formidable, le documentaire ne traite pas de la question de leur entrisme dans les 4 écoles vétérinaires françaises[^8], ni dans les cliniques vétérinaires elles-mêmes[^9]. Leur influence dans le milieu de la protection animale[^10] n'est pas non plus évoquée, alors qu'elle est tout aussi lucrative que lorsqu'il s'agit d'être partenaire d'éleveur·euses ; apparaître comme *bienfaitrice* étant très bénéfique pour une marque[^11].
 
-Bref ; l'omniprésence des industriels leur permet de dicter la composition de leurs produits. Cela ne devrait-il pas être dans le sens inverse ? **Ne seraient-ce pas les besoins physiologiques de nos chats qui devraient dicter la qualité nutritionnelle des produits que les industriels fabriquent ?**
+L'omniprésence des industriels leur permet de dicter la composition de leurs produits. Cela ne devrait-il pas être dans le sens inverse ? **Ne seraient-ce pas les besoins physiologiques de nos chats qui devraient dicter la qualité nutritionnelle des produits que les industriels fabriquent ?**
 
 Nous revenons très bientôt avec de nouveaux articles concernant la nutrition de nos petits félins, et en attendant, bon visionnage !
 
