@@ -35,7 +35,7 @@ Selon la consultante en marketing Véronique Gaboriau les consommateurs *souhait
 - La vétérinaire Sylvia Morand explique que de leur dentition à leur système digestif, la physiologie des chats est faite pour consommer de la viande et n'a rien à voir avec la physiologie d'omnivores.\
 Les chats n’ont pas besoin de glucides dans leur alimentation puisqu’ils **synthétisent leurs propres glucides** grâce aux autres nutriments qu'ils absorbent par le phénomène de néoglucogenèse.\
 En mangeant des croquettes tous les jours pendant des années, ils risquent de développer des maladies graves (diabète, obésité, dermatite…).\ 
-    De fait, entre 2007 et 2017, les visites vétérinaires ont augmenté de 70%. Bien que cela puisse correspondre au développement du monopole de la *petfood* sur le nourrissage de nos animaux, aucune étude ne démontre la corrélation entre croquettes et maladies chroniques au moment de l'enquête[^1].  
+    De fait, entre 2007 et 2017, les visites vétérinaires ont augmenté de 70%. Bien que cela puisse correspondre à l'acquisition du monopole de la *petfood* sur le nourrissage de nos animaux et à la santé altérée d'une génération d'animaux devenue vieillissante pendant cette décennie, aucune étude ne démontre la corrélation entre croquettes et maladies chroniques au moment de l'enquête[^1].  
 
 - Gilles Vouillon, fondateur du groupe *Facebook* « Alerte croquettes toxiques »[^2] visant à éduquer les particuliers au décryptage des informations nutritionnelles sur les paquets de croquettes, explique le principe du « **splitting** » (*séparation*, *scission* en français).\
     Pour ne pas avoir à afficher le maïs (ou le blé, le riz…) comme principal ingrédient et afin que ce soit la protéine animale qui apparaisse en premier (en comptant seulement 17% de la composition totale par exemple), le *splitting* permet d’obtenir de plus petits pourcentages en divisant le maïs en « protéine de maïs », « gluten de maïs », *etc*. C’est une technique malhonnête envers les consommateur·ices, mais légale.  
@@ -72,7 +72,7 @@ Bref ; l'omniprésence des industriels leur permet de dicter la composition de l
 
 Nous revenons très bientôt avec de nouveaux articles concernant la nutrition de nos petits félins, et en attendant, bon visionnage !
 
-[^1]: Pour le démontrer, il faudrait réaliser une étude scientifique de grande ampleur comptant deux groupes de chats témoins nourris exclusivement de croquettes pour l’un, exclusivement de nourriture humide ou crue pour l’autre, et qu’elle s’étende sur une dizaine d’années minimum. C’est extrêmement difficile ! 
+[^1]: Cependant, le docteur en biologie Jérémy Anso partage plusieurs publications scientifiques qui établissent une corrélation entre diabète, obésité et nourrissage par croquettes ; *Dur à avaler*, <a href="https://www.dur-a-avaler.com/jai-vu-le-reportage-de-france-5-sur-les-croquettes/"_blank">« J’ai vu le reportage de France 5 sur les croquettes : une véritable bombe ! »</a>  
 [^2]: <a href="https://www.facebook.com/groups/alertescroquettes/?locale=fr_FR" target="_blank">Groupe *Facebook* « Alerte croquettes toxiques »</a>
 [^3]: La FEDIAF est la *European Pet Food Industry Federation*. Ils représentent 18 pays et 95% de l’industrie en Europe, donc touchent 352 millions d’animaux domestiques. Données fournies par leur site internet. 
 [^4]: Documentaire Arte décryptant l’industrie du sucre et les techniques lobbyistes ; <a href="https://www.youtube.com/watch?v=WuWAlXkGbCg" target="_blank">« Sucre, le doux mensonge »</a>
