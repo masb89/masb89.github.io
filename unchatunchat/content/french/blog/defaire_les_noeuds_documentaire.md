@@ -58,7 +58,7 @@ En mangeant des croquettes tous les jours pendant des années, ils risquent de d
 
 - En 2017, le BARF[^5] commence son essor. Des particuliers souhaitant offrir une alimentation plus saine et physiologiquement respectueuse à leur animal s’unissent et fondent l’association BARF-ASSO[^6] afin de réduire le coût d’achat de viande crue. Grâce à cette mobilisation, les repas leur reviennent à 0,65€ par portion. Rapport qualité-prix imbattable.  
 
-Le documentaire se conclue ; *à l’issue de notre enquête, si vous souhaitez nourrir vos animaux avec des croquettes ou des pâtées, pensez à inspecter les emballages pour vérifier la nature des viandes utilisées et la quantité de céréales incorporées. N’hésitez pas à calculer le taux de glucides, ou à appeler votre fabriquant pour le connaître. Certains industriels proposent désormais des gammes sans céréales. Et si vous avez le temps pour ce chien, ce chat que vous chérissez, et bien ; cuisinez !*
+Le documentaire se conclue ; *à l’issue de notre enquête, si vous souhaitez nourrir vos animaux avec des croquettes ou des pâtées, pensez à inspecter les emballages pour vérifier la nature des viandes utilisées et la quantité de céréales incorporées. N’hésitez pas à calculer le taux de glucides, ou à appeler votre fabriquant pour le connaître. Certains industriels proposent désormais des gammes sans céréales. Et si vous avez le temps pour ce chien, ce chat que vous chérissez... et bien ; cuisinez !*
 
 Huit ans plus tard, où en sommes-nous ?
 
