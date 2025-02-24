@@ -2,7 +2,7 @@
 title: "Défaire les nœuds : Quelles croquettes pour nos chats ?"
 author: Un chat un chat
 bg_image: images/bandeau_blog.png
-image: /unchatunchat/static/images/blog_croquettes.png
+image: /unchatunchat/static/images/Trio-page-accueil.png
 type: post
 date: 2025-02-22T13:00:00.000Z
 draft: false
