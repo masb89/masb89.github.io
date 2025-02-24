@@ -25,7 +25,7 @@ Voici en 14 points clés le résumé de cette enquête ;
 - Les paquets de croquettes sont soigneusement marketés : packaging au matériau brillant, photo de viande, photo de chat à l'air dynamique et sain, mots-clés à la connotation naturelle ou scientifique... 
 Selon la consultante en marketing Véronique Gaboriau les consommateurs *souhaitent que leur attention soit détournée* de la composition réelle des croquettes qu'ils achètent par ces artifices, afin de ne pas remettre en question leur habitude d'achat.
 
-- La « viande » des croquettes n'est jamais issue de morceaux nobles. En réalité, c'est le plus souvent de **farines animales** dont il s'agit ; c’est-à-dire de morceaux pauvres qui sont cuits puis broyés. Sabots, carcasses, plumes, peaux et même laine peuvent être ajoutés et ainsi augmenter le taux protéinique d’une croquette.  
+- La « viande » des croquettes n'est jamais issue de morceaux nobles. En réalité, c'est le plus souvent de **farines animales** dont il s'agit ; c’est-à-dire de morceaux pauvres qui sont cuits, séchés puis broyés. Sabots, carcasses, plumes, peaux et même laine peuvent être ajoutés et ainsi augmenter le taux protéinique d’une croquette.  
 
 - Presque tous les industriels ajoutent des céréales à leurs croquettes. L’amidon de celles-ci sert de liant aux croquettes (ça « colle »), et a l'avantage d'être bien moins onéreux que la viande.\
     L'ajout de céréales **n’a aucun bénéfice nutritionnel** ; il sert uniquement à pallier une problématique industrielle.  
