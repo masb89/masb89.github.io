@@ -1,14 +1,15 @@
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  branch: master 
 media_folder: "unchatunchat/static/images"
+public_folder: "/images"
 collections:
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Article" # Used in the UI
-    folder: "unchatunchat/content/french/blog" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
+  - name: "blog" 
+    label: "Article" 
+    folder: "unchatunchat/content/french/blog" 
+    create: true 
+    slug: "{{slug}}" 
+    fields: 
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Author", name: "author", widget: "string", default: "Un chat un chat" }
       - { label: "BG image", name: "bg_image", widget: "image", default: "bandeau_blog.png"}
@@ -18,4 +19,19 @@ collections:
       - { label: "Draft", name: "draft", widget: "boolean", default: false } 
       - { label: "Categories", name: "categories", widget: "list"} 
       - { label: "Tags", name: "tags", widget: "list"} 
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "adoption" # Used in routes, e.g., /admin/collections/blog
+    label: "Adoption" # Used in the UI
+    folder: "unchatunchat/content/french/adoption" 
+    create: true 
+    slug: "{{slug}}" 
+    fields: 
+      - { label: "Title", name: "title", widget: "string", default: "[le nom du chat]"}
+      - { label: "Description", name: "description", widget: "string", default: "En savoir plus sur [le nom du chat]" }
+      - { label: "BG image", name: "bg_image", widget: "image", default: "siteinternetbandeau.png"}
+      - { label: "Featured Image", name: "image", widget: "image" }
+      - { type: "Weight", name: "weight", widget: "number" }
+      - { label: "Adopted", name: "adopted", widget: "boolean", default: false }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false } 
+      - { label: "Gone", name: "gone", widget: "boolean", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
