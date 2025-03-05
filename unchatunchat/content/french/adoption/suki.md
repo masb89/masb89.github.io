@@ -9,24 +9,20 @@ adopted: false
 gone: false
 ---
 
-## Suki
-Suki est une jeune minette de deux ans, récupérée avec ses chatons dans le jardin d'un particulier.
+## 🩷 Suki 🩷
+Suki est une jeune chatte de trois ans, trouvée errante dans le jardin d’un particulier avec ses chatons.
 
-Durant les premières semaines, elle s'est montrée très craintive ; elle feulait à la simple vue d'un humain, s'enfuyait si l'on allait dans sa direction… mais elle n'a jamais été agressive.
+C’est une minette douce et sensible qui apprend à faire confiance aux humains. Calme et posée, elle apprécie sa routine faite de parties de jeu dynamiques suivies de roulades de contentement sur le tapis en miaulant, de pâtées au poulet qu’elle essaie de voler à son copain chat qui les savoure trop lentement, de longues siestes au soleil sur le rebord de fenêtre sécurisé à commérer sur la vie de quartier, de quêtes de trouvailles dans l’évier de la cuisine, de films et séries captivants qu’elle regarde sur le canapé avec tout ce beau monde –humains et chat d’accueil.
 
-Les semaines passant, Suki a petit à petit reniflé une main tendue plutôt que de la fuir, accepté quelques caresses... et une fois tous ses chatons adoptés et délestée de son rôle de mère, s’est mise à jouer avec sa famille d'accueil avec joie 🥰
+Elle est gourmande, espiègle (elle roucoule beaucoup, surtout avec son copain chat) et curieuse mais pas aventureuse (jamais d’acrobaties sur les meubles). Mais Suki a un défaut presque inavouable ; elle n’est pas câline 🫣 Elle peut accepter les caresses, cependant elle ne porte pas d’intérêt au contact physique. Elle vient régulièrement patouner en ronronnant à côté de ses humains, mais seule l’affection de son copain chat compte.
+Aux humains, elle montre son amour en étant toujours là, proche mais pas trop non plus ; dormir à nos pieds la nuit, attendre patiemment qu’un plumeau sorte du placard quand vient l’heure de jouer, miauler et tendre la patte vers une assiette en espérant en avoir un peu... Tout ça avec une sensibilité particulièrement touchante 💖
+Suki n’a jamais été agressive, pourtant plusieurs fois exposée à beaucoup de stress (coupe des griffes, visites vétérinaire).
 
-Lorsqu'elle s'ennuie, elle vient s'asseoir près de vous et attend patiemment qu'une canne à pêche sorte d'un placard. Jamais flemmarde, s'il faut chasser jusqu'à l'essoufflement, elle relèvera le défi ! Bref, le jeu est sa zone de confort 😻 
+Elle a peur des inconnus lorsqu’ils lui montrent de l’attention, et est à l’aise lorsqu’ils l’ignorent. Elle a besoin de décider quand donner sa confiance, sinon elle se recroqueville dans sa coquille.
 
-Grande gourmande, Suki n'hésite pas à se frotter aux jambes des humains lorsque le doux son de l'ouverture de pâtée se fait entendre. Et quand l'heure du petit-déjeuner tarde un peu, elle prend les choses en mains et vient chercher un bipède endormi à coup de mordillement des orteils 🥲
+Nous cherchons pour elle un foyer calme, sans enfants, idéalement avec beaucoup de présence ou bien un autre chat (elle s’entend très bien avec ses congénères). Un jardin peut être un plus pour son épanouissement, mais n’est pas requis –elle ne montre aucun signe que l’extérieur lui manque.
 
-Suki a fait de beaux progrès pour sa confiance en l'Homme, mais elle reste une minette peureuse. Elle apprécie être aux côtés de sa famille d'accueil, cependant après 7 mois d'accueil, il arrive encore qu'elle s'enfuie lorsqu'on l'approche, et reste frileuse au contact — elle accepte les caresses mais n'en réclame jamais, et refuse d’être portée.
-
-Elle aura besoin de patience et de douceur pour s'épanouir. Nous cherchons pour elle un foyer l'acceptant telle qu'elle est et qui lui offre une routine sécurisante.
-Suki s'entend bien avec le chat de sa famille d'accueil, mais plutôt pour dormir que pour jouer ; elle serait certainement à l'aise seule.
-De plus, elle s'est parfaitement adaptée à la vie en appartement ; tout indique qu'elle apprécie la douceur de la vie en intérieur.
-
-__________
+____________________
 
 Pas ok enfants
 
@@ -37,8 +33,6 @@ Pas ok enfants
 ✓ Stérilisée \
 Frais d’adoption de 220€
 
-__________
+____________________
 
- 
 Intéressé·e par Suki ? Une seule façon de faire une demande d’adoption ; merci de remplir ce formulaire en ligne : https://forms.gle/UHTLWyNhD45S8At76
-
