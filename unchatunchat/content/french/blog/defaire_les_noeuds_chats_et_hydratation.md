@@ -43,36 +43,36 @@ _💡 Notez que l’élément essentiel perdu dans la nourriture transformée, c
 ➡️ Respecter la physiologie et les besoins hydrique et nutritionnel de nos chats est essentiel pour préserver leur santé sur le long terme. La nourriture humide, souvent considérée comme « bonus » par les humains, est au contraire **essentielle** et devrait plutôt constituer la majorité de l’apport nutritionnel au quotidien.  
 <br/>💶 Contrairement aux idées reçues, opter pour une nourriture humide **n’est pas nécessairement plus cher** que de nombreuses croquettes, d’autant plus si l’on considère **le rapport qualité-prix**. Pour un chat adulte de 4 kg, passer à une nourriture **exclusivement** humide coûte entre 15 et 100€ par mois[^17], selon les marques. Si votre budget ne le permet pas, vous pouvez diviser par deux ce coût et opter pour un nourrissage moitié humide, moitié croquettes.
 
-[^1]: Un chat un chat, [« Quelles croquettes pour nos chats ? »](https://unchatunchat.fr/blog/defaire_les_noeuds_documentaire/) [↑](#footnote-ref-1)
+[^1]: Un chat un chat, <a href="https://unchatunchat.fr/blog/defaire_les_noeuds_documentaire/" target="_blank">« Quelles croquettes pour nos chats ? »</a>
 
-[^2]: Quitte à devoir choisir des croquettes, il est évident –au vu de notre précédent article notamment– qu’il est plus sain d’opter pour des pauvres en glucides. [↑](#footnote-ref-2)
+[^2]: Quitte à devoir choisir des croquettes, il est évident –au vu de notre précédent article notamment– qu’il est plus sain d’opter pour des pauvres en glucides.
 
-[^3]: _Capital Magazine_, [_Des recettes aux marges ultra-alléchantes_](https://www.capital.fr/economie-politique/des-recettes-aux-marges-ultra-allechantes-696390) ; « Une boîte vendue 16,60€/kg ne coûte que 3,12€/kg à produire » [↑](#footnote-ref-3)
+[^3]: _Capital Magazine_, <a href="https://www.capital.fr/economie-politique/des-recettes-aux-marges-ultra-allechantes-696390" target="_blank">_Des recettes aux marges ultra-alléchantes_</a> ; « Une boîte vendue 16,60€/kg ne coûte que 3,12€/kg à produire » 
 
-[^4]: De façon générale, les produits au poisson sont à éviter pour nos chats, car ils peuvent contenir des traces d’arsenic ou de mercure. [↑](#footnote-ref-4)
+[^4]: De façon générale, les produits au poisson sont à éviter pour nos chats, car ils peuvent contenir des traces d’arsenic ou de mercure. 
 
-[^5]: _Ibid. Capital Magazine_ ; « Les consommateurs \[sont\] prêts à payer plus cher une barquette de filet de thon pour chats (11,80€/kg) que la boîte de thon à la catalane destinée à leur propre dîner (8,63€/kg). » [↑](#footnote-ref-5)
+[^5]: _Ibid. Capital Magazine_ ; « Les consommateurs \[sont\] prêts à payer plus cher une barquette de filet de thon pour chats (11,80€/kg) que la boîte de thon à la catalane destinée à leur propre dîner (8,63€/kg). » 
 
-[^6]: _The Journal of Nutrition_, [_The Effect of Diet on Lower Urinary Tract Diseases in Cats_](https://www.sciencedirect.com/science/article/pii/S0022316623023076) [↑](#footnote-ref-6)
+[^6]: _The Journal of Nutrition_, <a href="https://www.sciencedirect.com/science/article/pii/S0022316623023076">_The Effect of Diet on Lower Urinary Tract Diseases in Cats_</a> 
 
-[^7]: _Journal of Veterinary Science and Animal Husbandry_, [_Feline Lower Urinary Tract Disease – An Emerging Problem of Recent Era_](https://www.researchgate.net/publication/268277616_Feline_Lower_Urinary_Tract_Disease_Flutd_-_An_Emerging_Problem_of_Recent_Era) [↑](#footnote-ref-7)
+[^7]: _Journal of Veterinary Science and Animal Husbandry_, <a href="https://www.researchgate.net/publication/268277616_Feline_Lower_Urinary_Tract_Disease_Flutd_-_An_Emerging_Problem_of_Recent_Era">_Feline Lower Urinary Tract Disease – An Emerging Problem of Recent Era_</a> 
 
-[^8]: « We found an association between dry food and an increased risk of diabetes mellitus in cats in a normal body condition », [_Environmental Risk Factors for Diabetes Mellitus in Cats_](https://onlinelibrary.wiley.com/doi/10.1111/jvim.14618) [↑](#footnote-ref-8)
+[^8]: « We found an association between dry food and an increased risk of diabetes mellitus in cats in a normal body condition », <a href="https://onlinelibrary.wiley.com/doi/10.1111/jvim.14618">_Environmental Risk Factors for Diabetes Mellitus in Cats_</a> 
 
-[^9]: [_Raw Feeding Veterinary Society_](https://rfvs.info/) [↑](#footnote-ref-9)
+[^9]: <a href="https://rfvs.info/">_Raw Feeding Veterinary Society_</a> 
 
-[^10]: Slogan de [l’association BARF-ASSO](https://barf-asso.fr/) [↑](#footnote-ref-10)
+[^10]: Slogan de <a href="https://barf-asso.fr/">l’association BARF-ASSO</a> 
 
-[^11]: Vidéo _YouTube_ [_Cat Expert Explains How to Read Cat Food Labels_](https://www.youtube.com/watch?v=jLNiAxeNlXQ&list=PLAJvHNBwbBNvS6Bfc4Q62GhOsEqi69-7H&index=4) [↑](#footnote-ref-11)
+[^11]: Vidéo _YouTube_ <a href="https://www.youtube.com/watch?v=jLNiAxeNlXQ&list=PLAJvHNBwbBNvS6Bfc4Q62GhOsEqi69-7H&index=4">_Cat Expert Explains How to Read Cat Food Labels_</a> 
 
-[^12]: Série de vidéos _YouTube_ « [Tout sur la nourriture féline](https://www.youtube.com/watch?v=6cvxA1CMbMQ&list=PLAJvHNBwbBNvS6Bfc4Q62GhOsEqi69-7H) ». Sous-titres disponibles en plusieurs langues [↑](#footnote-ref-12)
+[^12]: Série de vidéos _YouTube_ « <a href="https://www.youtube.com/watch?v=6cvxA1CMbMQ&list=PLAJvHNBwbBNvS6Bfc4Q62GhOsEqi69-7H">Tout sur la nourriture féline</a> ». Sous-titres disponibles en plusieurs langues 
 
-[^13]: « Cats eating commercial dry foods will consume approximately half the amount of water (in their diet and through drinking), compared with cats eating canned foods. », [_The carnivore connection to nutrition in cats_](https://avmajournals.avma.org/view/journals/javma/221/11/javma.2002.221.1559.xml) [↑](#footnote-ref-13)
+[^13]: « Cats eating commercial dry foods will consume approximately half the amount of water (in their diet and through drinking), compared with cats eating canned foods. », <a href="https://avmajournals.avma.org/view/journals/javma/221/11/javma.2002.221.1559.xml">_The carnivore connection to nutrition in cats_</a> 
 
-[^14]: Vidéo _Youtube_ citée précédemment ; [_Cat Expert Explains How to Read Cat Food Labels_](https://www.youtube.com/watch?v=jLNiAxeNlXQ&list=PLAJvHNBwbBNvS6Bfc4Q62GhOsEqi69-7H&index=4) [↑](#footnote-ref-14)
+[^14]: Vidéo _Youtube_ citée précédemment ; <a href="https://www.youtube.com/watch?v=jLNiAxeNlXQ&list=PLAJvHNBwbBNvS6Bfc4Q62GhOsEqi69-7H&index=4">_Cat Expert Explains How to Read Cat Food Labels_</a> 
 
-[^15]: Jean Hofve, [_The Ideal Diet for Cats_](https://littlebigcat.com/the-ideal-diet-for-cats/) [↑](#footnote-ref-15)
+[^15]: Jean Hofve, <a href="https://littlebigcat.com/the-ideal-diet-for-cats/">_The Ideal Diet for Cats_</a> 
 
-[^16]: Animal Wellness Academy, [_The Best Diet for Preventing Obesity in Cats_](https://animalwellnessacademy.org/the-best-diet-for-preventing-obesity-in-cats/) [↑](#footnote-ref-16)
+[^16]: Animal Wellness Academy, <a href="https://animalwellnessacademy.org/the-best-diet-for-preventing-obesity-in-cats/">_The Best Diet for Preventing Obesity in Cats_</a> 
 
-[^17]: 15€ : pour l’achat de 24 boîtes de 400 grammes de pâtées « volaille » d’une marque de supermarché à 42€ par exemple. 100€ : pour l’achat de 60 boîtes de pâtée au poulet d’une marque qualitative. Le BARF et de nombreuses marques proposant des rations ménagères de bonne composition se situent dans cette fourchette. [↑](#footnote-ref-17)
+[^17]: 15€ : pour l’achat de 24 boîtes de 400 grammes de pâtées « volaille » d’une marque de supermarché à 42€ par exemple. 100€ : pour l’achat de 60 boîtes de pâtée au poulet d’une marque qualitative. Le BARF et de nombreuses marques proposant des rations ménagères de bonne composition se situent dans cette fourchette. 
