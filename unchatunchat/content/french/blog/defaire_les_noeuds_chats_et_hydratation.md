@@ -34,7 +34,7 @@ Grâce au monopole de la nourriture sèche sur le marché, la commercialisation 
 
 Comme le souligne la vétérinaire Jean Hofve, pour nourrir nos chats l’idéal est « un rat dans une conserve »[^14], c’est-à-dire… **65% d’eau** !
 
-Précisément, la composition idéale des repas de nos félins est[^15] ;
+Précisément, un repas complet pour un chat se compose de[^15] ;
 
 * 60-70% d’eau,
 * 10-20% de protéines (**50-55% sur la matière sèche**),
