@@ -46,7 +46,7 @@ Précisément, un repas complet pour un chat se compose de[^15] ;
 
 ➡️ Respecter la physiologie et les besoins hydrique et nutritionnel de nos chats est essentiel pour préserver leur santé sur le long terme. La nourriture humide, souvent considérée comme « bonus » par les humains, est au contraire **essentielle** et devrait plutôt constituer la majorité de l’apport nutritionnel au quotidien.\
 <br/>💶 Contrairement aux idées reçues, opter pour une nourriture humide **n’est pas nécessairement plus cher** que de nombreuses croquettes le sont –d’autant plus si l’on considère **le rapport qualité-prix**. \
-Pour un chat adulte, passer à une nourriture **exclusivement** humide coûte entre 15 et 100€ par mois[^17], selon les marques. 
+Pour un chat adulte, passer à une nourriture **exclusivement** humide coûte entre 15 et 95€ par mois[^17], selon les marques. Ce budget peut être divisé par deux en optant pour un nourrissage moitié humide, moitié croquettes.
 
 [^1]: Un chat un chat, <a href="https://unchatunchat.fr/blog/defaire_les_noeuds_documentaire/" target="_blank">« Quelles croquettes pour nos chats ? »</a>
 
@@ -81,4 +81,4 @@ Pour un chat adulte, passer à une nourriture **exclusivement** humide coûte en
 [^16]: Animal Wellness Academy, <a href="https://animalwellnessacademy.org/the-best-diet-for-preventing-obesity-in-cats/" target="_blank">*The Best Diet for Preventing Obesity in Cats*</a> 
 
 [^17]: En considérant qu'un chat adulte de 4kg a besoin de 100 grammes de pâtée par jour ; \
-15€ : pour l’achat de 24 boîtes de 400 grammes de pâtées « volaille » d’une marque de supermarché à 42€. 100€ : pour l’achat de 60 boîtes de pâtée au poulet d’une marque qualitative. Le BARF et de nombreuses marques proposant des rations ménagères de bonne composition se situent dans cette fourchette.
+15€ : pour l’achat de 24 boîtes de 400 grammes de pâtées « volaille » d’une marque de supermarché à 42€. 95€ : pour l’achat de 60 boîtes de pâtée au poulet d’une marque qualitative. Le BARF et de nombreuses marques proposant des rations ménagères de bonne composition se situent dans cette fourchette.
