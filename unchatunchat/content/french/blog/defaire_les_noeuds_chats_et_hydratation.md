@@ -1,5 +1,5 @@
 ---
-title: "Défaire les nœuds : chats et hydratation"
+title: "Défaire les nœuds : L'hydratation de nos chats"
 author: Un chat un chat
 bg_image: images/bandeau_blog.png
 image: images/blog_hydratation.png
