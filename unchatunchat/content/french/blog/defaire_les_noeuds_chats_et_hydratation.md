@@ -25,7 +25,7 @@ Ce décalage du débat sur les enjeux de l’alimentation témoigne de la victoi
 
 Nourrir son chat majoritairement voire exclusivement de nourriture sèche, c’est négliger son besoin hydrique et **l’exposer aux maladies graves** liées au système urinaire et rénal[^6], et au diabète[^8]. Des vétérinaires s’allient pour promouvoir une alimentation plus saine et sensibiliser les particuliers sur son importance[^9].
 
-Gardons à l’esprit que *les croquettivores n’existent pas*[^10] ; les seuls avantages de la nourriture sèche sont **anthropocentrés**. C’est pratique (facile à se procurer), économique, se conserve longtemps et sans effort, se dose et se distribue facilement…\
+Gardons à l’esprit que *les croquettivores n’existent pas*[^10] ; les seuls avantages de la nourriture sèche sont **anthropocentrés**. C’est économique, facile à se procurer, se conserve longtemps et sans effort, se dose et se distribue facilement…\
 Cependant, du point de vue nutritionnel, il n’y a aucun argument prévalent sur la nourriture humide. Le comportementaliste Jackson Galaxy va jusqu’à affirmer que « La pire des pâtées reste plus souhaitable que la meilleure des croquettes »[^11]. Très engagé sur les enjeux de la nutrition féline, il a réalisé une série de vidéos pédagogiques sur le sujet[^12].
 
 💡 *Si les croquettes composent la majorité de la nourriture que vous offrez à votre chat, vous pouvez les réhydrater en les vaporisant d’eau, pour pallier légèrement la sécheresse.*
