@@ -1,8 +1,8 @@
 ---
 title: "Défaire les nœuds : chats et hydratation"
 author: Un chat un chat
-bg_image: bandeau_blog.png
-image: /images/blog_hydratation.png
+bg_image: images/bandeau_blog.png
+image: images/blog_hydratation.png
 type: post
 date: 2025-03-06T12:00:00.000Z
 draft: false
@@ -12,6 +12,7 @@ tags:
   - hydratation
   - croquettes
   - santé
+description: this is meta description
 ---
 Dans la suite de notre premier article<sup>[\[1\]](#footnote-1)</sup>, nous souhaitons aborder la question de **l’hydratation** de nos chats.
 
