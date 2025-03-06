@@ -37,7 +37,7 @@ Précisément, la composition idéale des repas de nos félins est[^15] ;
 * 60-70% d’eau,
 * 10-20% de protéines (50-55% sur la matière sèche),
 * 5-10% de lipides (35-40% sur la matière sèche),
-* 1-5% cellulose brute (fibres) et cendres brutes,
+* 1-5% cellulose brute (les fibres) et cendres brutes,
 * 0% de glucides (moins de 10% sur la matière sèche).
 
 💡 *Notez que le sang est systématiquement perdu dans les aliments transformés. Les nutriments présents dans le sang, essentiels pour nos chats[^16], sont ajoutés artificiellement aux aliments industriels (acides aminés comme la taurine etc.). C’est pour cette raison que créer sa propre ration ménagère ou BARF sans les conseils nutritionnels adaptés est déconseillée, au risque de mener à des carences qui peuvent être toutes aussi graves sur la santé de nos chats qu’une nourriture sèche et hautement glycémique l’est.*
