@@ -46,7 +46,7 @@ Précisément, la composition idéale des repas de nos félins est[^15] ;
 
 ➡️ Respecter la physiologie et les besoins hydrique et nutritionnel de nos chats est essentiel pour préserver leur santé sur le long terme. La nourriture humide, souvent considérée comme « bonus » par les humains, est au contraire **essentielle** et devrait plutôt constituer la majorité de l’apport nutritionnel au quotidien.\
 <br/>💶 Contrairement aux idées reçues, opter pour une nourriture humide **n’est pas nécessairement plus cher** que de nombreuses croquettes le sont –d’autant plus si l’on considère **le rapport qualité-prix**. \
-Pour un chat adulte, passer à une nourriture **exclusivement** humide coûte entre 15 et 100€ par mois[^17], selon les marques. Si votre budget ne le permet pas, vous pouvez diviser par deux ce coût et opter pour un nourrissage moitié humide, moitié croquettes.
+Pour un chat adulte, passer à une nourriture **exclusivement** humide coûte entre 15 et 100€ par mois[^17], selon les marques. 
 
 [^1]: Un chat un chat, <a href="https://unchatunchat.fr/blog/defaire_les_noeuds_documentaire/" target="_blank">« Quelles croquettes pour nos chats ? »</a>
 
