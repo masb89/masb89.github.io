@@ -15,11 +15,13 @@ tags:
   - Santé
 description: this is meta description
 ---
+*Temps de lecture : 5 minutes.*
+
 Dans la suite de notre premier article[^1], nous souhaitons aborder la question de **l’hydratation** de nos chats.
 
 Le débat sur la qualité des croquettes monopolise l’attention.\
 À la question « Dois-je nourrir mon chat de croquettes avec ou sans céréales ? », la réponse pourrait être « Il faut surtout le nourrir avec de la nourriture humide »[^2].\
-Ce décalage du débat sur les enjeux de l’alimentation témoigne de la **victoire des industriels sur le sujet**, à qui la confusion profite. La nourriture sèche est bien plus économique à produire en masse et donc plus rentable que la nourriture humide qui garantit des marges moindres (conséquentes malgré tout[^3]), au point que des pâtées au thon[^4] pour chats puissent être vendues plus chères que des conserves de thon destinées aux humains[^5].
+Ce décalage du débat sur les enjeux de l’alimentation témoigne de la victoire des industriels sur le sujet, à qui la confusion profite. La nourriture sèche est bien plus économique à produire en masse et donc plus rentable que la nourriture humide qui garantit des marges moindres (conséquentes malgré tout[^3]), au point que des pâtées au thon[^4] pour chats puissent être vendues plus chères que des conserves de thon destinées aux humains[^5].
 
 Nourrir son chat majoritairement voire exclusivement de nourriture sèche, c’est négliger son besoin hydrique et **l’exposer aux maladies graves** liées au système urinaire et rénal[^6], et au diabète[^8]. Des vétérinaires s’allient pour promouvoir une alimentation plus saine et sensibiliser les particuliers sur son importance[^9].
 
@@ -48,7 +50,7 @@ Pour un chat adulte, passer à une nourriture **exclusivement** humide coûte en
 
 [^1]: Un chat un chat, <a href="https://unchatunchat.fr/blog/defaire_les_noeuds_documentaire/" target="_blank">« Quelles croquettes pour nos chats ? »</a>
 
-[^2]: Quitte à devoir choisir des croquettes, il est évident –au vu de notre précédent article notamment– qu’il est plus sain d’opter pour des pauvres en glucides.
+[^2]: Quitte à devoir choisir des croquettes, il est évident –au vu de notre précédent article notamment– qu’il est plus sain d’opter pour celles qui sont riches en protéines et pauvres en glucides.
 
 [^3]: *Capital Magazine*, <a href="https://www.capital.fr/economie-politique/des-recettes-aux-marges-ultra-allechantes-696390" target="_blank">*Des recettes aux marges ultra-alléchantes*</a> ; « Une boîte vendue 16,60€/kg ne coûte que 3,12€/kg à produire » 
 
@@ -74,7 +76,7 @@ Pour un chat adulte, passer à une nourriture **exclusivement** humide coûte en
 
 [^14]: Vidéo *Youtube* citée précédemment ; <a href="https://www.youtube.com/watch?v=jLNiAxeNlXQ&list=PLAJvHNBwbBNvS6Bfc4Q62GhOsEqi69-7H&index=4" target="_blank">*Cat Expert Explains How to Read Cat Food Labels*</a> 
 
-[^15]: Jean Hofve, <a href="https://littlebigcat.com/the-ideal-diet-for-cats/" target="_blank">*The Ideal Diet for Cats*</a> 
+[^15]: Dr Jean Hofve, <a href="https://littlebigcat.com/the-ideal-diet-for-cats/" target="_blank">*The Ideal Diet for Cats*</a> 
 
 [^16]: Animal Wellness Academy, <a href="https://animalwellnessacademy.org/the-best-diet-for-preventing-obesity-in-cats/" target="_blank">*The Best Diet for Preventing Obesity in Cats*</a> 
 
