@@ -53,26 +53,26 @@ _💡 Notez que l’élément essentiel perdu dans la nourriture transformée, c
 
 [^5]: _Ibid. Capital Magazine_ ; « Les consommateurs \[sont\] prêts à payer plus cher une barquette de filet de thon pour chats (11,80€/kg) que la boîte de thon à la catalane destinée à leur propre dîner (8,63€/kg). » 
 
-[^6]: _The Journal of Nutrition_, <a href="https://www.sciencedirect.com/science/article/pii/S0022316623023076">_The Effect of Diet on Lower Urinary Tract Diseases in Cats_</a> 
+[^6]: _The Journal of Nutrition_, <a href="https://www.sciencedirect.com/science/article/pii/S0022316623023076" target="_blank">_The Effect of Diet on Lower Urinary Tract Diseases in Cats_</a> 
 
-[^7]: _Journal of Veterinary Science and Animal Husbandry_, <a href="https://www.researchgate.net/publication/268277616_Feline_Lower_Urinary_Tract_Disease_Flutd_-_An_Emerging_Problem_of_Recent_Era">_Feline Lower Urinary Tract Disease – An Emerging Problem of Recent Era_</a> 
+[^7]: _Journal of Veterinary Science and Animal Husbandry_, <a href="https://www.researchgate.net/publication/268277616_Feline_Lower_Urinary_Tract_Disease_Flutd_-_An_Emerging_Problem_of_Recent_Era" target="_blank">_Feline Lower Urinary Tract Disease – An Emerging Problem of Recent Era_</a> 
 
-[^8]: « We found an association between dry food and an increased risk of diabetes mellitus in cats in a normal body condition », <a href="https://onlinelibrary.wiley.com/doi/10.1111/jvim.14618">_Environmental Risk Factors for Diabetes Mellitus in Cats_</a> 
+[^8]: « We found an association between dry food and an increased risk of diabetes mellitus in cats in a normal body condition », <a href="https://onlinelibrary.wiley.com/doi/10.1111/jvim.14618" target="_blank">_Environmental Risk Factors for Diabetes Mellitus in Cats_</a> 
 
-[^9]: <a href="https://rfvs.info/">_Raw Feeding Veterinary Society_</a> 
+[^9]: <a href="https://rfvs.info/" target="_blank">_Raw Feeding Veterinary Society_</a> 
 
-[^10]: Slogan de <a href="https://barf-asso.fr/">l’association BARF-ASSO</a> 
+[^10]: Slogan de <a href="https://barf-asso.fr/" target="_blank">l’association BARF-ASSO</a> 
 
-[^11]: Vidéo _YouTube_ <a href="https://www.youtube.com/watch?v=jLNiAxeNlXQ&list=PLAJvHNBwbBNvS6Bfc4Q62GhOsEqi69-7H&index=4">_Cat Expert Explains How to Read Cat Food Labels_</a> 
+[^11]: Vidéo _YouTube_ <a href="https://www.youtube.com/watch?v=jLNiAxeNlXQ&list=PLAJvHNBwbBNvS6Bfc4Q62GhOsEqi69-7H&index=4" target="_blank">_Cat Expert Explains How to Read Cat Food Labels_</a> 
 
-[^12]: Série de vidéos _YouTube_ « <a href="https://www.youtube.com/watch?v=6cvxA1CMbMQ&list=PLAJvHNBwbBNvS6Bfc4Q62GhOsEqi69-7H">Tout sur la nourriture féline</a> ». Sous-titres disponibles en plusieurs langues 
+[^12]: Série de vidéos _YouTube_ « <a href="https://www.youtube.com/watch?v=6cvxA1CMbMQ&list=PLAJvHNBwbBNvS6Bfc4Q62GhOsEqi69-7H" target="_blank">Tout sur la nourriture féline</a> ». Sous-titres disponibles en plusieurs langues 
 
-[^13]: « Cats eating commercial dry foods will consume approximately half the amount of water (in their diet and through drinking), compared with cats eating canned foods. », <a href="https://avmajournals.avma.org/view/journals/javma/221/11/javma.2002.221.1559.xml">_The carnivore connection to nutrition in cats_</a> 
+[^13]: « Cats eating commercial dry foods will consume approximately half the amount of water (in their diet and through drinking), compared with cats eating canned foods. », <a href="https://avmajournals.avma.org/view/journals/javma/221/11/javma.2002.221.1559.xml" target="_blank">_The carnivore connection to nutrition in cats_</a> 
 
-[^14]: Vidéo _Youtube_ citée précédemment ; <a href="https://www.youtube.com/watch?v=jLNiAxeNlXQ&list=PLAJvHNBwbBNvS6Bfc4Q62GhOsEqi69-7H&index=4">_Cat Expert Explains How to Read Cat Food Labels_</a> 
+[^14]: Vidéo _Youtube_ citée précédemment ; <a href="https://www.youtube.com/watch?v=jLNiAxeNlXQ&list=PLAJvHNBwbBNvS6Bfc4Q62GhOsEqi69-7H&index=4" target="_blank">_Cat Expert Explains How to Read Cat Food Labels_</a> 
 
-[^15]: Jean Hofve, <a href="https://littlebigcat.com/the-ideal-diet-for-cats/">_The Ideal Diet for Cats_</a> 
+[^15]: Jean Hofve, <a href="https://littlebigcat.com/the-ideal-diet-for-cats/" target="_blank">_The Ideal Diet for Cats_</a> 
 
-[^16]: Animal Wellness Academy, <a href="https://animalwellnessacademy.org/the-best-diet-for-preventing-obesity-in-cats/">_The Best Diet for Preventing Obesity in Cats_</a> 
+[^16]: Animal Wellness Academy, <a href="https://animalwellnessacademy.org/the-best-diet-for-preventing-obesity-in-cats/" target="_blank">_The Best Diet for Preventing Obesity in Cats_</a> 
 
 [^17]: 15€ : pour l’achat de 24 boîtes de 400 grammes de pâtées « volaille » d’une marque de supermarché à 42€ par exemple. 100€ : pour l’achat de 60 boîtes de pâtée au poulet d’une marque qualitative. Le BARF et de nombreuses marques proposant des rations ménagères de bonne composition se situent dans cette fourchette. 
