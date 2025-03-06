@@ -9,9 +9,10 @@ draft: false
 categories:
   - Défaire les nœuds
 tags:
-  - hydratation
-  - croquettes
-  - santé
+  - Hydratation
+  - Alimentation
+  - Croquettes
+  - Santé
 description: this is meta description
 ---
 Dans la suite de notre premier article[^1], nous souhaitons aborder la question de **l’hydratation** de nos chats.
