@@ -30,7 +30,7 @@ Cependant, du point de vue nutritionnel, il n’y a aucun argument prévalent su
 
 💡 *Si les croquettes composent la majorité de la nourriture que vous offrez à votre chat, vous pouvez les réhydrater en les vaporisant d’eau, pour pallier légèrement la sécheresse.*
 
-Grâce au monopole de la nourriture sèche sur le marché, la commercialisation des fontaines à eau connaît un grand succès. Bien que proposer de l’eau fraîche et propre (c’est-à-dire changée quotidiennement) à nos chats soit indispensable et que les fontaines à eau peuvent inciter à boire davantage, c’est insuffisant pour compenser la perte d’hydratation pour les chats nourris exclusivement de croquettes. En effet, ceux-ci consomment **moitié moins d’eau** que les chats nourris à la pâtée[^13].
+Grâce au monopole de la nourriture sèche sur le marché, la commercialisation des fontaines à eau connaît un grand succès. Bien que proposer de l’eau fraîche et propre (changée quotidiennement) à nos chats soit indispensable et que les fontaines à eau peuvent inciter à boire davantage, c’est insuffisant pour compenser la perte d’hydratation pour les chats nourris exclusivement de croquettes. En effet, ceux-ci consomment **moitié moins d’eau** que les chats nourris à la pâtée[^13].
 
 Comme le souligne la vétérinaire Jean Hofve, pour nourrir nos chats l’idéal est « un rat dans une conserve »[^14], c’est-à-dire… **65% d’eau** !
 
