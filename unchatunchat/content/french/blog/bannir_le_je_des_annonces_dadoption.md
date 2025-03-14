@@ -18,10 +18,9 @@ Temps de lecture : 3 minutes.
 
 La modalité des annonces d’adoption varie grandement d’une association à l’autre ;
 
+▫️ « Fiches » d’adoption au modèle unique qui comptent une photo, deux ou trois traits de caractères, et les informations médicales et sociales de base (état de santé, entente congénères…),
 
-▫️ « Fiches » d’adoption au modèle unique qui comptent une photo, deux ou trois traits de caractères, et les informations médicales et sociales de base (état de santé, entente congénères…),\
-
-▫️ Description courte et plutôt générique (le chat aime plus ou moins jouer, plus ou moins faire des câlins) accompagné d’une photo,\
+▫️ Description courte et plutôt générique (le chat aime plus ou moins jouer, plus ou moins faire des câlins) accompagné d’une photo,
 
 ▫️ Prédominance de photos avec description plus ou moins longue, …
 
@@ -33,12 +32,10 @@ Pourtant, statistiquement, c’est contre-productif : les adoptant·es déclaren
 Les résultats des recherches publiées sur le sujet révèlent que les annonces **les plus détaillées et rédigées à la troisième personne** garantissent une durée d’accueil plus courte que les annonces formulées à la première personne.\
 La différence dans la durée d’accueil est telle que les chercheur·euses conseillent directement de **ne rédiger que des annonces descriptives à la troisième personne**.[^3]
 
-
 ⚠️ Un texte à la première personne joue la carte du *mignon* et infantilise les adoptant·es en faisant parler un chat qui n’en a pourtant pas la capacité. Symboliquement, cela frôle la déresponsabilisation.[^4] 
 Une annonce d’adoption ne vise pas à promouvoir une réaction émotionnelle impulsive causée par l’attendrissement, mais bien une décision réfléchie qui perdurera toute la vie de l’animal.
 
 Une annonce d’adoption ne peut pas être traitée comme une technique de vente visant l’achat compulsif.[^5] L’espérance de vie du chat domestique étant de vingt ans, elle chute pour ne devenir que **deux à cinq ans pour les chats abandonnés à l'errance**.
-
 
 ✅ Un texte à la troisième personne rétablit le biais anthropocentré de sa narration. Les personnes sérieuses et motivées sont davantage convaincues par des descriptions factuelles et transparentes.[^6]
 
@@ -47,8 +44,6 @@ Le chat a son propre langage, différent de la parole humaine, **et travailler �
 Au travers de la narration de ses annonces d’adoption, une association peut choisir de s’engouffrer dans cette brèche, ou au contraire choisir de lutter contre l’anthropocentrisme et le consumérisme des potentiel·les adoptant·es.
 
 💡 En plus d’être plus pertinente pour réduire le temps d’accueil d’un animal, une description analytique du chat permet de souligner qu’il **a sa personnalité et ses expériences propres**,[^8] rappel essentiel quand l’on sait que de nombreuses personnes pensent connaître *tous les chats* parce qu’elles en ont connu un, niant l’individualité des êtres vivants en dehors de l’espèce humaine.[^9]
-
-
 
  [^1]: Les chats de moins d’un an étant exclus de cette statistique, puisqu’ils sont systématiquement adoptés plus rapidement que les chats adultes ou seniors de type européen, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7823898/" target="_blank">The Effect of Name and Narrative Voice in Online Adoption Profiles on the Length of Stay of Sheltered Cats in the UK</a> 
 
