@@ -39,7 +39,7 @@ Le chat a son propre langage, différent de la parole humaine, **et travailler �
 « Les humains projettent sur le chat \[…] leurs propres pensées. Ils ont des chats non pas pour satisfaire les besoins de l’animal, mais pour assouvir les leurs. »[^6] 
 Au travers de la narration de ses annonces d’adoption, une association peut choisir de s’engouffrer dans cette brèche, ou au contraire choisir de lutter contre l’anthropocentrisme et le consumérisme des potentiel·les adoptant·es.
 
-Une annonce d’adoption ne peut pas être traitée comme une technique de vente visant l’achat compulsif.[^7] L’espérance de vie du chat domestique étant de vingt ans, elle chute pour ne devenir que **deux à cinq ans pour les chats errants**.
+Une annonce d’adoption ne peut pas être traitée comme une technique de vente visant l’achat compulsif.[^7] L’espérance de vie du chat domestique étant de vingt ans, elle chute pour ne devenir que **deux à cinq ans pour les chats abandonnés à l'errance**.
 
 💡 En plus d’être plus pertinente pour réduire le temps d’accueil d’un animal, une description analytique du chat permet de souligner qu’il **a sa personnalité et ses expériences propres**,[^8] rappel essentiel quand l’on sait que de nombreuses personnes pensent connaître *tous les chats* parce qu’elles en ont connu un, niant l’individualité des êtres vivants en dehors de l’espèce humaine.[^9]
 
