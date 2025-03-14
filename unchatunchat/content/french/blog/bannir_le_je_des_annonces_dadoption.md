@@ -53,7 +53,7 @@ Les refuges et associations de protection animale se doivent de ne pas minimiser
 
 [^4]: <a href="https://www.tandfonline.com/doi/abs/10.1080/00909882.2010.536844" target="_blank">Peer to Peer Lending: The Relationship Between Language Features, Trustworthiness, and Persuasion Success</a> 
 
-[^5]: « Motivated people, who are in a position to think carefully about a decision, are more likely to be persuaded by factual, less emotional adverts, while people who are less motivated and less in a position to process a message are more likely to use simple recognition or heuristics to make a judgment », <a href="https://www.researchgate.net/publication/338171318_Putting_your_best_pet_forward_Language_patterns_of_persuasion_in_online_pet_advertisements" target="_blank">Putting your best pet forward: Language patterns of persuasion in online pet advertisements</a> 
+[^5]: *Ibid.* ; « Motivated people, who are in a position to think carefully about a decision, are more likely to be persuaded by factual, less emotional adverts, while people who are less motivated and less in a position to process a message are more likely to use simple recognition or heuristics to make a judgment »
 
 [^6]: Villemus, P. <a href="https://shs.cairn.info/fous-de-chats--9782376874614-page-14?lang=fr." target="_blank">Introduction : pourquoi le chat ? *Fous de chats ! Enquête sur une passion française.*</a> 
 
