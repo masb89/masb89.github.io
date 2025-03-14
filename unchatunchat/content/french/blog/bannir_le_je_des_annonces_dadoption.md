@@ -24,7 +24,6 @@ La modalité des annonces d’adoption varie grandement d’une association à l
 
 Format de l’annonce, nom de l’animal, qualité des photos… En vérité, ces caractéristiques influent peu sur le choix d’adoption et ce que révèle la recherche c’est que c’est en fait **le choix narratif** de l’annonce qui crée le plus grand écart dans la durée d’accueil d’un animal, selon qu’elle soit rédigée à la première ou à la troisième personne du singulier.[^1]
 
-
 Les annonces rédigées à la première personne ont pour objectif d’attendrir les lecteur·ices et provoquer une réaction empathique censée déclencher l’envie d’adopter l’animal. Le vocabulaire familier et le champ lexical de l’attachement ont tendance à y être surreprésentés (« Coucou, moi c’est Simba, je suis un chaton très mignon \[…] et j’aimerais beaucoup que vous m’adoptiez pour que je vous tienne compagnie toute la vie »).\
 Pourtant, statistiquement, c’est contre-productif : les adoptant·es déclarent que **le langage analytique inspire davantage confiance** que des mots humanisants, qui selon eux semblent cacher quelque chose.[^2]
 
@@ -40,7 +39,12 @@ Le chat a son propre langage, différent de la parole humaine, **et travailler �
 « Les humains projettent sur le chat \[…] leurs propres pensées. Ils ont des chats non pas pour satisfaire les besoins de l’animal, mais pour assouvir les leurs. »[^6] 
 Au travers de la narration de ses annonces d’adoption, une association peut choisir de s’engouffrer dans cette brèche, ou au contraire choisir de lutter contre l’anthropocentrisme et le consumérisme des potentiel·les adoptant·es.
 
-💡 Une annonce d’adoption ne peut pas être traitée comme une technique de vente visant l’achat compulsif.[^7]En plus d’être plus pertinente pour réduire le temps d’accueil d’un animal, une description analytique du chat permet de souligner qu’il **a sa personnalité et ses expériences propres**,[^8] rappel essentiel quand l’on sait que de nombreuses personnes pensent connaître *tous les chats* parce qu’elles en ont connu un, niant l’individualité des êtres vivants en dehors de l’espèce humaine.[^9]
+Une annonce d’adoption ne peut pas être traitée comme une technique de vente visant l’achat compulsif.[^7]
+
+
+💡 En plus d’être plus pertinente pour réduire le temps d’accueil d’un animal, une description analytique du chat permet de souligner qu’il **a sa personnalité et ses expériences propres**,[^8] rappel essentiel quand l’on sait que de nombreuses personnes pensent connaître *tous les chats* parce qu’elles en ont connu un, niant l’individualité des êtres vivants en dehors de l’espèce humaine.[^9]
+
+
 L’espérance de vie du chat domestique étant de vingt ans, il chute de deux à cinq ans pour les chats abandonnés et errants.\
 Les refuges et associations de protection animale se doivent de ne pas minimiser l’engagement et les sacrifices que l’adoption comporte au travers de leurs annonces.
 
