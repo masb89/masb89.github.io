@@ -40,9 +40,11 @@ Une annonce d’adoption ne peut pas être traitée comme une technique de vente
 
 Le chat a son propre langage, différent de la parole humaine, **et travailler à la distinction des comportements félins des comportements humains est un choix avisé**, en particulier pour une association de protection animale.\
 « Les humains projettent sur le chat \[…] leurs propres pensées. Ils ont des chats non pas pour satisfaire les besoins de l’animal, mais pour assouvir les leurs. »[^7] 
-Au travers de la narration de ses annonces d’adoption, une association peut choisir de s’engouffrer dans cette brèche, ou au contraire choisir de lutter contre l’anthropocentrisme et le consumérisme des potentiel·les adoptant·es.💡 En plus d’être plus pertinente pour réduire le temps d’accueil d’un animal, une description analytique du chat permet de souligner qu’il **a sa personnalité et ses expériences propres**,[^8] rappel essentiel quand l’on sait que de nombreuses personnes pensent connaître *tous les chats* parce qu’elles en ont connu un, niant l’individualité des êtres vivants en dehors de l’espèce humaine.[^9]
+Au travers de la narration de ses annonces d’adoption, une association peut choisir de s’engouffrer dans cette brèche, ou au contraire choisir de lutter contre l’anthropocentrisme et le consumérisme des potentiel·les adoptant·es.
 
-Les refuges et associations de protection animale se doivent de ne pas minimiser l’engagement et les sacrifices que l’adoption comporte au travers de leurs annonces.
+💡 En plus d’être plus pertinente pour réduire le temps d’accueil d’un animal, une description analytique du chat permet de souligner qu’il **a sa personnalité et ses expériences propres**,[^8] rappel essentiel quand l’on sait que de nombreuses personnes pensent connaître *tous les chats* parce qu’elles en ont connu un, niant l’individualité des êtres vivants en dehors de l’espèce humaine.[^9]
+
+
 
  [^1]: Les chats de moins d’un an étant exclus de cette statistique, puisqu’ils sont systématiquement adoptés plus rapidement que les chats adultes ou seniors de type européen, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7823898/" target="_blank">The Effect of Name and Narrative Voice in Online Adoption Profiles on the Length of Stay of Sheltered Cats in the UK</a> 
 
