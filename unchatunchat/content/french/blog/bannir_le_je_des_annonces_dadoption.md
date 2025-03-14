@@ -30,15 +30,17 @@ Format de l’annonce, nom de l’animal, qualité des photos… En vérité, ce
 Les annonces rédigées à la première personne ont pour objectif d’attendrir les lecteur·ices et provoquer une réaction empathique censée déclencher l’envie d’adopter l’animal. Le vocabulaire familier et le champ lexical de l’attachement ont tendance à y être surreprésentés (« Coucou, moi c’est Simba, je suis un chaton très mignon \[…] et j’aimerais beaucoup que vous m’adoptiez pour que je vous tienne compagnie toute la vie »).\
 Pourtant, statistiquement, c’est contre-productif : les adoptant·es déclarent que **le langage analytique inspire davantage confiance** que des mots humanisants, qui selon eux semblent cacher quelque chose.[^2]
 
-✅ Les résultats des recherches publiées sur le sujet révèlent que les annonces **les plus détaillées et rédigées à la troisième personne** garantissent une durée d’accueil plus courte que les annonces formulées à la première personne.\
+Les résultats des recherches publiées sur le sujet révèlent que les annonces **les plus détaillées et rédigées à la troisième personne** garantissent une durée d’accueil plus courte que les annonces formulées à la première personne.\
 La différence dans la durée d’accueil est telle que les chercheur·euses conseillent directement de **ne rédiger que des annonces descriptives à la troisième personne**.[^3]
 
-➡️ Un texte à la première personne joue la carte du *mignon* et infantilise les adoptant·es en faisant parler un chat qui n’en a pourtant pas la capacité. Symboliquement, cela frôle la déresponsabilisation.[^4] 
+
+⚠️ Un texte à la première personne joue la carte du *mignon* et infantilise les adoptant·es en faisant parler un chat qui n’en a pourtant pas la capacité. Symboliquement, cela frôle la déresponsabilisation.[^4] 
 Une annonce d’adoption ne vise pas à promouvoir une réaction émotionnelle impulsive causée par l’attendrissement, mais bien une décision réfléchie qui perdurera toute la vie de l’animal.
 
 Une annonce d’adoption ne peut pas être traitée comme une technique de vente visant l’achat compulsif.[^5] L’espérance de vie du chat domestique étant de vingt ans, elle chute pour ne devenir que **deux à cinq ans pour les chats abandonnés à l'errance**.
 
-➡️ Un texte à la troisième personne rétablit le biais anthropocentré de sa narration. Les personnes sérieuses et motivées sont davantage convaincues par des descriptions factuelles et transparentes.[^6]
+
+✅ Un texte à la troisième personne rétablit le biais anthropocentré de sa narration. Les personnes sérieuses et motivées sont davantage convaincues par des descriptions factuelles et transparentes.[^6]
 
 Le chat a son propre langage, différent de la parole humaine, **et travailler à la distinction des comportements félins des comportements humains est un choix avisé**, en particulier pour une association de protection animale.\
 « Les humains projettent sur le chat \[…] leurs propres pensées. Ils ont des chats non pas pour satisfaire les besoins de l’animal, mais pour assouvir les leurs. »[^7] 
