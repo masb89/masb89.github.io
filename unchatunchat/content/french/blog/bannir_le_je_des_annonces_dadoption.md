@@ -47,7 +47,7 @@ Au travers de la narration de ses annonces d’adoption, une association peut ch
 
  [^1]: Les chats de moins d’un an étant exclus de cette statistique, puisqu’ils sont systématiquement adoptés plus rapidement que les chats adultes ou seniors de type européen, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7823898/" target="_blank">The Effect of Name and Narrative Voice in Online Adoption Profiles on the Length of Stay of Sheltered Cats in the UK</a> 
 
-[^2]: *Humanizing details – stating the pet is a “sweetheart” and will be a lifelong “companion” – might signal that the agency is hiding vital health details about the pet*, <a href="https://news.uoregon.edu/content/writing-better-pet-adoption-ads-could-prevent-euthanasia" target="_blank">Writing better pet adoption ads could prevent euthanasia</a> 
+[^2]: « Humanizing details – stating the pet is a “sweetheart” and will be a lifelong “companion” – might signal that the agency is hiding vital health details about the pet », <a href="https://news.uoregon.edu/content/writing-better-pet-adoption-ads-could-prevent-euthanasia" target="_blank">Writing better pet adoption ads could prevent euthanasia</a> 
 
 [^3]: *Ibid.* ; « Shelters should consider writing adoption descriptions in the third person to minimise LOS » 
 
