@@ -42,20 +42,20 @@ Au travers de la narration de ses annonces d’adoption, une association peut ch
 L’espérance de vie du chat domestique étant de vingt ans, il chute de deux à cinq ans pour les chats abandonnés et errants.  
 Les refuges et associations de protection animale se doivent de ne pas minimiser l’engagement et les sacrifices que l’adoption comporte au travers de leurs annonces.
 
-[^1] Les chats de moins d’un an étant exclus de cette statistique, puisqu’ils sont systématiquement adoptés plus rapidement que les chats adultes ou seniors de type européen, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7823898/" target="_blank">The Effect of Name and Narrative Voice in Online Adoption Profiles on the Length of Stay of Sheltered Cats in the UK</a> 
+[^1]: Les chats de moins d’un an étant exclus de cette statistique, puisqu’ils sont systématiquement adoptés plus rapidement que les chats adultes ou seniors de type européen, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7823898/" target="_blank">The Effect of Name and Narrative Voice in Online Adoption Profiles on the Length of Stay of Sheltered Cats in the UK</a> 
 
-[^2] _Humanizing details – stating the pet is a “sweetheart” and will be a lifelong “companion” – might signal that the agency is hiding vital health details about the pet_, <a href="https://news.uoregon.edu/content/writing-better-pet-adoption-ads-could-prevent-euthanasia" target="_blank">Writing better pet adoption ads could prevent euthanasia</a> 
+[^2]: _Humanizing details – stating the pet is a “sweetheart” and will be a lifelong “companion” – might signal that the agency is hiding vital health details about the pet_, <a href="https://news.uoregon.edu/content/writing-better-pet-adoption-ads-could-prevent-euthanasia" target="_blank">Writing better pet adoption ads could prevent euthanasia</a> 
 
-[^3] _Ibid._ ; « Shelters should consider writing adoption descriptions in the third person to minimise LOS » 
+[^3]: _Ibid._ ; « Shelters should consider writing adoption descriptions in the third person to minimise LOS » 
 
-[^4] <a href="https://www.tandfonline.com/doi/abs/10.1080/00909882.2010.536844" target="_blank">Peer to Peer Lending: The Relationship Between Language Features, Trustworthiness, and Persuasion Success</a> 
+[^4]: <a href="https://www.tandfonline.com/doi/abs/10.1080/00909882.2010.536844" target="_blank">Peer to Peer Lending: The Relationship Between Language Features, Trustworthiness, and Persuasion Success</a> 
 
-[^5] _Ibid._ ; « Motivated people, who are in a position to think carefully about a decision, are more likely to be persuaded by factual, less emotional adverts, while people who are less motivated and less in a position to process a message are more likely to use simple recognition or heuristics to make a judgment », <a href="https://www.researchgate.net/publication/338171318_Putting_your_best_pet_forward_Language_patterns_of_persuasion_in_online_pet_advertisements" target="_blank">Putting your best pet forward: Language patterns of persuasion in online pet advertisements</a> 
+[^5]: _Ibid._ ; « Motivated people, who are in a position to think carefully about a decision, are more likely to be persuaded by factual, less emotional adverts, while people who are less motivated and less in a position to process a message are more likely to use simple recognition or heuristics to make a judgment », <a href="https://www.researchgate.net/publication/338171318_Putting_your_best_pet_forward_Language_patterns_of_persuasion_in_online_pet_advertisements" target="_blank">Putting your best pet forward: Language patterns of persuasion in online pet advertisements</a> 
 
-[^6] Villemus, P. <a href="https://shs.cairn.info/fous-de-chats--9782376874614-page-14?lang=fr." target="_blank">Introduction : pourquoi le chat ? _Fous de chats ! Enquête sur une passion française._</a> 
+[^6]: Villemus, P. <a href="https://shs.cairn.info/fous-de-chats--9782376874614-page-14?lang=fr." target="_blank">Introduction : pourquoi le chat ? _Fous de chats ! Enquête sur une passion française._</a> 
 
-[^7] La loi a instauré un délai de réflexion de 7 jours avant l’adoption de tout animal pour prévenir les adoptions compulsives. Cependant elle peut être contournée, notamment dans le cas des refuges, en antédatant un certificat d’engagement imprimé. 
+[^7]: La loi a instauré un délai de réflexion de 7 jours avant l’adoption de tout animal pour prévenir les adoptions compulsives. Cependant elle peut être contournée, notamment dans le cas des refuges, en antédatant un certificat d’engagement imprimé. 
 
-[^8] Détails qui renforcent la probabilité d’une adoption rapide. _Ibid._ ; « Detailing objective descriptions about an animal’s actions and experiences, corresponded to a shorter LOS » 
+[^8]: Détails qui renforcent la probabilité d’une adoption rapide. _Ibid._ ; « Detailing objective descriptions about an animal’s actions and experiences, corresponded to a shorter LOS » 
 
-[^9] Kaoutar Harchi, _Ainsi l’animal et nous_. 
+[^9]: Kaoutar Harchi, _Ainsi l’animal et nous_. 
