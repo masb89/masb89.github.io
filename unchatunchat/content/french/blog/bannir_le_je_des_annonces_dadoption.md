@@ -18,9 +18,14 @@ Temps de lecture : 3 minutes.
 
 La modalité des annonces d’adoption varie grandement d’une association à l’autre ;
 
-* « Fiches » d’adoption au modèle unique qui comptent une photo, deux ou trois traits de caractères, et les informations médicales et sociales de base (état de santé, entente congénères…),
-* Description courte et plutôt générique (le chat aime plus ou moins jouer, plus ou moins faire des câlins) accompagné d’une photo,
-* Prédominance de photos avec description plus ou moins longue, …
+
+▫️ « Fiches » d’adoption au modèle unique qui comptent une photo, deux ou trois traits de caractères, et les informations médicales et sociales de base (état de santé, entente congénères…),
+
+
+▫️ Description courte et plutôt générique (le chat aime plus ou moins jouer, plus ou moins faire des câlins) accompagné d’une photo,
+
+
+▫️ Prédominance de photos avec description plus ou moins longue, …
 
 Format de l’annonce, nom de l’animal, qualité des photos… En vérité, ces caractéristiques influent peu sur le choix d’adoption et ce que révèle la recherche c’est que c’est en fait **le choix narratif** de l’annonce qui crée le plus grand écart dans la durée d’accueil d’un animal, selon qu’elle soit rédigée à la première ou à la troisième personne du singulier.[^1]
 
