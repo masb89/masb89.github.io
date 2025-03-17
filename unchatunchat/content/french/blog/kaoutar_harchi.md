@@ -1,12 +1,12 @@
 ---
-title: "Ainsi l'animal et nous"
+title: Ainsi l'animal et nous
 author: Un chat un chat
 bg_image: images/bandeau_blog.png
 image: images/blog_kaoutarharchi.png
 type: post
 date: 2025-03-16T13:00:00.000Z
 draft: false
-categories: 
+categories: null
 tags:
   - Animaux
   - Végétarisme
@@ -41,7 +41,7 @@ En bref, Harchi révèle comment la domination de l'Homme face à l'animal est l
 
 >  _La domination de l’humain sur l’animal n’est en rien une domination close sur elle-même mais, bien au contraire, une domination ouverte, qui ouvre sur une autre : la domination des humains sur d’autres humains._ 
 
-_Ainsi l’animal et nous_ est une lecture profondément marquante et nécessaire. Nous vous invitons à lire l’essai (disponible en bibliothèques, librairies ou sur chez-mon-libraire.fr[^8]), et souhaitons mettre au jour cette statistique aberrante : **chaque jour,** **_200 animaux par habitant_ sont tués** pour leur viande qui de toute évidence, ne sera même pas consommée ;
+_Ainsi l’animal et nous_ est une lecture profondément marquante et nécessaire. Nous vous invitons à lire l’essai (disponible en bibliothèques, librairies ou sur chez-mon-libraire.fr[^8]), et souhaitons mettre au jour cette statistique aberrante : **chaque jour,** **_4 milliards d'animaux_ sont tués** pour leur viande, qui ne sera peut-être même pas consommée ;
 
 >  _Chaque année, soixante-dix milliards de poulets, cinquante milliards de poissons, trois milliards de canards, six cents millions de lapins, un milliard de cochons, sept cents millions de dindes, huit cents millions de dindes, huit cents millions d’oies, six cents millions de moutons, cinq cents millions de chèvres, trois cents millions de vaches, trente millions de buffles, cinq millions de chevaux, deux cent cinquante milliards de crustacés sont élevés et abattus. Cela représente_ _quatre milliards d’animaux tués chaque jour. Ou encore deux cents animaux tués par habitant._ 
 
