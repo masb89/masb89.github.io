@@ -10,7 +10,7 @@ categories:
 tags:
   - Animaux
   - Végétarisme
-  - Specisme
+  - Spécisme
 description: this is meta description
 ---
 
