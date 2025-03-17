@@ -2,7 +2,7 @@
 title: "Ainsi l'animal et nous"
 author: Un chat un chat
 bg_image: images/bandeau_blog.png
-image: images/blog_kaouarharchi.png
+image: images/blog_kaoutarharchi.png
 type: post
 date: 2025-03-16T13:00:00.000Z
 draft: false
@@ -18,9 +18,9 @@ Temps de lecture : 4 minutes.
 
 >  _Nous sommes_ naturellement _portés à croire que les animaux ne sont_ que_. Ils ne seraient qu’un poisson, qu’un pigeon, qu’un mouton. Que serait à comprendre au sens de : ils sont intrinsèquement différents, et si différents qu’ils nous sont indéniablement_ inférieurs_, et si inférieurs que nous pouvons légitimement penser et faire d’eux des choses sans nous préoccuper de ce que cela leur fait et, en retour, de ce que cela finit par nous faire et par faire à la Terre que, tous et toutes, nous habitons._
 
-_Ce discours et cette pratique, constitutifs d’un ensemble de représentations et de pratiques intériorisées au gré de nos expériences, sont le produit ancien, complexe et continûment actualisé d’un monde occidental qui fonda sa raison –la_ raison moderne_–sur le socle du dualisme culture/nature, entraînant dans son sillage l’opposition généralisée humain/animal._
+> _Ce discours et cette pratique, constitutifs d’un ensemble de représentations et de pratiques intériorisées au gré de nos expériences, sont le produit ancien, complexe et continûment actualisé d’un monde occidental qui fonda sa raison –la_ raison moderne_–sur le socle du dualisme culture/nature, entraînant dans son sillage l’opposition généralisée humain/animal._
 
-Nous _serions, alors, la culture humaine parce qu’ils seraient la nature animale._ 
+> Nous _serions, alors, la culture humaine parce qu’ils seraient la nature animale._ 
 
 Kaoutar Harchi est une sociologue et écrivaine française de 37 ans. Dans cet essai[^1], elle « analyse les rapports de domination entre humains et montre comment l’opération de hiérarchisation des espèces finit toujours par avoir des conséquences dramatiques »[^2].
 
