@@ -12,7 +12,6 @@ tags:
   - Nouvelles
   - adoptés
 ---
-
 La portée des chatons de Suki que nous avons pris en charge au printemps 2024 fête son premier anniversaire cette semaine ! 🎂
 
 On profite de cette occasion pour vous donner de leurs nouvelles, que leurs adoptant·es nous ont gentiment partagées.
