@@ -4,7 +4,7 @@
     {{- if not (eq (len site.Taxonomies.categories) 0) }}
     <ul class="widget-category-list">
       {{- range $name, $items := site.Taxonomies.categories }}
-      <li><a href="{{ `categories/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name }}</a></li>
+      <li><a href="{{ `categories/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | humanize }}</a></li>
       {{- end }}
     </ul>
     {{- end }}
