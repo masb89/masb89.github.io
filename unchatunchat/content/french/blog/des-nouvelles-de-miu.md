@@ -7,7 +7,7 @@ type: post
 date: 2025-03-29T11:00:00.000Z
 draft: false
 categories:
-  - Des nouvelles de
+  - des nouvelles d'eux
 tags:
   - nouvelles
   - adoptés
