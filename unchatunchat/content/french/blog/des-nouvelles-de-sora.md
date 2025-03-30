@@ -1,18 +1,18 @@
 ---
 title: Des nouvelles de Sora
 author: Un chat un chat
-bg_image: bandeau_blog.png
+bg_image: images/bandeau_blog.png
 image: /images/nouvelles_sora.png
 type: post
 date: 2025-03-27T11:00:00.000Z
 draft: false
 categories:
-  - Nouvelles
+  - Des nouvelles de
 tags:
   - Nouvelles
   - adoptés
 ---
-La portée des chatons de Suki que nous avons pris en charge au printemps 2024 fête son premier anniversaire cette semaine ! 🎂\
+La portée des chatons de Suki que nous avons pris en charge au printemps 2024 fête son premier anniversaire cette semaine ! 🎂\\
 On profite de cette occasion pour vous donner de leurs nouvelles, que leurs adoptant·es nous ont gentiment partagées.
 
 💌 

@@ -12,7 +12,7 @@ collections:
     fields: 
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Author", name: "author", widget: "string", default: "Un chat un chat" }
-      - { label: "BG image", name: "bg_image", widget: "image", default: "bandeau_blog.png"}
+      - { label: "BG image", name: "bg_image", widget: "image", default: "images/bandeau_blog.png"}
       - { label: "Featured Image", name: "image", widget: "image" }
       - { type: "Type", name: "type", widget: "string", default: "post" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
