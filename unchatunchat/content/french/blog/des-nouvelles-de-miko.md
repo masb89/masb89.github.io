@@ -19,7 +19,7 @@ On profite de cette occasion pour vous donner de leurs nouvelles, que leurs adop
 
 Adoptée à ses sept mois en novembre 2024, voici l’évolution de Miko devenue (encore plus !) grande 🥹
 
-Renommée Zola, elle a trouvé une famille avec deux fillettes humaines qui l’impressionnaient beaucoup lors de leur visite d’adoption. Elle a mis un peu de temps à être confiance avec ces drôles de petits humains, et est toujours un peu moins à l’aise avec leurs caresses qu’avec celles des adultes 🐣
+Renommée Zola, elle a trouvé une famille avec deux fillettes humaines qui l’impressionnaient beaucoup lors de leur visite d’adoption. Elle a mis un peu de temps à être confiance avec ces drôles de petites humaines, et est toujours un peu moins à l’aise avec leurs caresses qu’avec celles des adultes 🐣
 
 Zola est cependant bonne patte et accepte de jouer aux cartes avec des copines poupées comme vous pouvez le constater 🥲
 Cela dit, ce n’est qu’à la condition qu’une fois les petites humaines couchées ce soit enfin à \*son tour\* de jouer : son habitude de jouer à la balle ne l’a jamais quittée ! Elle attendra devant la porte de la chambre avec sa
