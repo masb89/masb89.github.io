@@ -27,6 +27,6 @@ balle s’il le faut 🫡 Et de la même façon qu’avant, elle la ramènera au
 
 💌
 
-Vous savez tout de l’évolution de nos petits poussins du printemps 2024 🌸
+Miko clôture les nouvelles de l’évolution de nos petits poussins du printemps 2024 🌸
 
 🐾
