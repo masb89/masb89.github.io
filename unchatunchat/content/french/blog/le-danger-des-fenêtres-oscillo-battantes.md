@@ -26,4 +26,4 @@ En plus de ne pas protéger d’une chute d’immeuble, l’oscillo-battant peut
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-Crédits photos : Wamiz, Adopte 1 chat, Chats Angevins, Chats libres de Nîmes.
+Crédits photos : Wamiz, Adopte 1 chat, Chats angevins, Chats libres de Nîmes.
