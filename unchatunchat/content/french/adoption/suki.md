@@ -28,7 +28,7 @@ Nous cherchons pour elle un foyer calme, sans enfants. Elle aura besoin de patie
 
 Un jardin peut être un plus pour son épanouissement, mais n’est pas requis –elle ne montre aucun signe que l’extérieur lui manque.
 
-_*_*__*_*__*_*__
+\---
 
 Pas ok enfants
 
@@ -44,6 +44,6 @@ Pas ok enfants
 
 Frais d’adoption de 220€
 
-_*_*__*_*__*_*__
+\---
 
 Intéressé·e par Suki ? Une seule façon de faire une demande d’adoption ; merci de remplir ce formulaire en ligne : https://forms.gle/UHTLWyNhD45S8At76
