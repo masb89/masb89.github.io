@@ -1,5 +1,5 @@
 ---
-title: "Défaire les noeuds : cherche chaton désespérément"
+title: "Défaire les nœuds : cherche chaton désespérément"
 author: Un chat un chat
 bg_image: images/bandeau_blog.png
 image: /images/cherche_chaton.png
