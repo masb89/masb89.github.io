@@ -14,9 +14,7 @@ tags:
 ---
 Temps de lecture : 7 minutes.
 
-
 Dès l’arrivée du printemps, les associations de protection animale redoutent ce que l’on appelle « la saison des chatons ». Si vous n’en avez jamais entendu parler, nous vous invitons à suivre les réseaux sociaux des associations de protection animale proches de chez vous[^1] ; vous réaliserez vite ce que cela signifie. Portées de chatons abandonnées dans des poubelles de parking, dans des cartons devant des entreprises, mères non identifiées retrouvées avec leurs chatons au bord de la route, chatons pris en charge parce que des enfants ont joué avec –laissant leur odeur remplacer celle de la mère qui du coup les délaissera certainement… Les demandes de prise en charge sont quotidiennes et les histoires tragiques ne manquent pas.
-
 
 Mais alors, pourquoi vous ne trouvez pas de chaton à adopter ? 🤔
 
@@ -33,8 +31,7 @@ Les premiers chatons sevrés sont donc adoptables au début du mois de juin ☀�
 Début juin, juste avant les congés d’été, ce n’est pas aussi pratique que « maintenant » comme vous le souhaitiez ? Au mois de septembre de nouveaux chatons seront adoptables… Patientez quelques mois, ou bien peut-être est-ce l’occasion d’adopter un jeune adulte plutôt qu’un chaton ? 💕
 
 🔹 Tous les chatons ne sont pas substituables ! Certains sont craintifs, d’autres sociables, certains
-sont câlins, d’autres indépendants, certains sont très dynamiques et aventuriers, d’autres sont observateurs et calmes, et \*tous\* peuvent complètement changer en devenant adulte ! 
-
+sont câlins, d’autres indépendants, certains sont très dynamiques et aventuriers, d’autres sont observateurs et calmes, et \*tous\* peuvent complètement changer en devenant adulte ! \
 Si vous n’êtes pas ouvert·e·s à l’idée que le petit chaton calme qui vous a fait craquer puisse devenir un adulte hyperactif ou inversement, c’est encore une fois l’occasion d’envisager l’adoption d’un adulte dont le caractère est déjà formé et prévisible 💚
 
 🔹 Certaines personnes demandent spécifiquement un mâle ou une femelle ; sachez qu’un chaton
