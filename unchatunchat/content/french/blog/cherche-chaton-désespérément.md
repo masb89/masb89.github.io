@@ -13,7 +13,7 @@ tags:
 ---
 Temps de lecture : 7 minutes.
 
-Dès l’arrivée du printemps, les associations de protection animale redoutent ce que l’on appelle « la saison des chatons ». Si vous n’en avez jamais entendu parler, nous vous invitons à suivre les réseaux sociaux des associations de protection animale proches de chez vous (vous pouvez les trouver grâce à la plateforme d’adoption Seconde Chance) ; vous réaliserez vite ce que cela signifie. Portées de chatons abandonnées dans des poubelles de parking, dans des cartons devant des entreprises, mères non identifiées retrouvées avec leurs chatons au bord de la route, chatons pris en charge parce que des enfants ont joué avec –laissant leur odeur remplacer celle de la mère qui du coup les délaissera certainement… 
+Dès l’arrivée du printemps, les associations de protection animale redoutent ce que l’on appelle « la saison des chatons ». Si vous n’en avez jamais entendu parler, nous vous invitons à suivre les réseaux sociaux des associations de protection animale proches de chez vous[^1] ; vous réaliserez vite ce que cela signifie. Portées de chatons abandonnées dans des poubelles de parking, dans des cartons devant des entreprises, mères non identifiées retrouvées avec leurs chatons au bord de la route, chatons pris en charge parce que des enfants ont joué avec –laissant leur odeur remplacer celle de la mère qui du coup les délaissera certainement… 
 Les histoires tragiques sont presque quotidiennes.
 
 Depuis notre création, nous avons reçu plusieurs dizaines de messages de personnes « à la recherche d’un chaton ». 
@@ -42,5 +42,10 @@ l’adoptez bébé ; patienter quelques mois de plus avant de trouver votre comp
 
 ⚠️ Si vous adoptez bien un chaton, faites-le stériliser dès ses 6 mois 📅 Pour sa santé (protection contre les maladies hormono-dépendantes etc.) mais aussi pour le bien-être de l’espèce, pour lutter contre la surpopulation féline et la misère animale qui sévissent en France et puis par solidarité humaine envers les bénévoles qui œuvrent pour la cause animale 🫸💚🫷
 
-Et quoiqu’il arrive, adoptez responsable 🙏 Boycottez les particuliers, dirigez-vous vers une association ou un refuge ! À ce sujet on vous invite de nouveau à lire l’article « Bon coin, mauvais plan ? » de la comportementaliste
-Leslie Palant que nous avons partagé hier et qui se trouve dans la publication précédente.
+Et quoiqu’il arrive, adoptez responsable 🙏 Boycottez les particuliers [^2], dirigez-vous vers une association ou un refuge pour trouver votre futur compagnon 🐾
+
+[^1]: Vous pouvez trouver les associations de protection animales proches de chez vous grâce <a href="https://www.secondechance.org/refuge/recherche" target="_blank">
+à la plateforme d'adoption responsable Seconde Chance</a> par exemple.
+
+[^2]: À ce sujet, la comportementaliste Leslie Palant à publié un article très intéressant sur son site, que l'on vous recommande ; <a href="https://www.lesliepalant.com/post/bon-coin-mauvais-plan" target="_blank">
+« Bon coin, mauvais plan ? »</a>
