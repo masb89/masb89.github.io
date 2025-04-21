@@ -38,7 +38,7 @@ Si vous n’êtes pas ouvert·e·s à l’idée que le petit chaton calme qui vo
 🔹 Certaines personnes demandent spécifiquement un mâle ou une femelle ; sachez qu’un chaton
 stérilisé dès ses 6 mois ne présentera aucune différence de comportement liée à son sexe. Les stéréotypes ont la vie dure, mais tous les tempéraments existent chez les mâles comme chez les femelles. 
 
-➡️ Si vous tenez à adopter un chaton sachez donc qu’entre novembre et mai-juin ce n’est tout bonnement pas la saison. Un projet d’adoption peut prendre du temps. Votre chat partagera vingt ans de votre vie si vous
+➡️ Si vous tenez à adopter un chaton sachez donc qu’entre janvier et juin ce n’est tout bonnement pas la saison. Un projet d’adoption peut prendre du temps. Votre chat partagera vingt ans de votre vie si vous
 l’adoptez bébé ; patienter quelques mois de plus avant de trouver votre compagnon n’est pas insensé ⏳ 
 
 ⚠️ Si vous adoptez bien un chaton, faites-le stériliser dès ses 6 mois 📅 Pour sa santé (protection contre les maladies hormono-dépendantes etc.) mais aussi pour le bien-être de l’espèce, pour lutter contre la surpopulation féline et la misère animale qui sévissent en France et puis par solidarité humaine envers les bénévoles qui œuvrent pour la cause animale 🫸💚🫷
@@ -48,5 +48,5 @@ Et quoiqu’il arrive, adoptez responsable 🙏 Boycottez les particuliers[^2],
 [^1]: Vous pouvez trouver les associations de protection animales proches de chez vous grâce <a href="https://www.secondechance.org/refuge/recherche" target="_blank">
 à la plateforme d'adoption responsable Seconde Chance</a> par exemple.
 
-[^2]: À ce sujet, la comportementaliste Leslie Palant à publié un article très intéressant sur son site, que l'on vous recommande ; <a href="https://www.lesliepalant.com/post/bon-coin-mauvais-plan" target="_blank">
+[^2]: À ce sujet, la comportementaliste Leslie Palant a publié un article très intéressant sur son site, que l'on vous recommande ; <a href="https://www.lesliepalant.com/post/bon-coin-mauvais-plan" target="_blank">
 « Bon coin, mauvais plan ? »</a>
