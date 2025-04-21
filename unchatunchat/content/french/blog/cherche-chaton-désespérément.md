@@ -43,7 +43,7 @@ l’adoptez bébé ; patienter quelques mois de plus avant de trouver votre comp
 
 ⚠️ Si vous adoptez bien un chaton, faites-le stériliser dès ses 6 mois 📅 Pour sa santé (protection contre les maladies hormono-dépendantes etc.) mais aussi pour le bien-être de l’espèce, pour lutter contre la surpopulation féline et la misère animale qui sévissent en France et puis par solidarité humaine envers les bénévoles qui œuvrent pour la cause animale 🫸💚🫷
 
-Et quoiqu’il arrive, adoptez responsable 🙏 Boycottez les particuliers [^2], dirigez-vous vers une association ou un refuge pour trouver votre futur compagnon 🐾
+Et quoiqu’il arrive, adoptez responsable 🙏 Boycottez les particuliers[^2], dirigez-vous vers une association ou un refuge pour trouver votre futur compagnon 🐾
 
 [^1]: Vous pouvez trouver les associations de protection animales proches de chez vous grâce <a href="https://www.secondechance.org/refuge/recherche" target="_blank">
 à la plateforme d'adoption responsable Seconde Chance</a> par exemple.
