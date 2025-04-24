@@ -23,7 +23,3 @@ En plus de ne pas protéger d’une chute d’immeuble, l’oscillo-battant peut
 ✅ Des grilles de sécurité spécifiques aux fenêtres oscillo-battantes ou des plateformes qui se calent dans l’interstice existent et se trouvent facilement en ligne ou en animaleries. 
 
 ➡️ Protégez votre chat, ne laissez jamais une fenêtre ouverte non sécurisée accessible !
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-Crédits photos : Wamiz, Chats angevins.
