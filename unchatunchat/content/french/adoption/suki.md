@@ -2,9 +2,9 @@
 title: Suki
 description: En savoir plus sur Suki
 bg_image: images/siteinternetbandeau.png
-image: images/SUKI_ADOPTION.png
-weight: 2
-adopted: false
+image: images/suki_adoptes.png
+weight: 9993
+adopted: true
 draft: false
 gone: false
 ---
