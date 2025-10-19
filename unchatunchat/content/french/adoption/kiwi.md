@@ -3,7 +3,7 @@ title: Kiwi
 description: En savoir plus sur Kiwi
 bg_image: images/siteinternetbandeau.png
 image: images/kiwi_adoptes.png
-weight: 9990
+weight: 9988
 adopted: true
 draft: false
 gone: false

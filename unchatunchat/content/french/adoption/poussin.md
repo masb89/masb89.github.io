@@ -2,9 +2,9 @@
 title: Poussin
 description: En savoir plus sur Poussin
 bg_image: images/siteinternetbandeau.png
-image: images/poussin_adoption.png
-weight: 9991
-adopted: false
+image: images/poussin_adoptes.png
+weight: 9987
+adopted: true
 draft: false
 gone: false
 ---

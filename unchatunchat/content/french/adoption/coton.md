@@ -2,9 +2,9 @@
 title: Coton
 description: En savoir plus sur Coton
 bg_image: images/siteinternetbandeau.png
-image: images/coton_adoption.png
-weight: 9992
-adopted: false
+image: images/coton_adoptes.png
+weight: 9986
+adopted: true
 draft: false
 gone: false
 ---
