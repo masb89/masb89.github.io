@@ -9,7 +9,7 @@ draft: false
 categories:
   - Défaire les nœuds
 tags:
-  - Anti-spécisme
+  - Antispécisme
 description: this is meta description
 ---
 
