@@ -16,10 +16,8 @@ clinique vétérinaire partenaire et son équipe dévouée sans qui l’aventure
 
 Nous vous souhaitons une très belle année 2026 à tou·s·tes ✨ Et n’oubliez pas ; adoptez, n’achetez pas ! 🐾\
 
-📌 Lire notre article sur les croquettes 
+📌 Lire notre <a href="https://unchatunchat.fr/blog/defaire_les_noeuds_documentaire/" target="_blank">article sur les croquettes</a> 
 
+📌 Lire notre <a href="https://unchatunchat.fr/blog/defaire_les_noeuds_chats_et_hydratation/" target="_blank">article sur l'hydratation des chats</a> 
 
-📌 Lire notre article sur l'hydratation des chats 
-
-
-📌 Lire notre article sur l'anti-spécisme
+📌 Lire notre <a href="https://unchatunchat.fr/blog/kaoutar_harchi/" target="_blank">article sur l'anti-spécisme</a>
