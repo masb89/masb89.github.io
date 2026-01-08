@@ -9,8 +9,6 @@ draft: false
 categories:
   - Défaire les nœuds
 tags:
-  - Santé
-  - Alimentation
   - Croquettes
   - Enquête
 description: this is meta description
