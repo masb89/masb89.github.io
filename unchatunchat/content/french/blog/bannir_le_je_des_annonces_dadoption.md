@@ -10,8 +10,6 @@ categories:
   - Défaire les nœuds
 tags:
   - Adoption
-  - Association
-  - Chats
 description: this is meta description
 ---
 Temps de lecture : 3 minutes.
