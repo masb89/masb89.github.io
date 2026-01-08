@@ -8,9 +8,7 @@ date: 2025-03-16T13:00:00.000Z
 draft: false
 categories: null
 tags:
-  - Animaux
-  - Végétarisme
-  - Spécisme
+  - Anti-spécisme
 description: this is meta description
 ---
 
