@@ -14,4 +14,12 @@ janvier 2026.
 Nous tenons à remercier chaleureusement toutes les femmes bénévoles qui nous ont permis de prendre en charge nos protégé·e·s, toutes nos familles adoptantes idéales pour nos potichats, et bien évidemment notre
 clinique vétérinaire partenaire et son équipe dévouée sans qui l’aventure n’aurait pas été possible 🫶🏻
 
-Nous vous souhaitons une très belle année 2026 à tou·s·tes ✨ Et n’oubliez pas ; adoptez, n’achetez pas ! 🐾
+Nous vous souhaitons une très belle année 2026 à tou·s·tes ✨ Et n’oubliez pas ; adoptez, n’achetez pas ! 🐾\
+
+📌 Lire notre article sur les croquettes 
+
+
+📌 Lire notre article sur l'hydratation des chats 
+
+
+📌 Lire notre article sur l'anti-spécisme
