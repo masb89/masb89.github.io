@@ -10,9 +10,7 @@ categories:
   - Défaire les nœuds
 tags:
   - Hydratation
-  - Alimentation
   - Croquettes
-  - Santé
 description: this is meta description
 ---
 *Temps de lecture : 5 minutes.*
