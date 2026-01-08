@@ -9,9 +9,7 @@ draft: false
 categories:
   - Défaire les nœuds
 tags:
-  - adoption
-  - chaton
-  - sevrage
+  - Adoption
 ---
 Temps de lecture : 7 minutes.
 
