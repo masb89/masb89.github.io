@@ -8,9 +8,7 @@ date: 2025-03-28T11:00:00.000Z
 draft: false
 categories:
   - Nouvelles de nos adoptés
-tags:
-  - nouvelles
-  - adoptés
+tags: []
 ---
 La portée des chatons de Suki que nous avons pris en charge au printemps 2024 fête son premier anniversaire cette semaine ! 🎂  <br>
 On profite de cette occasion pour vous donner de leurs nouvelles, que leurs adoptant·es nous ont gentiment partagées.
