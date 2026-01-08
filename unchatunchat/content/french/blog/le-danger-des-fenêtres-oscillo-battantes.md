@@ -6,9 +6,7 @@ image: /images/chat_dangerfenetres.png
 type: post
 date: 2025-04-07T13:59:00.000Z
 draft: false
-tags:
-  - danger
-  - fenêtres
+tags: []
 ---
 L’arrivée du printemps et la hausse des températures en ville rime systématiquement avec l’augmentation des blessures –voire décès– de chats liés aux chutes depuis fenêtres et balcons.
 
